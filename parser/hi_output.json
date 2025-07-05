@@ -1,0 +1,2610 @@
+[
+  {
+    "id": 1,
+    "question": "Milyen előkészületeket kell tenni, kikötés előtt?",
+    "correct": "Kihelyezni az ütköző ballonokat, előkészíteni a kikötő köteleket.",
+    "incorrect1": "Értesíteni a vízirendészetet az érkezésünkről.",
+    "incorrect2": "A kikötő kötélre kötélvég nyolcast kell kötni.",
+    "image": null
+  },
+  {
+    "id": 2,
+    "question": "Miben segít a hajócsavar forgásirányának ismerete?",
+    "correct": "Segít a manőverezésben.",
+    "incorrect1": "Segít az előzésben.",
+    "incorrect2": "Segíti a nagy sebességű kanyarodást.",
+    "image": null
+  },
+  {
+    "id": 3,
+    "question": "Miben segít a hajócsavar forgásirányának ismerete?",
+    "correct": "Segíti az iránytartást.",
+    "incorrect1": "Segít az előzésben.",
+    "incorrect2": "Segíti a nagy sebességű kanyarodást.",
+    "image": null
+  },
+  {
+    "id": 4,
+    "question": "Hogyan közelíti meg kikötéskor a mólót erős, a part irányából fújó szélben?",
+    "correct": "Közel merőlegesen.",
+    "incorrect1": "5 - 10 fokos szögben.",
+    "incorrect2": "Csúszóra dobott horgonnyal.",
+    "image": null
+  },
+  {
+    "id": 5,
+    "question": "Kikötőhelyhez sodrással, vagy széllel szemben érkezve melyik kötél megkötésével kell kezdeni a kikötést?",
+    "correct": "Az orrkötéllel.",
+    "incorrect1": "A farkötéllel.",
+    "incorrect2": "A horgonykötéllel.",
+    "image": null
+  },
+  {
+    "id": 6,
+    "question": "Milyen haladási sebesség mellett a leghatásosabb az orrsugárkormány?",
+    "correct": "Csak kis, a kikötői manőverezéseknél használt sebességeknél.",
+    "incorrect1": "A hajó teljes sebességtartományában.",
+    "incorrect2": "Csak nagy sebességeknél.",
+    "image": null
+  },
+  {
+    "id": 7,
+    "question": "Kikötőben ledobott horgonyunkról a többi hajóvezető honnan szerez tudomást?",
+    "correct": "A horgonyra kötött bójáról.",
+    "incorrect1": "Nem kell tudniuk a ledobott horgonyról, mert nem zavarja a kikötőben közlekedőket.",
+    "incorrect2": "Tilos bóját kötni a horgonyra, érkező, vagy induló hajót szóban kell figyelmeztetni a horgonyra, vagy a kikötőmestert kell tájékoztatni róla.",
+    "image": null
+  },
+  {
+    "id": 8,
+    "question": "Hogyan dönti el, hogy a kikötő használatához kellő vízmélység van-e?",
+    "correct": "Az üzemeltető szóbeli, vagy az interneten, vagy a kikötői szabályzatban közzétett tájékoztatása alapján.",
+    "incorrect1": "A kikötőkben olyan vízmélységet szoktak - ha kell kotrással - fenntartani, ami mellett a behajózás akadálytalan a kedvtelési kishajók számára.",
+    "incorrect2": "Kétség esetén vízmérőléccel ellenőrzöm a kikötő bejárata előtt a vízmélységet, és ha a merülésnél kevesebb mint egy méterrel több, akkor nem kísérlem meg a behajózást.",
+    "image": null
+  },
+  {
+    "id": 9,
+    "question": "Idegen kikötőben veszteglés esetén a kikötő üzemeltetője visszatarthatja/elkérheti a hajólevelet?",
+    "correct": "A hajólevelet elkérheti, és díjfizetésig visszatarthatja.",
+    "incorrect1": "A hajólevelet elkérheti, de nem tarthatja vissza.",
+    "incorrect2": "A hajólevelet csak megnézheti, de nem tarthatja vissza.",
+    "image": null
+  },
+  {
+    "id": 10,
+    "question": "Kikötőben túl szűken bevett fordulónál, a hajó fara a partfalnak ütközik. Mi történhet külmotoros, illetve passzív kormányos hajó esetén ekkor?",
+    "correct": "Külmotoros hajónál a hajócsavar, passzív kormányos hajónál a kormánylapát sérülhet.",
+    "incorrect1": "Külmotoros hajónál a kormánylapát, passzív kormányos hajónál a hajócsavar sérülhet.",
+    "incorrect2": "Mindkét esetben sérül a hajócsavar.",
+    "image": null
+  },
+  {
+    "id": 11,
+    "question": "Sodrással, vagy széllel szemben kikötött kishajónál melyik kötél elengedésével kell kezdeni az elindulás manővert?",
+    "correct": "A farkötél.",
+    "incorrect1": "Az orrkötél.",
+    "incorrect2": "A horgonykötél.",
+    "image": null
+  },
+  {
+    "id": 12,
+    "question": "Induláskor a hajó orráról kötél esik a vízbe. Mit tesz?",
+    "correct": "Üresbe teszem az irányváltót.",
+    "incorrect1": "Gázt adok.",
+    "incorrect2": "Az irányváltóval nem bajlódok, azonnal leállítom a motort.",
+    "image": null
+  },
+  {
+    "id": 13,
+    "question": "Külmotoros, faránál terhelt hajó ideális siklásszögének beállításához kell-e a trimmelést módosítani?",
+    "correct": "A meghajtószárat a hajó farához közelebb kell állítani, mert így a lefelé is ható tolóerő megemeli a farát, és süllyeszti az orrát.",
+    "incorrect1": "A meghajtószárat a fartól távolabb kell állítani, mert így a lefelé is ható tolóerő megemeli a farát, és süllyeszti az orrát.",
+    "incorrect2": "A hajótest siklásba hozásához kell csak a trimmelésen állítani, az ideális siklásszöghöz ezután már nem kell módosítani rajta.",
+    "image": null
+  },
+  {
+    "id": 14,
+    "question": "Kell-e eltérni siklásban a trimmelés megszokott, kitapasztalt mértékétől a hajó terhelésének függvényében?",
+    "correct": "Igen, mert, ha far-, vagy orrnehéz a hajó, az összekötő szárat a hajó farához közelebb, vagy távolabb állítva érhető el az ideális siklási szög.",
+    "incorrect1": "Nem, mert siklásban már nem számít, a kezdeti orr-, vagy farnehéz helyzet, azt nagy sebességnél a felhajtó erők kiegyensúlyozzák.",
+    "incorrect2": "Igen, mert, ha orr-, vagy farnehéz a hajó, az összekötő szárat a hajó farához közelebb állítva érhető el az ideális siklási szög.",
+    "image": null
+  },
+  {
+    "id": 15,
+    "question": "Siklásban mikor ideális a hajó trimmelése?",
+    "correct": "Ha a hajótest közel vízszintesen halad, a tolóerő hátrafelé hat.",
+    "incorrect1": "Ha a hajótest enyhén a fara felé dől, a tolóerő kissé lefelé hat.",
+    "incorrect2": "Ha a hajótest enyhén előre felé dől, a tolóerő enyhén felfelé hat.",
+    "image": null
+  },
+  {
+    "id": 16,
+    "question": "Hátramenetben manőverezve, jobbra kitérített kormány mellett, merre fordul a hajó orra?",
+    "correct": "Balra.",
+    "incorrect1": "Jobbra.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 17,
+    "question": "Kisgéphajóval nagy sebességgel halad. Hogyan áll meg?",
+    "correct": "A géperőt fokozatosan csökkentem.",
+    "incorrect1": "Késlekedés nélkül hátramenetbe kapcsolok.",
+    "incorrect2": "Nagy sebesség mellett a megállást kitéréssel és visszafordulással egy időben lehet csak végrehajtani.",
+    "image": null
+  },
+  {
+    "id": 18,
+    "question": "Egészítse ki a mondatot! A kisgéphajó siklásban (               ) halad.",
+    "correct": "az orrhullámán",
+    "incorrect1": "a farhullámán",
+    "incorrect2": "a testhullámán",
+    "image": null
+  },
+  {
+    "id": 19,
+    "question": "Ha egy tárgy tulajdonsága, hogy felúszó, az a gyakorlatban mit jelent?",
+    "correct": "Azt, hogy úszik a vízen, és ha víz alá nyomják is, utána a felszínre emelkedik.",
+    "incorrect1": "Azt, hogy lebeg a vízben, és ha lejjebb nyomják, akkor ott marad.",
+    "incorrect2": "Azt, hogy úszik a vízen, de ha víz alá nyomják, utána már folyamatosan süllyed.",
+    "image": null
+  },
+  {
+    "id": 20,
+    "question": "A kishajókon általánosan használt perlon kötelek felúszóak?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 21,
+    "question": "Minek alapján van előírva egy kedvtelési célú kishajó kötelező felszerelése?",
+    "correct": "A hajó hosszának alapján.",
+    "incorrect1": "A hajó össz-befogadóképességének alapján.",
+    "incorrect2": "A hajó típusa alapján (motoros, vagy vitorlás kishajó).",
+    "image": null
+  },
+  {
+    "id": 22,
+    "question": "Egészítse ki a mondatot! A kishajókon használt szintetikus kötelek a laza, belógó állapotból hirtelen nagy terhelésű rántásra (          )",
+    "correct": "könnyen elpattanhatnak.",
+    "incorrect1": "megfeszülnek, megkeményednek.",
+    "incorrect2": "egyes elemi szálaik megszakadhatnak, a kötél kiszőrösödik.",
+    "image": null
+  },
+  {
+    "id": 23,
+    "question": "A GPS berendezés kötelező felszerelés-e kedvtelési célú kisgéphajón?",
+    "correct": "Nem.",
+    "incorrect1": "Igen, a Szemleszabályzat írja elő.",
+    "incorrect2": "Igen, a Hajózási Szabályzat írja elő.",
+    "image": null
+  },
+  {
+    "id": 24,
+    "question": "Az elemlámpa kötelező felszerelése a kedvtelési célú kisgéphajónak?",
+    "correct": "Igen, vízálló kivitelű, tartalék elemmel és tartalék égővel.",
+    "incorrect1": "Igen, de a mobiltelefon beépített elemlámpa funkciója is elfogadott.",
+    "incorrect2": "Nem kötelező felszerelés, csak ajánlott.",
+    "image": null
+  },
+  {
+    "id": 25,
+    "question": "Mit neveznek hajóútnak?",
+    "correct": "A víziútnak a nagyhajók közlekedésére kijelölt és kitűzött, ennek hiányában a nagyhajók által az adott vízállásnál rendszeresen használt része, továbbá a veszteglőhely vízterülete, valamint a kikötőhöz tartozó vízterület.",
+    "incorrect1": "A víziút azon része, amely legalább 150 méter szélességgel és 3 méter mélységgel rendelkezik.",
+    "incorrect2": "A víziút azon része, amely minimum 2,5 méter vízmélységgel és 88 méter szélességgel rendelkezik.",
+    "image": null
+  },
+  {
+    "id": 26,
+    "question": "Erős oldalszélben hogyan hajózik?",
+    "correct": "A szél felőli oldalra folyamatosan ellenkormányozva.",
+    "incorrect1": "A szél alatti oldal felé folyamatosan ellenkormányozva.",
+    "incorrect2": "Csak a széllel szemben haladva.",
+    "image": null
+  },
+  {
+    "id": 27,
+    "question": "Beépített motorral rendelkező hajón mit lehet tenni, ha valami a hajócsavarra tekeredve fékezi azt?",
+    "correct": "A motor leállítása és áramtalanítása után kikötő öbölben, vagy tavon a vízbe merülve megkísérelhető a hajócsavar kiszabadítása.",
+    "incorrect1": "Csak a hajó kiemelésével oldható meg a probléma.",
+    "incorrect2": "Csak búvár szakember, vagy kiemelés után hozzáértő szerelő végezheti el a hajócsavar kiszabadítását.",
+    "image": null
+  },
+  {
+    "id": 28,
+    "question": "A hajtómű hirtelen leáll, a motor azonnal újraindítható, de az irányváltót előre-, vagy hátramenetbe kapcsolva a motor újra lefullad. Milyen hibára következtet?",
+    "correct": "A hajócsavar forgását akadályozza valami, vagy a hajtási láncban keletkezett meghibásodás.",
+    "incorrect1": "Elfogyott az üzemanyag.",
+    "incorrect2": "Zárlatos lett a gyújtótrafó.",
+    "image": null
+  },
+  {
+    "id": 29,
+    "question": "Hogyan hajózik szűk hajóútban találkozáskor?",
+    "correct": "Csökkentem a sebességet és biztonságos oldaltávolságot tartok.",
+    "incorrect1": "Növelem a sebességet, így gyorsabban kikerülök a veszélyes közlekedési helyzetből.",
+    "incorrect2": "A völgymenő hajónak annyira le kell csökkentenie a sebességét, hogy még manőver képes maradjon, és el kell engednie a hegymenő hajót.",
+    "image": null
+  },
+  {
+    "id": 30,
+    "question": "Mit jelent a hegymenet a folyami hajózásban?",
+    "correct": "Hajózás a forrás irányában.",
+    "incorrect1": "Hajózás a meder felett.",
+    "incorrect2": "Hajózás a sodrással.",
+    "image": null
+  },
+  {
+    "id": 31,
+    "question": "Folyóvizek kanyarulataiban változik-e az egyenes folyószakaszhoz képest a hordalékképződés?",
+    "correct": "Igen, a kanyarulat belső ívén zátony képződik.",
+    "incorrect1": "Igen, a kanyarulat külső ívén zátony képződik.",
+    "incorrect2": "Nem befolyásolja a hordalékképződést a kanyarulat.",
+    "image": null
+  },
+  {
+    "id": 32,
+    "question": "Folyó kanyarulatban a folyó mely részén kisebb a sodrás?",
+    "correct": "A kanyarulat belső ívéhez közel.",
+    "incorrect1": "A kanyarulat külső ívéhez közel.",
+    "incorrect2": "Kanyarulatban a víziút közepén.",
+    "image": null
+  },
+  {
+    "id": 33,
+    "question": "Folyóvízen kis teljesítményű motorral a víziút mely részén érdemes lefelé, és hol felfelé hajózni?",
+    "correct": "Felfelé a parthoz közeli részén, lefelé a víziút közepén.",
+    "incorrect1": "Felfelé a víziút közepén, lefelé a víziút parthoz közeli részén.",
+    "incorrect2": "Felfelé és lefelé egyaránt a víziút közepén.",
+    "image": null
+  },
+  {
+    "id": 34,
+    "question": "A sodrás mikor nem változtatja meg a hajó haladási irányát?",
+    "correct": "Ha a sodrás iránya közel párhuzamos a hajó hossztengelyével.",
+    "incorrect1": "Fordulási manőver közben.",
+    "incorrect2": "Ha a hajó közel merőlegesen halad a sodrásra.",
+    "image": null
+  },
+  {
+    "id": 35,
+    "question": "Nagyon alacsony vízállásnál hajózva mire kell ügyelni?",
+    "correct": "A hajóúton kívül hajózni ilyenkor veszélyes, alapos helyismeretet igényel.",
+    "incorrect1": "A hajóútban hajózni ilyenkor veszélyes, alapos helyismeretet igényel.",
+    "incorrect2": "Ilyenkor siklásban haladni különösen veszélyes.",
+    "image": null
+  },
+  {
+    "id": 36,
+    "question": "Sziget környezetében hol kell folyamon zátonyra számítani?",
+    "correct": "A sziget alsó és felső végénél.",
+    "incorrect1": "A sziget két szélén.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 37,
+    "question": "Mi történik sűrű hínáros vízben tartósan hajózva külmotoros, vagy Z hajtású hajóval?",
+    "correct": "A hajócsavar feltekeri a hínárt, csökken a tolóerő, nő a fogyasztás, vagy le is áll a hajtómű.",
+    "incorrect1": "Nem történik semmi, mert a hajócsavar felaprítja a sűrű hínárt is.",
+    "incorrect2": "A hajó megáll, mert a tolószárba beakad a hínár.",
+    "image": null
+  },
+  {
+    "id": 38,
+    "question": "Ha kötél tekeredik a hajócsavarra, a külmotoros hajón, mit kell tenni?",
+    "correct": "Leállítani a motort, kibillenteni a felső állásba, majd ha lehet, akkor lefejteni a hajócsavarról a kötelet.",
+    "incorrect1": "Nem kell semmit tenni, mivel ez nem okoz problémát.",
+    "incorrect2": "Elég csak hátramenetbe kell kapcsolni, és a hajtómű a kötelet ledobja.",
+    "image": null
+  },
+  {
+    "id": 39,
+    "question": "Sekély vízben hajózva külmotoros hajóval, milyen óvintézkedéseket kell tenni?",
+    "correct": "A sebességet csökkenteni, a trimmelést magasra állítani.",
+    "incorrect1": "A sebességet növelni, a trimmelésen nem kell változtatni.",
+    "incorrect2": "Nem kell semmit tenni, mivel ez nem okoz problémát.",
+    "image": null
+  },
+  {
+    "id": 40,
+    "question": "Mire kell ügyelni kisgéphajóval a part melletti sekély vízben hajózva, ha nagyhajó halad el mellettünk?",
+    "correct": "A nagyhajó szívóhatása miatti vízszint csökkenéskor sérülhet a hajtómű, valamint a farhullámai miatt a part menti mederre csapódhat a hajónk.",
+    "incorrect1": "Nem kell ügyelni semmire, ez a közlekedési helyzet nem rejt veszélyt magában.",
+    "incorrect2": "A nagyhajó szívóhatása csak közvetlenül mellette fejti ki hatását, ezért arra nem kell ügyelni, de a farhullám kidobhatja a hajónkat a partra.",
+    "image": null
+  },
+  {
+    "id": 41,
+    "question": "Milyen vízmélységnél a legnagyobb egy hajó farhulláma?",
+    "correct": "Kis vízmélységnél.",
+    "incorrect1": "Nagy vízmélységnél.",
+    "incorrect2": "Közepes vízmélységnél.",
+    "image": null
+  },
+  {
+    "id": 42,
+    "question": "Milyen vízállásnál a legnagyobb egy hajó szívóhatása?",
+    "correct": "Alacsony vízállásnál.",
+    "incorrect1": "Magas vízállásnál.",
+    "incorrect2": "Közepes vízállásnál.",
+    "image": null
+  },
+  {
+    "id": 43,
+    "question": "Miért kell kiemelni a kompozit műgyanta testű hajót a vízből télen?",
+    "correct": "Mert a jégnyomás összeroppanthatja a hajótestet.",
+    "incorrect1": "Mert a hajó anyaga különösen érzékeny a hideg időjárásra.",
+    "incorrect2": "Mert kötelező, és minden kikötői rend megköveteli.",
+    "image": null
+  },
+  {
+    "id": 44,
+    "question": "Mit lehet tenni, ha egy kikötő öbölben jégpáncél van kialakulóban és hajó maradt a vízben?",
+    "correct": "Rendszeresen törni a jeget, hogy egybefüggő jégpáncél ne alakulhasson ki, így csökken a jégnyomás a kikötőben.",
+    "incorrect1": "Fűteni kell a hajóban, hogy ne alakulhasson ki a masszív jégpáncél.",
+    "incorrect2": "Nem kell tenni semmit, minden hajó típus ellenáll a jégnyomásnak.",
+    "image": null
+  },
+  {
+    "id": 45,
+    "question": "Ha meghibásodik a külmotoros hajó hajtóműve, és evezővel kell kikötni, célszerű-e kiemelni a hajtóművet a vízből?",
+    "correct": "Igen, mert az álló hajócsavaron ébredő erők fékezik a hajót, nehezítik a haladást.",
+    "incorrect1": "Nem, mert a motornak leállítás után is szüksége van a hűtő közegre.",
+    "incorrect2": "Nem, mert csak a külmotorral kormányozható a hajó ilyen esetben.",
+    "image": null
+  },
+  {
+    "id": 46,
+    "question": "Ha kishajót továbbít mellévett alakzatban, romlik-e a hajójának manőverezőképessége?",
+    "correct": "Igen, romlik.",
+    "incorrect1": "Nem befolyásolja a hajó manőverezőképességét.",
+    "incorrect2": "Ha mindkét oldalon mellévett alakzatban továbbít hajót, akkor nem változik a manőverezőképessége.",
+    "image": null
+  },
+  {
+    "id": 47,
+    "question": "Kishajót továbbít mellévett alakzatban, hogyan változik meg a hajójának manőverezőképessége?",
+    "correct": "A továbbított hajó felé elhúz.",
+    "incorrect1": "A továbbított hajóval ellentétes oldalra elhúz.",
+    "incorrect2": "Nem befolyásolja a hajó manőverezhetőségét.",
+    "image": null
+  },
+  {
+    "id": 48,
+    "question": "Hová kell rögzíteni a vontató kötelet a vontatott vitorlás hajón?",
+    "correct": "Az árboc tövéhez.",
+    "incorrect1": "Az első bakhoz.",
+    "incorrect2": "Az orron található korláthoz.",
+    "image": null
+  },
+  {
+    "id": 49,
+    "question": "Célszerű horgonyt dobni köves, sziklás mederfenéken?",
+    "correct": "Nem, mert a horgony beakadhat úgy, hogy nem lehet felszedni.",
+    "incorrect1": "Igen, mert a köves aljzatban jobban tart a horgony.",
+    "incorrect2": "Igen a köves aljzat az ideális horgonyzáshoz.",
+    "image": null
+  },
+  {
+    "id": 50,
+    "question": "Célszerű ismerni a mederjellemzőket horgonyzáskor?",
+    "correct": "Igen, mert a mederjellemzők nagyban befolyásolják a horgonyzást.",
+    "incorrect1": "Nem, mert a mederjellemzők nem befolyásolják a horgonyzást.",
+    "incorrect2": "Csak hosszú időre lehorgonyzáshoz szükséges a mederjellemzők ismerete.",
+    "image": null
+  },
+  {
+    "id": 51,
+    "question": "Hogyan viselkedik a hajótest jobb forgású hajócsavarral hátramenetbe kapcsolva?",
+    "correct": "A hajó fara bal oldalra kitér.",
+    "incorrect1": "A hajó fara jobb oldalra kitér.",
+    "incorrect2": "A hajó orra bal oldalra kitér.",
+    "image": null
+  },
+  {
+    "id": 52,
+    "question": "Vízhez képest álló hajó kitérített kormánylapátján ébred-e kormányerő?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 53,
+    "question": "Mikor kell a hajó vezetőjének a hajón tartózkodnia?",
+    "correct": "Mindaddig, amíg a hajó menetben van.",
+    "incorrect1": "Mindaddig, amíg vezet és amíg veszély esetén az utolsó utas is elhagyta a hajót.",
+    "incorrect2": "Mindaddig, amíg a hajó vízen van.",
+    "image": null
+  },
+  {
+    "id": 54,
+    "question": "Meddig terjed a hajóvezető mentési kötelezettsége más hajók/emberek felé?",
+    "correct": "Kötelező menteni az életveszélybe került embereket, de csak a saját és a hajó biztonságával összeegyeztethető mértékben.",
+    "incorrect1": "Az életveszélyben lévő embereket a saját és a hajót fenyegető veszély mérlegelése nélkül meg kell kísérelni menteni.",
+    "incorrect2": "Ha emberélet nincs veszélyben, akkor nincs mentési kötelezettségünk.",
+    "image": null
+  },
+  {
+    "id": 55,
+    "question": "Ki felelős az utasok testi épségéért?",
+    "correct": "A hajóvezető, de csak addig a mértékig, amennyire betartják az e körben adott utasításait.",
+    "incorrect1": "Minden esetben a hajóvezető a felelős.",
+    "incorrect2": "Ha a hajóvezető az út elején elmondja a hajón való viselkedés szabályait, és mindenkinek kiosztja a mentőmellényeket, akkor a továbbiakban nem tehető felelőssé az utasokat esetlegesen érő balesetek miatt.",
+    "image": null
+  },
+  {
+    "id": 56,
+    "question": "Végre kell-e hajtani a hajó vezetőjének utasításait, ha Ön csak utas?",
+    "correct": "Igen, ha azt a hajózás biztonsága vagy a hajó rendjének fenntartása érdekében adta.",
+    "incorrect1": "Igen, minden esetben.",
+    "incorrect2": "Igen, de csak vízből mentés és havaria esetén.",
+    "image": null
+  },
+  {
+    "id": 57,
+    "question": "Miért fontos egy kisgéphajó vízkiszorításának ismerete?",
+    "correct": "Mert a hajó kiemeléséhez, illetve szállításához elengedhetetlen információ.",
+    "incorrect1": "Mert az adott víziúton való közlekedéshez a vízállás és a vízkiszorítás ismerete elengedhetetlen.",
+    "incorrect2": "Mert a hajó menetben való viselkedése nagyban függ a vízkiszorítástól.",
+    "image": null
+  },
+  {
+    "id": 58,
+    "question": "Található-e egy kishajó hajólevelében információ a befogadóképességről?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 59,
+    "question": "A hajólevélben megadott legnagyobb befogadóképességbe beletartozik-e a hajó vezetője?",
+    "correct": "Igen, ez a szám az össz-befogadóképesség.",
+    "incorrect1": "Nem, mert a minimális személyzet száma és a befogadóképesség összege adja az össz-befogadóképességet.",
+    "incorrect2": "Nem, mert a befogadóképesség és a minimális személyzet száma, valamint a hajó vezetője adja az össz-befogadóképességet.",
+    "image": null
+  },
+  {
+    "id": 60,
+    "question": "Melyik állítás igaz?",
+    "correct": "A hajó üzemképességét a hajózási hatóság a hajólevélben igazolja, melyben feltünteti a lejárat dátumát is.",
+    "incorrect1": "A svertes kishajóknak nincsen hajólevelük, az üzemképességet a tőkesúlyos hajóknál a hajózási hatóság a hajólevélben igazolja, melyben feltünteti a lejárat dátumát is.",
+    "incorrect2": "A vitorlás kishajók és vitorlás csónakok üzemképességét a hajózási hatóság a hajólevélben igazolja, a lejárat dátumának feltüntetése mellett.",
+    "image": null
+  },
+  {
+    "id": 61,
+    "question": "Mit jelent a hajó úszóképessége?",
+    "correct": "A hajótest által kiszorított víz súlya megegyezik a hajó súlyával és a hajó nem merül el teljesen a vízben.",
+    "incorrect1": "A hajó önerőből képes haladni a vízen.",
+    "incorrect2": "A hajó teljes terheléssel sem merül annyira, hogy a mederfeneket érintse.",
+    "image": null
+  },
+  {
+    "id": 62,
+    "question": "Mi a légszekrény?",
+    "correct": "Kishajókban, csónakokban kialakított vízmentes rekesz az úszóképesség biztosítására borulás vízbetörés esetére.",
+    "incorrect1": "A hajózásban az üres nem használt szekrényeknek a neve, az újonnan beszállók pakolhatják bele a személyes dolgaikat.",
+    "incorrect2": "Egy szekrény méretű kollektív mentőeszköz, az oldalán kapaszkodó zsinórokkal.",
+    "image": null
+  },
+  {
+    "id": 63,
+    "question": "Minek nevezzük a hajó azon tulajdonságát, hogy a billentő nyomatéknak ellenáll?",
+    "correct": "Stabilitás.",
+    "incorrect1": "Úszóképesség.",
+    "incorrect2": "Hullámellenállás.",
+    "image": null
+  },
+  {
+    "id": 64,
+    "question": "Melyik a stabilitás hajózásban használt meghatározása?",
+    "correct": "A hajó azon tulajdonsága, hogy a billentő nyomatéknak ellenáll.",
+    "incorrect1": "A hajó által kiszorított víz súlya megegyezik a hajó súlyával.",
+    "incorrect2": "A hajó hullámzó vízen is megfelelő iránytartó képessége.",
+    "image": null
+  },
+  {
+    "id": 65,
+    "question": "Mi biztosítja alakstabil hajóknál a kellő stabilitást?",
+    "correct": "A hajótest keresztmetszeti kialakítása biztosítja megdőlés esetén a visszabillentő nyomatékot.",
+    "incorrect1": "A hajó súlypontjának magasabbra helyezése.",
+    "incorrect2": "Nagy tömegű tőkesúly alkalmazása.",
+    "image": null
+  },
+  {
+    "id": 66,
+    "question": "Mi a dőlés?",
+    "correct": "A hajó kereszt irányú kilengését hívjuk így.",
+    "incorrect1": "A hajó hossz irányú kilengését hívjuk így.",
+    "incorrect2": "A hajó bármely irányú kilengését hívjuk így.",
+    "image": null
+  },
+  {
+    "id": 67,
+    "question": "Egészítse ki a mondatot! A(z) (               ) működéséhez a kormánylapátot áramló közegbe kell helyezni.",
+    "correct": "passzív kormány",
+    "incorrect1": "aktív kormány",
+    "incorrect2": "orrsugár kormány",
+    "image": null
+  },
+  {
+    "id": 68,
+    "question": "Mitől függ a kormányerő mértéke passzív kormány használatakor?",
+    "correct": "A kormánylapát kitérítési szögétől, a kormánylapát méreteitől és az áramló közegnek a kormánylapáthoz viszonyított sebességétől.",
+    "incorrect1": "A hajó alatti vízmélységtől, a kormány kiegyensúlyozottságától, a hajó parthoz képesti sebességétől.",
+    "incorrect2": "A kormánylapát kitérítési sebességétől, a hajó merülésétől, a kormánylapát kiegyensúlyozottságától.",
+    "image": null
+  },
+  {
+    "id": 69,
+    "question": "Mi az aktív kormány?",
+    "correct": "Kormányerő a tolóerő irányának változtatásával keletkezik.",
+    "incorrect1": "Kormányerő a kormánylapát kitérítésével keletkezik.",
+    "incorrect2": "Az aktív kormányt folyamatosan (aktívan) fogni, illetve mozgatni kell.",
+    "image": null
+  },
+  {
+    "id": 70,
+    "question": "Mi a passzív kormány?",
+    "correct": "Kormányerő a kormánylapát kitérítésével keletkezik.",
+    "incorrect1": "Kormányerő a tolóerő irányának változtatásával keletkezik.",
+    "incorrect2": "A kormányzást nem magunk végezzük, hanem egy kijelölt személy.",
+    "image": null
+  },
+  {
+    "id": 71,
+    "question": "Melyik hajótípusra jellemző, hogy a legnagyobb sebességét viszonylag kis motorteljesítmény mellett éri el, és ennek megfelelően takarékosan üzemel. Erősen hullámzó vízen is kiegyensúlyozottan, simábban halad.",
+    "correct": "Vízkiszorításos hajók.",
+    "incorrect1": "Szárnyas hajók.",
+    "incorrect2": "Siklóhajók.",
+    "image": null
+  },
+  {
+    "id": 72,
+    "question": "Alábbiak közül melyek a fának, mint hajóépítő anyagnak a jellemző tulajdonságai?",
+    "correct": "Kis fajsúly, jó hang és hőszigetelés, zsugorodik, megdagad a pára hatására.",
+    "incorrect1": "Kis fajsúly, galvanikus korrózióra hajlamos, nehezen megmunkálható.",
+    "incorrect2": "Jól ragasztható, felületi kezelést nem igényel, nagy a fajsúlya.",
+    "image": null
+  },
+  {
+    "id": 73,
+    "question": "Alábbiak közül melyek az alumíniumnak, mint hajóépítő anyagnak a jellemző tulajdonságai?",
+    "correct": "Költséges alapanyag, könnyű szerkezeti súly, galvanikus korrózióra hajlamos.",
+    "incorrect1": "Viszonylag nagy fajsúly, nem hegeszthető, jó hangszigetelő.",
+    "incorrect2": "Korrózió ellen felületkezeléssel védeni kell, pára hatására dagad, zsugorodik, kis fajsúlyú.",
+    "image": null
+  },
+  {
+    "id": 74,
+    "question": "Alábbiak közül melyek az acélnak, mint hajóépítő anyagnak a jellemző tulajdonságai?",
+    "correct": "Korróziógátlást igényel, rendkívül szilárd, nagy méretű hajók építésére alkalmas.",
+    "incorrect1": "Nem korrodál, alacsony kopásállóságú, nagy a fajsúlya.",
+    "incorrect2": "Könnyű, rugalmas, jól alakítható, jó hő- és hangszigetelő.",
+    "image": null
+  },
+  {
+    "id": 75,
+    "question": "A katamarán, trimarán kifejezések mit jelölnek?",
+    "correct": "Egyes hajótípusok kettő illetve három testű kialakítását.",
+    "incorrect1": "A legénység kötelező létszámát jelölik.",
+    "incorrect2": "A kormányzásnál használt kormánylapátok számát jelölik ezek a kifejezések.",
+    "image": null
+  },
+  {
+    "id": 76,
+    "question": "Igaz e, hogy a hagyományos hajóépítésnél először a merevítő vázszerkezet kerül kialakításra, majd a külhéj csak ez után épül rá erre?",
+    "correct": "Igaz.",
+    "incorrect1": "Hamis.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 77,
+    "question": "Mit nevezünk kompozit alapanyagnak?",
+    "correct": "Több fajta eltérő jellegű anyag együttes alkalmazása azok hasznos tulajdonságainak ötvözése érdekében.",
+    "incorrect1": "A teljesen vízzáró és UV sugárzás álló anyagokat nevezzük kompozitoknak.",
+    "incorrect2": "A több fajta fém alapanyag hegesztett szerkezetét nevezzük kompozitnak.",
+    "image": null
+  },
+  {
+    "id": 78,
+    "question": "Mi a szerepe a műgyanta-kompozit alapanyag alkalmazásakor az üvegszál, szénszál vagy egyéb szálanyagok alkalmazásának?",
+    "correct": "Ezek biztosítják a kompozit szerkezet merevségét, szilárdságát, rugalmasságát.",
+    "incorrect1": "Elsősorban térkitöltő, sűrűségnövelő, szigetelő hatásuk van.",
+    "incorrect2": "Elsősorban azt biztosítják, hogy a hajótest teljesen vízzáróvá váljon.",
+    "image": null
+  },
+  {
+    "id": 79,
+    "question": "Mi a szerepe a műgyanta-kompozit hajóépítő alapanyagoknál a poliészter, epoxy anyagok alkalmazásának?",
+    "correct": "Ezek végzik a szálanyagok közötti tér kitöltését, a szálak összekötését, és a hajótest vízhatlanságának biztosítását is.",
+    "incorrect1": "A kompozit szilárdságát, rugalmasságát biztosítja.",
+    "incorrect2": "A kompozit szerkezetben a műgyanta a szerkezet fajsúlyának beállítását szolgálja.",
+    "image": null
+  },
+  {
+    "id": 80,
+    "question": "A szálanyag + gyanta kompozitból készült hajók építési módszere:",
+    "correct": "vagy pozitív, vagy negatív mintára építik a hajótestet, a kompozit rétegenkénti laminálásával.",
+    "incorrect1": "a hajótestet a gerinc és többi hosszmerevítő, majd a bordázat felépítésével kezdik, majd vázra hordják fel a kompozit anyagot.",
+    "incorrect2": "a hajótestet keresztirányban több részre bontják, az egyes darabokat külön-külön laminálják, és a folyamat végén összeragasztják.",
+    "image": null
+  },
+  {
+    "id": 81,
+    "question": "Minek nevezzük a tényleges merülés síkja és az azzal párhuzamos olyan sík között függőlegesen mért távolságot, amely felett a hajót nem lehet vízmentesnek tekinteni?",
+    "correct": "Biztonsági távolság.",
+    "incorrect1": "Szabad oldal magasság.",
+    "incorrect2": "Merülés.",
+    "image": null
+  },
+  {
+    "id": 82,
+    "question": "Mit értünk a kishajó hosszán?",
+    "correct": "A hajótest legnagyobb hossza a kormányberendezés és propulziós mű nélkül.",
+    "incorrect1": "Az kishajó legnagyobb hossza méterben, beleértve a kormányberendezést, a propulziós művet, a gépészeti és egyéb szerkezeteket.",
+    "incorrect2": "A hajótest legnagyobb merülés síkjában mért hossza.",
+    "image": null
+  },
+  {
+    "id": 83,
+    "question": "Mit értünk a kishajó vízvonalhosszán?",
+    "correct": "A hajótest legnagyobb merülés síkjában mért hossza.",
+    "incorrect1": "A hajótest legnagyobb hossza a kormányberendezés és propulziós mű nélkül.",
+    "incorrect2": "Az kishajó legnagyobb hossza méterben, beleértve a kormányberendezést, a propulziós művet, a gépészeti és egyéb szerkezeteket.",
+    "image": null
+  },
+  {
+    "id": 84,
+    "question": "Mit értünk a kishajó oldalmagasságán?",
+    "correct": "A hajótest vagy a gerinc legalsó pontja és a fedélzet legalsó pontja között a hajó oldalán mért legrövidebb függőleges távolság.",
+    "incorrect1": "Az oldalmagasságnak az oldalmagasság helyén mért merüléssel csökkentett értéke.",
+    "incorrect2": "A legnagyobb merülés síkja és az azzal párhuzamos olyan sík között függőlegesen mért távolság, amely felett a hajót nem lehet vízmentesnek tekinteni.",
+    "image": null
+  },
+  {
+    "id": 85,
+    "question": "Mit értünk a kishajó szabad oldalmagasságán?",
+    "correct": "Az oldalmagasságnak az oldalmagasság helyén mért merüléssel csökkentett értéke.",
+    "incorrect1": "A legnagyobb merülés síkja és az azzal párhuzamos olyan sík között függőlegesen mért távolság, amely felett a hajót nem lehet vízmentesnek tekinteni.",
+    "incorrect2": "A hajótest vagy a gerinc legalsó pontja és a fedélzet legalsó pontja között a hajó oldalán mért legrövidebb függőleges távolság.",
+    "image": null
+  },
+  {
+    "id": 86,
+    "question": "Mit értünk a kishajó biztonsági távolságán?",
+    "correct": "A tényleges merülés síkja és az azzal párhuzamos olyan sík között függőlegesen mért távolság, amely felett a hajót nem lehet vízmentesnek tekinteni.",
+    "incorrect1": "A hajótest vagy a gerinc legalsó pontja és a fedélzet legalsó pontja között a hajó oldalán mért legrövidebb függőleges távolság.",
+    "incorrect2": "Az oldalmagasságnak az oldalmagasság helyén mért merüléssel csökkentett értéke.",
+    "image": null
+  },
+  {
+    "id": 87,
+    "question": "Hogyan hívjuk a hajótest belsejébe, általában a fedélzet alá stabilan rögzített meghajtó motort?",
+    "correct": "Beépített motor.",
+    "incorrect1": "Lakótéri motor.",
+    "incorrect2": "Külmotor.",
+    "image": null
+  },
+  {
+    "id": 88,
+    "question": "Minek nevezzük a hajó far részén kialakított rögzítési ponton, a fartükrön felfüggesztett kisebb tömegű motorokat, melyek magukba foglalják a hajtási lánc elemeit is?",
+    "correct": "Külmotor.",
+    "incorrect1": "Beépített motor.",
+    "incorrect2": "Kompresszor.",
+    "image": null
+  },
+  {
+    "id": 89,
+    "question": "Milyen belső égésű motorok üzemanyaga a gázolaj?",
+    "correct": "Dízelmotor motor.",
+    "incorrect1": "Otto-motor.",
+    "incorrect2": "Gőzgép.",
+    "image": null
+  },
+  {
+    "id": 90,
+    "question": "Milyen belső égésű motorok üzemanyaga a benzin?",
+    "correct": "Otto-motor.",
+    "incorrect1": "Dízelmotor.",
+    "incorrect2": "Gőzgép.",
+    "image": null
+  },
+  {
+    "id": 91,
+    "question": "Hogyan győződik meg róla, hogy a külmotor hűtése megfelelő?",
+    "correct": "Ha a motorhűtést ellenőrző vízsugár megszakítatlan és erős, akkor a hűtés megfelelő.",
+    "incorrect1": "A motor hűtését nem kell ellenőrizni, mert a motorolaj túlmelegedése esetén az automatika leállítja a motort.",
+    "incorrect2": "A motor hűtésének elégtelenségét a motor teljesítményének csökkenése, és a motor spontán leállása jelzi, ennek hiányában a hűtés biztosan megfelelő.",
+    "image": null
+  },
+  {
+    "id": 92,
+    "question": "A kishajókba építésre szánt modern dízelmotorok miben különböznek régi társaiktól?",
+    "correct": "A modern dízelmotor befecskendező rendszere bonyolult, elektronikusan vezérelt rendszer, a régi tisztán mechanikus.",
+    "incorrect1": "A modern dízelmotorok már mind kétüteműek és a régiekkel szemben tisztán elektronikus befecskendezéssel működnek.",
+    "incorrect2": "A modern dízelmotorok fajlagos teljesítménye jobb a régiekénél, de nagyobb a fajlagos fogyasztásuk.",
+    "image": null
+  },
+  {
+    "id": 93,
+    "question": "Mi hozza létre a benzin-levegő keveréket az Otto-motoroknál?",
+    "correct": "Karburátor vagy befecskendező rendszer.",
+    "incorrect1": "Kizárólag a karburátor.",
+    "incorrect2": "Kizárólag a befecskendező rendszer.",
+    "image": null
+  },
+  {
+    "id": 94,
+    "question": "Beépített Otto-motorral rendelkező kishajónál milyen műveletet kell végrehajtani minden motorindítás előtt?",
+    "correct": "A motortér teljes kiszellőztetését.",
+    "incorrect1": "Az ékszíj feszességének ellenőrzését.",
+    "incorrect2": "A hűtőrendszer elzáró szelepeinek zárását.",
+    "image": null
+  },
+  {
+    "id": 95,
+    "question": "Négyütemű motoroknál melyik a helyes munkaütemsorrend az alábbiak közül?",
+    "correct": "Szívás, sűrítés, terjeszkedés, kipufogás.",
+    "incorrect1": "Szívás, terjeszkedés, sűrítés, kipufogás.",
+    "incorrect2": "Kipufogás, terjeszkedés, sűrítés, szívás.",
+    "image": null
+  },
+  {
+    "id": 96,
+    "question": "Melyik fajta motor jellemző alkatrésze a karburátor?",
+    "correct": "Otto-motor.",
+    "incorrect1": "Dízelmotor.",
+    "incorrect2": "Gőzgép.",
+    "image": null
+  },
+  {
+    "id": 97,
+    "question": "Melyik fajta motor jellemző alkatrésze az adagolószivattyú?",
+    "correct": "Dízelmotor.",
+    "incorrect1": "Otto-motor.",
+    "incorrect2": "Elektromos motor.",
+    "image": null
+  },
+  {
+    "id": 98,
+    "question": "Melyik fajta motor jellemző alkatrésze a szívó szelep?",
+    "correct": "Négyütemű motor.",
+    "incorrect1": "Kétütemű motor.",
+    "incorrect2": "Résvezérelt motorok.",
+    "image": null
+  },
+  {
+    "id": 99,
+    "question": "Melyik motor jellemzője, hogy a kenőolajat az üzemanyaghoz keverve juttatják el a kenési helyekre?",
+    "correct": "Kétütemű Otto-motor.",
+    "incorrect1": "Elektromos motor.",
+    "incorrect2": "Négyütemű Otto-motor.",
+    "image": null
+  },
+  {
+    "id": 100,
+    "question": "Hogyan nevezik a motorok azon alkatrészét, amely a dugattyú váltakozó irányú mozgását forgó mozgássá alakítja?",
+    "correct": "Főtengely.",
+    "incorrect1": "Lendkerék.",
+    "incorrect2": "Hengerpersely.",
+    "image": null
+  },
+  {
+    "id": 101,
+    "question": "Mi a dízelmotor-befecskendező porlasztó feladata?",
+    "correct": "A gázolaj apró cseppekre történő porlasztása és nagy nyomáson az égéstérbe juttatása.",
+    "incorrect1": "A gázolaj sűrítése, összekeverése kenőolajjal és levegővel, majd az égéstérbe juttatása.",
+    "incorrect2": "A gázolajból kiszűri a porrészecskéket és az üzemanyag rendszert légteleníti.",
+    "image": null
+  },
+  {
+    "id": 102,
+    "question": "Mi a karburátor szerepe?",
+    "correct": "Az Otto-motoroknál az üzemanyag-levegő keverék előállítása.",
+    "incorrect1": "A dízelmotoroknál az üzemanyag levegő keverék előállítása.",
+    "incorrect2": "Az Otto-motoroknál az üzemanyag megfelelő befecskendezési nyomását biztosítja.",
+    "image": null
+  },
+  {
+    "id": 103,
+    "question": "Tankolásnál fontos előkészületek a következők:",
+    "correct": "Elektromos berendezések kikapcsolása, motor leállítása, dohányzás és nyílt láng használatának megszüntetése, kézi tűzoltó készülék ellenőrzése és előkészítése.",
+    "incorrect1": "Motor alapjáratba helyezése, dohányzás és nyílt láng használatának megszüntetése, utasok kiszállítása a hajóról.",
+    "incorrect2": "Motor leállítása, dohányzás és nyílt láng használatának megszüntetése, a tankolás helyszínének ventilátorral történő szellőztetése, kézi tűzoltó készülék kipróbálása.",
+    "image": null
+  },
+  {
+    "id": 104,
+    "question": "Mi biztosítja a dízelmotorba jutó üzemanyag megfelelő tisztaságát?",
+    "correct": "A vízleválasztó, az elő- és finomszűrők.",
+    "incorrect1": "A tartályba épített tartályszűrő.",
+    "incorrect2": "Az üzemanyagot előállítása során gondosan tisztítják, ezért nincs szükség külön szűrésre.",
+    "image": null
+  },
+  {
+    "id": 105,
+    "question": "Mire kell figyelni a dízelüzemű motoroknál?",
+    "correct": "Kényszerhelyzet kivételével nem szabad elhasználni az összes üzemanyagot, mert a dízelmotor üzemanyagrendszere levegősödik, és az üzemanyag utántöltése után sem indul.",
+    "incorrect1": "A tartályban egy hónapnál hosszabb ideje tárolt üzemanyagot nem szabad felhasználni, mert ennyi idő alatt az már alkotórészeire esik, és a motorba jutva károsítja azt.",
+    "incorrect2": "Mindig tartsuk be a motorgyártó által előírt üzemagyag-kenőolaj keverési arányt.",
+    "image": null
+  },
+  {
+    "id": 106,
+    "question": "Milyen alkatrészekből épül fel az Otto-motorok üzemanyagrendszere? Melyik felsorolás helyes?",
+    "correct": "Üzemanyagtartály, üzemanyag szűrő(k), üzemanyag szivattyú, karburátor, vagy injektor.",
+    "incorrect1": "Üzemanyagtartály, adagolószivattyú, porlasztócsúcs.",
+    "incorrect2": "Üzemanyagtartály, üzemanyag szűrő(k), üzemanyag hűtő, adagolószivattyú, porlasztó.",
+    "image": null
+  },
+  {
+    "id": 107,
+    "question": "Milyen alkatrészekből épül fel az dízelmotorok üzemanyagrendszere? Melyik felsorolás helyes?",
+    "correct": "Üzemanyagtartály, tápszivattyú, üzemanyag szűrő(k), adagolószivattyú, befecskendező porlasztó.",
+    "incorrect1": "Üzemanyagtartály, adagolószivattyú, karburátor, porlasztócsúcs.",
+    "incorrect2": "Üzemanyagtartály, üzemanyag szűrő(k), üzemanyag hűtő, injektor.",
+    "image": null
+  },
+  {
+    "id": 108,
+    "question": "Belsőégésű főgéppel hajtott kishajó esetén fontos az üzemórák nyilvántartása?",
+    "correct": "Fontos, mert bizonyos karbantartási tevékenységeket a gyártó által meghatározott időintervallumonként kell elvégezni.",
+    "incorrect1": "Nem fontos, mert a kenőolajat minden szezon végén le kell cserélni, a hajtóműolajat meg csak akkor, ha víz szivárog bele.",
+    "incorrect2": "Fontos, de nem a karbantartás, hanem a hajó eladáskori értékének meghatározása szempontjából.",
+    "image": null
+  },
+  {
+    "id": 109,
+    "question": "Mi a kenőolaj szerepe?",
+    "correct": "A motor mozgó alkatrészeinek súrlódási ellenállás csökkentése, hőelvezetés, a szennyeződések megkötése, és a szűrőbe juttatása .",
+    "incorrect1": "Korróziógátlás, a hengerben lezajló égés minőségének javítása.",
+    "incorrect2": "A motor mozgó alkatrészeinek súrlódási ellenállás csökkentése, hőszigetelés, a karter elszennyeződésének megelőzése.",
+    "image": null
+  },
+  {
+    "id": 110,
+    "question": "Áramtalanítja-e a hajót, ha hosszabb időre felügyelet nélkül hagyja?",
+    "correct": "Igen így az akkumulátorokat biztosan nem meríti le semmi, és rövidzárlat sem lesz.",
+    "incorrect1": "A modern hajókat nem szabad teljesen áramtalanítani, mert a motor elektronikus vezérlőrendszerének mindig feszültség alatt kell lennie.",
+    "incorrect2": "Csak a 220 voltos rendszereket kell teljesen lekapcsolni, mivel az alacsony feszültségű áramkörökben nem keletkezhet rövidzárlat.",
+    "image": null
+  },
+  {
+    "id": 111,
+    "question": "Általában milyen feszültségű elektromos rendszer kerül kiépítésre a kishajókon?",
+    "correct": "12 vagy 24 voltos, egyenáramú hálózat.",
+    "incorrect1": "54 vagy 110 voltos, egyenáramú hálózat.",
+    "incorrect2": "230 vagy 400 voltos váltakozó áramú hálózat.",
+    "image": null
+  },
+  {
+    "id": 112,
+    "question": "Mit jelentenek a következő jelölések az akkumulátoron: 12V, 54 Ah ?",
+    "correct": "Ezek egy 12 voltos kapocsfeszültségű és 54 amperóra kapacitású akkumulátor adatai.",
+    "incorrect1": "Ezek egy 12 voltos feszültségű és 54 wattos alkáli-hibrid akkumulátor adatai.",
+    "incorrect2": "Ezek egy 12 vas és 54 alkáli cellát tartalmazó akkumulátor adatai.",
+    "image": null
+  },
+  {
+    "id": 113,
+    "question": "Hogyan értelmezhetjük az 54 Ah jelölést az akkumulátoron?",
+    "correct": "Ez az akkumulátor 54 amper áramerősséget tud szolgáltatni 1 órán keresztül.",
+    "incorrect1": "Ez az akkumulátor 16 amper áramerősséget tud szolgáltatni 8 órán keresztül.",
+    "incorrect2": "Ez az akkumulátor 54 volt feszültséget tud szolgáltatni 1 órán keresztül.",
+    "image": null
+  },
+  {
+    "id": 114,
+    "question": "Külmotoroknál hogyan tudjuk ellenőrizni a hűtés működését?",
+    "correct": "A hűtővíz megfelelő áramlását vékony és folyamatos ellenőrző vízsugár megjelenése jelzi.",
+    "incorrect1": "Nem szükséges ellenőrizni, ha a motor beindul, akkor biztosan van hűtése is.",
+    "incorrect2": "A motor burkolatát levéve a hengerfejen kézzel ellenőrizhető a hűtőfolyadék áramlása.",
+    "image": null
+  },
+  {
+    "id": 115,
+    "question": "Mi történik, ha nem kielégítő, vagy megszűnik a motor hűtése?",
+    "correct": "A motor túlmelegszik, a dugattyú és szelepek besülhetnek, a motorblokk és a hengerfej megrepedhetnek.",
+    "incorrect1": "A motor fogyasztása megnő, a fordulatszám megnő és a hajtómű olaj felforr.",
+    "incorrect2": "Nincs hatása, amennyiben a motort csak fél terheléssel üzemeltetjük az nem károsodik.",
+    "image": null
+  },
+  {
+    "id": 116,
+    "question": "Hogyan csoportosíthatjuk a hajómotorok hűtési rendszereit a hűtő közeg szempontjából?",
+    "correct": "Levegőhűtés, folyadékhűtés, ezen belül egykörös és kétkörös folyadékhűtés.",
+    "incorrect1": "Menetszél hűtésű és abszorpciós hűtésű.",
+    "incorrect2": "Levegőhűtésű, ezen belül egykörös levegőhűtésű, vagy kétkörös levegőhűtésű.",
+    "image": null
+  },
+  {
+    "id": 117,
+    "question": "Levegőhűtésű motoroknál milyen célt szolgál a hengerfej és a motorblokk bordázott kialakítása?",
+    "correct": "Az így megnövelt hőátadó felület fokozza a levegő hűtés hatékonyságát.",
+    "incorrect1": "A motor szétszerelésekor ezeknél a bordáknál fogva lehet megemelni az egyes alkatrészeket.",
+    "incorrect2": "A megnövelt hűtőfelület elősegíti, hogy a hideg motor hamarabb érje el az üzemi hőmérsékletét.",
+    "image": null
+  },
+  {
+    "id": 118,
+    "question": "Milyen célt szolgál a hűtési rendszerbe beépített termosztát?",
+    "correct": "A belső hűtővíz hőmérsékletét figyelembe véve szabályozza a hűtés mértékét.",
+    "incorrect1": "Ez az alkatrész szabályozza a hűtővíz szivattyú fordulatszámát.",
+    "incorrect2": "A levegőhűtésű motoroknál a beáramló levegő mennyiségét szabályozza a hűtés szükséglet függvényében.",
+    "image": null
+  },
+  {
+    "id": 119,
+    "question": "Hogyan célszerű a hajó gumi és műanyag alkatrészeinek ápolását végezni?",
+    "correct": "Szilikon tartalmú ápolószerekkel ápoljuk, a megrepedezett elemeket cseréljük.",
+    "incorrect1": "Ásványi zsírral kell bekenni őket, vagy finoman mosóbenzines ronggyal áttörölgetni.",
+    "incorrect2": "Meg kell tisztítani őket és finom csiszolóvászonnal a repedezett elemeket felpolírozni.",
+    "image": null
+  },
+  {
+    "id": 120,
+    "question": "Milyen műveletet kell a hideg állapotú dízelüzemű motorok indítása előtt elvégezni?",
+    "correct": "Az izzító gyertyákat kb. 10 másodpercig, vagy ha van ellenőrző lámpa, annak kialvásáig kell működtetni.",
+    "incorrect1": "A motor indítása előtt valamilyen fogyasztót rövid időre fel kell kapcsolni, hogy az akkumulátort felkészítsük a dízelmotor nagy indító áramára.",
+    "incorrect2": "Minden esetben ellenőrizni kell, hogy a vízleválasztó még nem telítődött.",
+    "image": null
+  },
+  {
+    "id": 121,
+    "question": "Milyen sűrűn kell a kenőolajat cserélni a motorban?",
+    "correct": "A motor gyártójának utasításait, a kenőolaj minőségét és a motor üzemkörülményeit figyelembe véve kell az olajcserét ütemezni.",
+    "incorrect1": "A kenőolajat megvizsgálva, annak állapotától függ az olajcsere szükségessége.",
+    "incorrect2": "Minden esetben 400 üzemóránként, vagy két évente olajat kell cserélni.",
+    "image": null
+  },
+  {
+    "id": 122,
+    "question": "Mikor használjuk a szivatót?",
+    "correct": "A hideg motor indításakor. A motor által beszívott keverék benzin arányát növeli meg, a könnyebb indítás érdekében.",
+    "incorrect1": "Akkor használjuk, ha plusz teljesítményt szeretnénk a motorból kinyerni előzéskor.",
+    "incorrect2": "A motor leállítása előtt kell bekapcsolni, hogy az üzemanyag rendszert kiürítsük.",
+    "image": null
+  },
+  {
+    "id": 123,
+    "question": "Kell-e ellenőrizni a kenőolaj szintjét motor indításkor?",
+    "correct": "Igen, célszerű az aznapi első motorindítás előtt, de lehet többször is.",
+    "incorrect1": "Igen, célszerű az aznapi első motorindítás után közvetlenül.",
+    "incorrect2": "Nem szükséges, mivel a motor kenőolaj nélkül amúgy sem indítható el.",
+    "image": null
+  },
+  {
+    "id": 124,
+    "question": "Motor indítása előtt a következők közül mit célszerű ellenőrizni?",
+    "correct": "Kenőolaj szintet, a hajtómű üres állásban legyen.",
+    "incorrect1": "A hajó stabilitását, a motor megfelelő hűtését.",
+    "incorrect2": "A motor burkolatának épségét és a hűtővíz hőfokát.",
+    "image": null
+  },
+  {
+    "id": 125,
+    "question": "Motor indítása után a következők közül mit célszerű ellenőrizni?",
+    "correct": "Az olajnyomást, a hűtés működését.",
+    "incorrect1": "Legyen elegendő, a motor hűtését szolgáló fenékvíz a hajóban.",
+    "incorrect2": "A kenőolaj szintet a motorban, és a hűtővíz hőfokát.",
+    "image": null
+  },
+  {
+    "id": 126,
+    "question": "Mit ítélhetünk meg az olajnyomás jelző által üzem közben mutatott érték alapján?",
+    "correct": "A motor kenésének megfelelőségét.",
+    "incorrect1": "A kenőolajszűrő elhasználtságát, és a motor körülbelüli fordulatszámát.",
+    "incorrect2": "A külső hőmérséklet nagyságát, és a hajó terheltségét.",
+    "image": null
+  },
+  {
+    "id": 127,
+    "question": "Mit ítélhetünk meg a kétkörös hűtési rendszereknél a belső kör vízhőmérsékletét jelző műszer által üzem közben mutatott érték alapján?",
+    "correct": "A motor hűtésének megfelelőségét.",
+    "incorrect1": "Megbecsülhető a külső víz hőmérséklete, és a hőcserélő tömítettsége.",
+    "incorrect2": "Megbecsülhető a motor által leadott teljesítmény.",
+    "image": null
+  },
+  {
+    "id": 128,
+    "question": "Hogyan kell leállítani a benzinüzemű külmotorokat?",
+    "correct": "Nagyobbakat általában a gyújtáskapcsolóval, kisebbeknél a motoron található leállító gomb pár másodpercig tartó nyomásával.",
+    "incorrect1": "Nagyobbakat általában a gyújtáskapcsolóval, kisebbeket a gáz teljes levéltelével, vagy ha akkor sem áll le, akkor az üzemanyag-vezeték csatlakozásának megszüntetésével",
+    "incorrect2": "Nagyobbakat általában a gyújtáskapcsolóval, kisebbeket az üzemanyag- tartály levegőztető szelepének zárásával.",
+    "image": null
+  },
+  {
+    "id": 129,
+    "question": "Hol vannak a külmotorokon a hűtővíz beszívására szolgáló nyílások?",
+    "correct": "A külmotor szárának kavitációs lap alatti részének jobb- és baloldalán.",
+    "incorrect1": "A külmotor a hűtővizet a hajócsavar agyrészén keresztül szívja be.",
+    "incorrect2": "A külmotoroknak legtöbbször zárt hűtési rendszere van, ahol a hűtővizet a külmotor szárának víz alatti részébe szerelt hőcserélő hűti le.",
+    "image": null
+  },
+  {
+    "id": 130,
+    "question": "Mit kell tenni, ha indítás után azt tapasztalja, hogy az olajnyomás mérő műszer elégtelen nyomásértéket mutat?",
+    "correct": "A motort azonnal le kell állítani, majd ellenőrizni kell az olajszintet, az olajszűrőt és az olajszivattyút.",
+    "incorrect1": "A motort alapjáraton működtetni kell amíg az olajnyomás meg nem emelkedik.",
+    "incorrect2": "A motor fordulatszámát addig kell növelni, amíg az olajnyomás meg nem emelkedik.",
+    "image": null
+  },
+  {
+    "id": 131,
+    "question": "Mit kell tenni, ha a terhelt motor hűtővíz hőfoka nagyon magas?",
+    "correct": "A motor fordulatszámát azonnal csökkenteni kell, ha a hőfok nem csökken a motort le kell állítani.",
+    "incorrect1": "A motort vizes ronggyal kívülről hűteni kell.",
+    "incorrect2": "Gázt adunk és széllel szembe fordulunk, így a megnövekedett menetszél várhatóan lehűti a motort.",
+    "image": null
+  },
+  {
+    "id": 132,
+    "question": "Mit jelent a gázolaj bedermedése?",
+    "correct": "A gázolaj hőmérséklete nagy hidegben eléri a dermedéspontját, a paraffin kiválik belőle és eltömíti az üzemanyag rendszert.",
+    "incorrect1": "A porlasztott gázolaj a henger hideg felületére kicsapódik és indítási nehézségeket okoz.",
+    "incorrect2": "A gázolaj hőmérséklete nagy melegben meghaladja a dermedéspontját, kiválik belőle a paraffin és eltömíti az üzemanyag rendszert.",
+    "image": null
+  },
+  {
+    "id": 133,
+    "question": "Hogyan ellenőrzi a motor üzem közbeni állapotát?",
+    "correct": "Műszerek segítségével és a motor működésének vizuális és hallás utáni ellenőrzésével egyaránt.",
+    "incorrect1": "Csak a műszereket kell figyelni, azok biztos információkat szolgáltatnak számomra.",
+    "incorrect2": "A motor hangja és a kipufogó gáz jellege alapján meg lehet állapítani a működés állapotát.",
+    "image": null
+  },
+  {
+    "id": 134,
+    "question": "Mire utalhat, ha a motor fordulatszáma hirtelen megnő, de a hajó sebessége lecsökken.",
+    "correct": "A hajtáslánc meghibásodására utal, tengelytörésre, a hajócsavar sérülésére, a hajócsavar nyírócsapjának törésére, tengelykapcsoló hibára.",
+    "incorrect1": "Az üzemanyag rendszerben lévő dugulás megszűnt.",
+    "incorrect2": "A hajóra felakadt egy uszadék és azt magával vonszolja.",
+    "image": null
+  },
+  {
+    "id": 135,
+    "question": "Mire utalhat, ha a hajtómű sebességbe kapcsolásakor a motor rendellenesen rezonálni kezd?",
+    "correct": "A hajócsavar egyik szárnya sérülhetett és az emiatt keletkezett rezgéseket a hajtómű továbbítja a motorhoz.",
+    "incorrect1": "A motor egyik hengere kihagy és terhelt állapotban a szerkezet berezonál.",
+    "incorrect2": "A hajtómű olajszintje alacsony.",
+    "image": null
+  },
+  {
+    "id": 136,
+    "question": "Mire utalhat, ha a motor akadozva jár, leáll?",
+    "correct": "Az üzemanyag rendszer meghibásodására utal, a tank levegőztetője nem lett kinyitva, eltömődött a szűrő, lelevegősödött a rendszer, vizes az üzemanyag.",
+    "incorrect1": "A motor gyújtáskapcsolója kontakthibás.",
+    "incorrect2": "Az üzemanyag oktánszáma nem megfelelő.",
+    "image": null
+  },
+  {
+    "id": 137,
+    "question": "Mire utalhat, ha a kipufogó füst színe kékes árnyalatú?",
+    "correct": "Kenőolaj került az égéstérbe, esetlegesen a dugattyúgyűrűk kopása, törése miatt.",
+    "incorrect1": "Oxigénszegény az égés a motorban. Lehetséges, hogy a levegőszűrő eltömődött.",
+    "incorrect2": "Az üzemanyag cetánszáma nem megfelelő.",
+    "image": null
+  },
+  {
+    "id": 138,
+    "question": "Mire utalhat, ha a kipufogógáz fehéres színű?",
+    "correct": "Víz került az égéstérbe esetlegesen a hengerfej tömítés sérülése miatt, vagy vizes az üzemanyag.",
+    "incorrect1": "Oxigénszegény az égés a motorban. Lehetséges, hogy a levegőszűrő eltömődött.",
+    "incorrect2": "Az üzemanyag cetánszáma nem megfelelő.",
+    "image": null
+  },
+  {
+    "id": 139,
+    "question": "Mire utalhat, ha a kipufogó gázok erős fekete színűek?",
+    "correct": "Tökéletlen égés a motorban, általában oxigén szegény állapotra utal. A levegőszűrő cserére szorulhat.",
+    "incorrect1": "Kenőolaj került az égéstérbe, esetlegesen a dugattyúgyűrűk kopása, törése miatt.",
+    "incorrect2": "Víz került az égéstérbe esetlegesen a hengerfej tömítés sérülése miatt, vagy vizes az üzemanyag.",
+    "image": null
+  },
+  {
+    "id": 140,
+    "question": "Kétkörös hűtés rendszerű hajóban a belső víz hőmérséklete indítás után az üzemi fölé emelkedik. Mi lehet az oka?",
+    "correct": "A termosztát nem nyit ki, valamelyik szivattyú nem működik, eltömődött a külső hűtőkör.",
+    "incorrect1": "A termosztát idő előtt kinyitott, eltömődött a belső kör szívónyílása.",
+    "incorrect2": "A belső kör vízszűrője eltömődött, túl magas a külső víz hőmérséklete.",
+    "image": null
+  },
+  {
+    "id": 141,
+    "question": "Mire szolgál a hajtómű?",
+    "correct": "A motor nyomatékának és fordulatszámának, illetve a tengelyrendszer forgási irányának megváltoztatására szolgál.",
+    "incorrect1": "A motor fordulatszámától függően beállítja a nyomatékot.",
+    "incorrect2": "A állítható szárny állásszögű hajócsavarok esetében a hajócsavar szárnyainak állítását végzi.",
+    "image": null
+  },
+  {
+    "id": 142,
+    "question": "Melyek a horgonycsörlő meghatározó paraméterei?",
+    "correct": "A teljesítmény, vonóerő, súlytartó képesség, a vontatási sebesség, a lánc/kötél vastagsága amit kezelni tud és a szerkezet önsúlya.",
+    "incorrect1": "A horgonykapa méret, tolóerő, a vontatási sebesség, a lánc/kötél vastagsága, amit kezelni tud.",
+    "incorrect2": "A teljesítmény, a vonóerő, súlytartó sebesség, a vontatási sebesség, a horgonyszár hossza amit kezelni tud és a szerkezet önsúlya.",
+    "image": null
+  },
+  {
+    "id": 143,
+    "question": "Mit célszerű téli konzerváláskor elvégezni az alábbiak közül?",
+    "correct": "Belső hűtővíz fagyállóságának ellenőrzése.",
+    "incorrect1": "Dugattyúk kiszerelése és bezsírozása.",
+    "incorrect2": "Vízcsövek szelepeinek, csapjainak kiszerelése.",
+    "image": null
+  },
+  {
+    "id": 144,
+    "question": "Mit célszerű téli konzerváláskor elvégezni az alábbiak közül?",
+    "correct": "A karburátorból a benzin leengedése, vagy a tankba benzin konzerváló adalék töltése.",
+    "incorrect1": "A kiegyenlítő tartályból a gázolaj leengedése.",
+    "incorrect2": "A motor felfüggesztésének fellazítása.",
+    "image": null
+  },
+  {
+    "id": 145,
+    "question": "Mit célszerű téli konzerváláskor elvégezni az alábbiak közül?",
+    "correct": "Bovdenek, huzalozások tisztítása, olajozása, zsírozása.",
+    "incorrect1": "Az akkumulátor kikötése és az elektrolit lecserélése.",
+    "incorrect2": "Kipufogó és szívó szelepek nyitott állapotban való rögzítése.",
+    "image": null
+  },
+  {
+    "id": 146,
+    "question": "Horgony felszedése közben hogyan csökkenthetjük az elektromos csörlő terhelését?",
+    "correct": "A horgonycsörlő működtetése közben a főgéppel lassú előremenetet alkalmazva csökkenthetjük a lánc és a csörlő terhelését.",
+    "incorrect1": "A hajóval a horgony fölé állunk, és ezt követően kezdjük meg a csörlővel beszedni a horgonyláncot.",
+    "incorrect2": "A hajóval áthajózunk a horgony fölött, majd amint a horgony felszakadt megállítjuk a hajót a mederhez képest, és a csörlő segítségével felhúzzuk a horgonyt.",
+    "image": null
+  },
+  {
+    "id": 147,
+    "question": "Mit nevezünk víziútnak?",
+    "correct": "A vízi közlekedés pályái a víziutak, amelyek természetesek (folyók, tavak, tengerek) és mesterségesek (hajózó csatornák, mesterséges tavak) lehetnek.",
+    "incorrect1": "Vízi útnak a vízterület felett átívelő hidakat, a vízterületet átszelő kompjáratok útvonalait és a vízterület alatt húzódó alagutakat nevezzük.",
+    "incorrect2": "Vízi útnak csak a mesterségesen kialakított vízterületet (például csatorna) nevezzük, ahol a hajózás lehetséges.",
+    "image": null
+  },
+  {
+    "id": 148,
+    "question": "Hogyan jellemezzük az alsó-szakasz jellegű folyóvizet?",
+    "correct": "Viszonylag kis esésű, hordaléklerakások útján létrejött szigetekkel megtűzdelt, széles mederrel rendelkező.",
+    "incorrect1": "Közepes szélességű, viszonylag nagyobb vízmélységgel, nagyobb kanyarívekkel rendelkező, és közepes vízsebességű.",
+    "incorrect2": "Nagy esésű, vízsebességű, szűk kanyarokkal tarkított, kis vízmélységű és szűkebb meder keresztmetszetű.",
+    "image": null
+  },
+  {
+    "id": 149,
+    "question": "Az alábbiak közül mit nevezünk egy víziút dinamikai jellemzőjének?",
+    "correct": "A vízállás, a gázlómélység, a vízsebesség.",
+    "incorrect1": "A legkisebb kanyarulati sugár, a hajóút legkisebb szélessége, a legkisebb szabad űrszelvény méret.",
+    "incorrect2": "A víziút hossza, a tengerszint feletti magassága és esése.",
+    "image": null
+  },
+  {
+    "id": 150,
+    "question": "Mit nevezünk hajóútnak?",
+    "correct": "A víziutakon rendszerint bójákkal és fényjelzésekkel a tájékozódást elősegítő jelzésekkel kitűzött, a hajóforgalom számára fenntartott területet.",
+    "incorrect1": "A víziutakon kívüli, kevésbé forgalmas, a hajóforgalom számára fenntartott területet.",
+    "incorrect2": "A kikötőből a víziútig tartó, rendszerint egy irányú közlekedést biztosító vízterület.",
+    "image": null
+  },
+  {
+    "id": 151,
+    "question": "Mi a víziút?",
+    "correct": "A víziközlekedés pályája, a folyók, csatornák és tavak (miniszteri rendeletben víziúttá nyilvánított) szakasza vagy része.",
+    "incorrect1": "Víziút minden olyan állami kezelésben álló folyó, tó és csatorna, amely geometriai méreteinél fogva időszakos vagy állandó jelleggel hajózásra alkalmas.",
+    "incorrect2": "Csak azt a vízterületet tekintjük víziútnak, ami hajózási jelekkel ki van tűzve.",
+    "image": null
+  },
+  {
+    "id": 152,
+    "question": "Mit nevezünk a térkép méretarányának?",
+    "correct": "A kicsinyítés mértékét térképi méretaránynak nevezzük, amely megadja, hogy a térképlapon mekkora területet ábrázolnak.",
+    "incorrect1": "A nagyítás mértékét térképi méretaránynak nevezzük, amely megadja, hogy a térképen milyen tereptárgyakat ábrázolnak.",
+    "incorrect2": "A kicsinyítés mértékét térképi méretaránynak nevezzük, amely megadja, hogy milyen térképi vetület alapján készült a térkép.",
+    "image": null
+  },
+  {
+    "id": 153,
+    "question": "Mit jelent a térképen az M 1:10000 jelzés?",
+    "correct": "A térképen 1 cm távolság a valóságban 100 méter.",
+    "incorrect1": "A térképen 1 cm távolság a valóságban 1 kilométer.",
+    "incorrect2": "A térképen 1 cm távolság a valóságban 10000 méter.",
+    "image": null
+  },
+  {
+    "id": 154,
+    "question": "Merre található az északi irány a térképeken, ha külön erre utaló jelölést nem látunk rajta?",
+    "correct": "A térkép felső éle felé.",
+    "incorrect1": "A térkép alsó éle felé.",
+    "incorrect2": "A méretaránytól függően vagy jobbra vagy balra esik az északi irány.",
+    "image": null
+  },
+  {
+    "id": 155,
+    "question": "A vízmércéken mért vízállásból mire lehet következtetni?",
+    "correct": "A merülési korlátozásokkal érintett területeken mérhető vízmélységekre.",
+    "incorrect1": "A vízmérce szelvényében fennálló legnagyobb vízmélységre.",
+    "incorrect2": "Arra, hogy az adott víziút apadó- vagy áradó jellegű fázisban van.",
+    "image": null
+  },
+  {
+    "id": 156,
+    "question": "Igaz e, hogy Buda a Duna jobb partján található?",
+    "correct": "Igaz.",
+    "incorrect1": "Hamis.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 156,
+    "question": "Mit nevezünk a folyókon hegymenetnek?",
+    "correct": "A folyó forrása felé való haladást jelenti.",
+    "incorrect1": "A folyó torkolata felé való haladást jelenti.",
+    "incorrect2": "A folyókon a hegymenet irányát a hatóságok állapítják meg.",
+    "image": null
+  },
+  {
+    "id": 158,
+    "question": "Mit nevezünk a folyókon völgymenetnek?",
+    "correct": "Általánosan a folyó torkolata felé történő haladás.",
+    "incorrect1": "A folyó forrása felé való haladást jelenti.",
+    "incorrect2": "A folyókon a völgymenet irányát a hatóságok állapítják meg.",
+    "image": null
+  },
+  {
+    "id": 159,
+    "question": "Folyón a hajó orra a folyásiránnyal szemben mutat, a parthoz képest a folyásirányban mozog, a hajtása előrementbe kapcsolt. Hegymenőnek, vagy völgymenőnek számít a víziközlekedési szabályok szerint?",
+    "correct": "Hegymenőnek.",
+    "incorrect1": "Völgymenőnek.",
+    "incorrect2": "Egyiknek sem, az ilyen hajó a közlekedés szempontjából veszteglő, hiszen ez a helyzet csakis horgonyzáskor fordulhat elő.",
+    "image": null
+  },
+  {
+    "id": 160,
+    "question": "Mi a vízállás?",
+    "correct": "A vízszint magassága illetőleg mélysége a vízmérce nulla-pontjának, mint viszonyítási pontnak a szintjétől.",
+    "incorrect1": "Állóvizeken, tavakon az áramlásoktól mentes vízterület a vízállás.",
+    "incorrect2": "A vízszint magassága illetőleg mélysége a vízmérce legalsó pontjának, mint viszonyítási pontnak a szintjétől.",
+    "image": null
+  },
+  {
+    "id": 161,
+    "question": "Hogyan mérjük a vízállást?",
+    "correct": "A vízterületen elhelyezett vízmércéről tudjuk leolvasni.",
+    "incorrect1": "Hajóról minden nap ultrahangos vízmélység mérővel mérik le.",
+    "incorrect2": "Az aktuális vízhozamból számolják ki.",
+    "image": null
+  },
+  {
+    "id": 162,
+    "question": "Milyen jelölésekkel rendelkezik a vízmérce?",
+    "correct": "2 centiméteres osztás és deciméteres számozás.",
+    "incorrect1": "5 centiméteres osztás és deciméteres számozás.",
+    "incorrect2": "Egy centiméteres osztás és 5 centiméteres számozás.",
+    "image": null
+  },
+  {
+    "id": 163,
+    "question": "Milyen vízállást olvas le az ábrán látható vízmércéről?",
+    "correct": "56 centiméter.",
+    "incorrect1": "5,6 centiméter.",
+    "incorrect2": "56 deciméter.",
+    "image": "Kep7_56.jpg"
+  },
+  {
+    "id": 164,
+    "question": "Milyen vízállást olvas le az ábrán látható vízmércéről?",
+    "correct": "48 centiméter.",
+    "incorrect1": "4,8 centiméter.",
+    "incorrect2": "48 deciméter.",
+    "image": "Kep8_48.jpg"
+  },
+  {
+    "id": 165,
+    "question": "Milyen vízállást olvas le az ábrán látható vízmércéről?",
+    "correct": "2 deciméter és 6 centiméter.",
+    "incorrect1": "26 deciméter.",
+    "incorrect2": "2,6 centiméter.",
+    "image": "Kep9_26.jpg"
+  },
+  {
+    "id": 166,
+    "question": "Alapvetően mitől függ egy folyó vízhozama?",
+    "correct": "A vízgyűjtő terület nagyságától és a vízgyűjtő területről lefolyó víz mennyiségétől.",
+    "incorrect1": "A mellék folyók számától, a torkolat távolságától.",
+    "incorrect2": "A folyó gázlóinak számától, a hidak pilléreinek méretétől és elhelyezkedésétől.",
+    "image": null
+  },
+  {
+    "id": 167,
+    "question": "Milyen vízállás kategóriákat ismerünk?",
+    "correct": "Megkülönböztetünk kisvizet, középvizet és magas vizet, továbbá árvizet.",
+    "incorrect1": "Megkülönböztetünk alsó vizet, középvizet és felső vizet, továbbá árvizet.",
+    "incorrect2": "Megkülönböztetünk mellékvizet, felvizet, alvizet és közepes vizet.",
+    "image": null
+  },
+  {
+    "id": 168,
+    "question": "Mit nevezünk vízjárásnak?",
+    "correct": "A vízhozam és a vízállás többé-kevésbé szabályszerű ingadozását.",
+    "incorrect1": "A folyó mederkeresztmetszetén időegység alatt átfolyó víz mennyiségét.",
+    "incorrect2": "A mederben a vízszint magasságát.",
+    "image": null
+  },
+  {
+    "id": 169,
+    "question": "Mi a sodorvonal?",
+    "correct": "A vízfolyások legnagyobb áramlási sebességű pontjait összekötő vonal.",
+    "incorrect1": "A vízfolyások legmélyebb pontjait összekötő vonal.",
+    "incorrect2": "A vízfolyások legkisebb áramlási sebességű pontjait összekötő vonal.",
+    "image": null
+  },
+  {
+    "id": 170,
+    "question": "Mi hozhat létre áramlatokat a tavakon?",
+    "correct": "A folyamatosan egy irányból fújó szél, vagy folyó befolyás.",
+    "incorrect1": "A meder lejtése és a vízmélység különbség.",
+    "incorrect2": "A vízhőfok különbségek az egyes vízterületek között, valamint a vízkivételi művek hatásai.",
+    "image": null
+  },
+  {
+    "id": 171,
+    "question": "Hogyan változik a folyóvíz sebessége mederszűkületben?",
+    "correct": "A vízfolyás sebessége felgyorsul.",
+    "incorrect1": "A vízfolyás sebessége lelassul.",
+    "incorrect2": "A vízfolyás sebessége nem változik.",
+    "image": null
+  },
+  {
+    "id": 172,
+    "question": "Mi a limány jellemzője?",
+    "correct": "Rendellenes, sokszor a folyó folyási irányával ellentétes irányú áramlás.",
+    "incorrect1": "Az álló vizek, tavak áramlást végző területei.",
+    "incorrect2": "Rendkívül sebes áramlási szakasz a folyóvízen.",
+    "image": null
+  },
+  {
+    "id": 173,
+    "question": "Mit tapasztalunk duzzasztóműhöz völgymenetben közeledve?",
+    "correct": "A vízfolyás sebessége lecsökken, a vízmélység megnövekszik, és a meder kiszélesedik.",
+    "incorrect1": "A vízfolyás sebessége felgyorsul, a vízmélység lecsökken, és a meder kiszélesedik.",
+    "incorrect2": "A vízfolyás sebessége és a vízmélység lecsökken, a meder összeszűkül.",
+    "image": null
+  },
+  {
+    "id": 174,
+    "question": "Duzzasztómű környezetében általában a folyó melyik részén hajózunk?",
+    "correct": "Al- és felvízen a zsilip oldali partok mentén.",
+    "incorrect1": "A duzzasztómű felett a folyót teljes szélességében hajózható, az alvízi oldalon a zsilip oldali part mentén hajózunk.",
+    "incorrect2": "A duzzasztómű alvízi oldalán a folyó teljes szélességében jól hajózható, a felvízen a zsilip oldali part mentén hajózunk.",
+    "image": null
+  },
+  {
+    "id": 175,
+    "question": "Mi az uralkodó szélirány a Balatonon?",
+    "correct": "Északnyugati.",
+    "incorrect1": "Délkeleti.",
+    "incorrect2": "Északkeleti.",
+    "image": null
+  },
+  {
+    "id": 176,
+    "question": "Mitől függ a szél hajóra gyakorolt hatása?",
+    "correct": "A szél sebességétől, a szélnek kitett felület nagyságától, a hajó vízbe merülő részének méretétől.",
+    "incorrect1": "A szél irányától, a hajó sebességétől, a vízmélységtől.",
+    "incorrect2": "A szél sebességétől, a hajó kormányképességétől, a hajó alatti víz mélységétől.",
+    "image": null
+  },
+  {
+    "id": 177,
+    "question": "Milyen skálát használunk a szél erősség becslésére?",
+    "correct": "Beaufort-skálát.",
+    "incorrect1": "Fahrenheit-skálát.",
+    "incorrect2": "Coriolis-skálát.",
+    "image": null
+  },
+  {
+    "id": 178,
+    "question": "Merre fúj az északkeleti szél?",
+    "correct": "Délnyugatra.",
+    "incorrect1": "Északkeletre.",
+    "incorrect2": "Északról fúj keletre.",
+    "image": null
+  },
+  {
+    "id": 179,
+    "question": "Merre fúj a délkeleti szél?",
+    "correct": "Északnyugatra.",
+    "incorrect1": "Délről fúj keletre.",
+    "incorrect2": "Délkeletre.",
+    "image": null
+  },
+  {
+    "id": 180,
+    "question": "Adja meg az északi szél irányát fokban!",
+    "correct": "0 fok.",
+    "incorrect1": "180 fok.",
+    "incorrect2": "270 fok.",
+    "image": null
+  },
+  {
+    "id": 181,
+    "question": "Adja meg a délkeleti szél irányát fokban!",
+    "correct": "135 fok.",
+    "incorrect1": "90 fok.",
+    "incorrect2": "45 fok.",
+    "image": null
+  },
+  {
+    "id": 182,
+    "question": "Adja meg a nyugati szél irányát fokban!",
+    "correct": "270 fok.",
+    "incorrect1": "90 fok.",
+    "incorrect2": "225 fok.",
+    "image": null
+  },
+  {
+    "id": 183,
+    "question": "Hány fokozatú a belvízen használt, alap Beaufort-skála?",
+    "correct": "13 fokozatú.",
+    "incorrect1": "10 fokozatú.",
+    "incorrect2": "8 fokozatú.",
+    "image": null
+  },
+  {
+    "id": 184,
+    "question": "Melyik a hidegfront jellemzője?",
+    "correct": "Érkezése előtt a légnyomás mindig csökken, utána gyakran igen gyorsan emelkedik.",
+    "incorrect1": "A légnyomás az érkezése előtt mindig erősen csökken, átvonulása után általában nem változik.",
+    "incorrect2": "Érkezése előtt a légnyomás mindig emelkedik utána gyakran igen gyorsan csökken.",
+    "image": null
+  },
+  {
+    "id": 185,
+    "question": "Melyik a melegfront jellemzője?",
+    "correct": "A légnyomás az érkezése előtt mindig erősen csökken, átvonulása után általában nem változik.",
+    "incorrect1": "Érkezése előtt a légnyomás mindig csökken, utána gyakran igen gyorsan emelkedik.",
+    "incorrect2": "Érkezése előtt a légnyomás mindig emelkedik utána gyakran igen gyorsan csökken.",
+    "image": null
+  },
+  {
+    "id": 186,
+    "question": "Melyik meteorológiai jelenség sematikus ábrázolását látja a képen?",
+    "correct": "Hidegfront",
+    "incorrect1": "Melegfront.",
+    "incorrect2": "Ciklon.",
+    "image": "Kep14_Hideg.jpg"
+  },
+  {
+    "id": 187,
+    "question": "Melyik meteorológiai jelenség sematikus ábrázolását látja a képen?",
+    "correct": "Melegfront",
+    "incorrect1": "Hidegfront",
+    "incorrect2": "Ráfutó szél",
+    "image": "Kep15_Meleg.jpg"
+  },
+  {
+    "id": 188,
+    "question": "Mit nevezünk ködnek?",
+    "correct": "A levegőben állandóan jelenlévő vízgőz, vagyis páratartalom kicsapódási formáját.",
+    "incorrect1": "A levegőben állandóan jelenlevő gázok kicsapódási formáját.",
+    "incorrect2": "A levegőben állandóan jelenlévő vízgőz nulla fok alatti megszilárdult megjelenése.",
+    "image": null
+  },
+  {
+    "id": 189,
+    "question": "Mit nevezünk harmatpontnak?",
+    "correct": "Azt a hőmérséklet, melyre az adott légtömegnek le kell hűlnie ahhoz, hogy a benne lévő vízgőz vízzé kicsapódjon.",
+    "incorrect1": "Az a páratartalom érték, amikor az adott légtömegben lévő vízgőz vízzé csapódik ki.",
+    "incorrect2": "Az a légnyomás érték, amikor az adott légtömegben lévő vízgőz vízzé csapódik ki.",
+    "image": null
+  },
+  {
+    "id": 190,
+    "question": "Minek nevezzük azt a jelenséget, amikor a kásás jégből kezdenek kialakulni a nagyobb jégtáblák.",
+    "correct": "Elsődleges jégzajlás.",
+    "incorrect1": "Másodlagos jégzajlás.",
+    "incorrect2": "Jégtorlasz.",
+    "image": null
+  },
+  {
+    "id": 191,
+    "question": "Minek nevezzük azt a jelenséget, amikor az összeállt jégtáblákból, összefüggő jégtakaróból letöredeznek kisebb jégtáblák és a víz felszínén sodródnak.",
+    "correct": "Másodlagos jégzajlás.",
+    "incorrect1": "Elsődleges jégzajlás.",
+    "incorrect2": "Rianás.",
+    "image": null
+  },
+  {
+    "id": 192,
+    "question": "Melyik vízterületeinken működik vihar előrejelző szolgálat?",
+    "correct": "Balaton, Velencei-tó, Fertő-tó, Tisza-tó.",
+    "incorrect1": "Balaton, a Duna budapesti szakasza, Tisza folyó.",
+    "incorrect2": "Balaton, Tisza-tó, Hármas-Kőrös duzzasztott részei.",
+    "image": null
+  },
+  {
+    "id": 193,
+    "question": "Melyik állítás jellemző a viharjelzésre az alábbiak közül?",
+    "correct": "Szezonálisan üzemel.",
+    "incorrect1": "Egész évben üzemel.",
+    "incorrect2": "Csak napkeltétől napnyugtáig üzemel.",
+    "image": null
+  },
+  {
+    "id": 194,
+    "question": "A viharjelző rendszer jelzőfényei hányszor villannak fel egy perc leforgása alatt első- és másodfokú jelzés esetén?",
+    "correct": "45 , 90",
+    "incorrect1": "30 , 60",
+    "incorrect2": "60 , 30",
+    "image": null
+  },
+  {
+    "id": 195,
+    "question": "Érdemes-e útitervet készíteni:",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 196,
+    "question": "Mit értünk útiterv készítés alatt?",
+    "correct": "Az utazás megkezdése előtt felmérjük egyik pontból a másikba való eljutás során felmerülő akadályok leküzdésének módját és a készletek utánpótlási lehetőségét.",
+    "incorrect1": "A térképen berajzoljuk a indulási helyünk, és a végcélunk közti egyenest.",
+    "incorrect2": "A téli időszakban eltervezzük és le is írjuk, hogy nyáron hova megyünk el hajózni.",
+    "image": null
+  },
+  {
+    "id": 197,
+    "question": "Melyek egyéni mentőeszközök?",
+    "correct": "Mentőmellény, mentőpatkó, mentőgyűrű.",
+    "incorrect1": "Mentőcsónak, mentőpad.",
+    "incorrect2": "Dobókörte kötéllel, szapoly.",
+    "image": null
+  },
+  {
+    "id": 198,
+    "question": "Melyek kollektív mentőeszközök?",
+    "correct": "Mentőcsónak, mentőpad.",
+    "incorrect1": "Mentőmellény, mentőpatkó, mentőgyűrű.",
+    "incorrect2": "Tűzponyva, lékponyva.",
+    "image": null
+  },
+  {
+    "id": 199,
+    "question": "Hínáros vízbe esve mi a helyes viselkedés?",
+    "correct": "A lehető legkevesebb mozgással kell haladni, a karra, lábra tekeredett hínár szárakat le kell tépni.",
+    "incorrect1": "Le kell úszni a víz alá, és a tövénél kihúzni a hínárt.",
+    "incorrect2": "Ugyanúgy kell úszni benne, mint hínár mentes vízben.",
+    "image": null
+  },
+  {
+    "id": 200,
+    "question": "Mire következtet, ha egy hajót állandó orrszög alatt lát, és útvonaluk keresztezi egymást?",
+    "correct": "Ha egyikünk sem változtat menetirányán, vagy sebességén össze fogunk ütközni.",
+    "incorrect1": "A másik hajó horgonyon vagy bóján áll, és a parallaxis hiba miatt látom keresztezőnek az útvonalat.",
+    "incorrect2": "Egyikünknek sem szabad változtatni útirányán és sebességén, mert így elkerüljük az összeütközést.",
+    "image": null
+  },
+  {
+    "id": 201,
+    "question": "Mit hívunk orrszögnek?",
+    "correct": "A hajó hossztengelye, valamint a hajó és a céltárgyat összekötő egyenes által bezárt szög a hajó orrától mérve.",
+    "incorrect1": "A hajó hossztengelye, valamint a hajó és a céltárgyat összekötő egyenes által bezárt szög a hajó farától mérve.",
+    "incorrect2": "A hajó kereszttengelye, és a fedélzet síkjának szöge az orr irányába nézve.",
+    "image": null
+  },
+  {
+    "id": 202,
+    "question": "Lékesedés esetén mit lehet tenni, ha nem sikerül a vízbetörést elhárítani és a hajó gyorsan süllyed?",
+    "correct": "Partra kell futtatni a hajót ott, ahol erre alkalmas a part kiképzés.",
+    "incorrect1": "Amint ez bebizonyosodik, azonnal el kell hagyni a hajót.",
+    "incorrect2": "A legrövidebb időn belül horgonyt kell dobni.",
+    "image": null
+  },
+  {
+    "id": 203,
+    "question": "Mi az elsősegélynyújtás célja?",
+    "correct": "Az élet megmentése, további egészségkárosodás megakadályozása, gyógyulás elősegítése.",
+    "incorrect1": "A társadalmi és erkölcsi normának megfelelően viselkedni a balesetet szenvedett közelében.",
+    "incorrect2": "A mentőket riasztani, és még a mentők kiérkezése előtt a baleset helyszínére érni, hogy mi tájékoztathassuk a kiérkező mentőket.",
+    "image": null
+  },
+  {
+    "id": 204,
+    "question": "Köteles-e a hajó vezetője gondoskodni arról, hogy a beteg a legközelebbi alkalmas helyen, egészségügyi ellátásban részesülhessen?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 205,
+    "question": "Köteles-e mindenki a tőle elvárható módon elsősegélyt nyújtani?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 206,
+    "question": "Változhat-e az újraélesztési protokoll?",
+    "correct": "Igen, 5 évenként felülvizsgálják a statisztikák, klinikai tanulmányok és az újabb eszközök, gyógyszerek alapján.",
+    "incorrect1": "Nem, mert a jól bevált módszeren nem kell és nem is szabad változtatni.",
+    "incorrect2": "Nincs újraélesztési protokoll, ezért nem is változhat.",
+    "image": null
+  },
+  {
+    "id": 207,
+    "question": "Milyen számon kell a mentőket értesíteni?",
+    "correct": "104, vagy 112.",
+    "incorrect1": "105, vagy 112.",
+    "incorrect2": "107, vagy 112.",
+    "image": null
+  },
+  {
+    "id": 208,
+    "question": "Hogyan biztosítunk átjárható légutat?",
+    "correct": "A fejet a hajas fejbőr kezdeténél, és az állnál megfogva hátra hajtjuk.",
+    "incorrect1": "Két ujjal kihúzzuk a nyelvet és gondoskodunk róla, hogy ne kerülhessen vissza a szájüregbe.",
+    "incorrect2": "Az elsősegély dobozban található intubáló szett segítségével.",
+    "image": null
+  },
+  {
+    "id": 209,
+    "question": "Hogyan vizsgáljuk a légzést?",
+    "correct": "Fülünket a sérült légzőnyílásaihoz közel helyezve figyeljük a mellkas mozgását.",
+    "incorrect1": "A sérült mellé fekszünk, mert így tudjuk a legjobban megfigyelni a mellkas mozgást.",
+    "incorrect2": "A sérült szája és orra elé tollpihét, vagy hasonló tárgyat teszünk.",
+    "image": null
+  },
+  {
+    "id": 210,
+    "question": "Mit nevezünk hármas érzékelésnek?",
+    "correct": "Fülünket a beteg orra elé helyezve érezzük és halljuk a levegő áramlását, szemünkkel pedig figyeljük a mellkas mozgását.",
+    "incorrect1": "A sérültet háromszor megvizsgálom, hogy biztos legyek az állapotában.",
+    "incorrect2": "A látás, hallás, szaglás alapján osztályozzuk a sérülteket.",
+    "image": null
+  },
+  {
+    "id": 211,
+    "question": "Mikor kielégítő a légzés?",
+    "correct": "Ha 10 másodperc alatt legalább 2 légző mozgást figyelünk meg.",
+    "incorrect1": "Ha 10 másodperc alatt legalább 3 légző mozgást figyelünk meg.",
+    "incorrect2": "Ha 10 másodperc alatt legfeljebb 1 légző mozgást figyelünk meg.",
+    "image": null
+  },
+  {
+    "id": 212,
+    "question": "Mit nevezünk mellkaskompressziónak?",
+    "correct": "Újraélesztésnél a mellkas ütemes lenyomását és felengedését nevezzük így.",
+    "incorrect1": "Fulladásnál a tüdőben lévő nyomásnövekedést hívjuk így.",
+    "incorrect2": "Fulladásnál a légszomjat hívjuk így.",
+    "image": null
+  },
+  {
+    "id": 213,
+    "question": "Felnőtt újraélesztésnél milyen mélyen kell a mellkast lenyomni?",
+    "correct": "Kb. 5-6 cm.",
+    "incorrect1": "Kb. 1-2 cm.",
+    "incorrect2": "Kb. 12-15 cm.",
+    "image": null
+  },
+  {
+    "id": 214,
+    "question": "Újraélesztésnél milyen mélyen kell a mellkast benyomni?",
+    "correct": "A mellkas keresztmetszetének 1/3-áig.",
+    "incorrect1": "A mellkas keresztmetszetének 1/6-áig.",
+    "incorrect2": "A mellkas keresztmetszetének 1/2-éig.",
+    "image": null
+  },
+  {
+    "id": 215,
+    "question": "Milyen testhelyzetben kell a mellkaskompressziót végezni?",
+    "correct": "A sérült mellé térdelve, nyújtott karokkal, felsőtestből mozogva.",
+    "incorrect1": "A sérült mellé guggolva, nyújtott könyökkel combból rugózva.",
+    "incorrect2": "A sérült mellé térdelve, hajlított kézzel, karból nyomva.",
+    "image": null
+  },
+  {
+    "id": 216,
+    "question": "Újraélesztésnél a két kézfejet ujjaknál összekulcsolva az alsó tenyér párnás részét a mellkas középvonalára a szegycsont alsó harmadára helyezve a férfi mellbimbók vonalában kell a mellkast lenyomni.",
+    "correct": "Igaz.",
+    "incorrect1": "Hamis.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 217,
+    "question": "Percenkét hány lenyomásra kell törekedni a mellkaskompresszió során?",
+    "correct": "100-120",
+    "incorrect1": "2-30",
+    "incorrect2": "220-230",
+    "image": null
+  },
+  {
+    "id": 218,
+    "question": "Mellkaskompressziónál a mellkast mindig teljesen fel kell engedni.",
+    "correct": "Igaz.",
+    "incorrect1": "Hamis.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 219,
+    "question": "Mennyi mellkaskompressziót kell végezni egymás után?",
+    "correct": "30",
+    "incorrect1": "2",
+    "incorrect2": "100",
+    "image": null
+  },
+  {
+    "id": 220,
+    "question": "Legfeljebb mennyi ideig szüneteltethetjük a mellkaskompressziót?",
+    "correct": "5-10 másodperc.",
+    "incorrect1": "15-20 másodperc.",
+    "incorrect2": "25-30 másodperc.",
+    "image": null
+  },
+  {
+    "id": 221,
+    "question": "30 mellkaskompresszió után mennyi befúvást kell végezni?",
+    "correct": "2",
+    "incorrect1": "1",
+    "incorrect2": "3",
+    "image": null
+  },
+  {
+    "id": 222,
+    "question": "Szájból szájba vagy szájból orrba kell a befúvást végrehajtani?",
+    "correct": "Mindkét módszer elfogadott.",
+    "incorrect1": "Szájból szájba.",
+    "incorrect2": "Szájból orrba.",
+    "image": null
+  },
+  {
+    "id": 223,
+    "question": "Mit kell tenni, ha több segítségnyújtó is van a közelben?",
+    "correct": "A segítségnyújtók két percenként váltják egymást, a kompressziót és a befúvást ugyanaz a segítségnyújtó hajtja végre.",
+    "incorrect1": "A segítségnyújtók kiválasztják maguk közül a legrátermettebbet, és az a segítségnyújtó végzi a kompressziót és a befúvást a segítség megérkezéséig.",
+    "incorrect2": "Annak a segítségnyújtónak aki először a helyszínre ért, a később érkezőket el kell küldenie, és egyedül kell végeznie a kompressziót és a befúvást.",
+    "image": null
+  },
+  {
+    "id": 224,
+    "question": "Végezheti-e a befúvást az egyik, a kompressziót a másik segítségnyújtó.",
+    "correct": "A páros munkára csak a kiképzett hivatásos ellátók vállalkozzanak, akik képesek időveszteség nélkül összehangolni munkájukat.",
+    "incorrect1": "Ez az ellátási mód ajánlott a kezdő elsősegélynyújtóknak.",
+    "incorrect2": "Ez az ellátási mód Magyarországon kifejezetten tiltott.",
+    "image": null
+  },
+  {
+    "id": 225,
+    "question": "Igaz-e, hogy a törés, a rándulás és a ficam tünetei és ellátása hasonlóak?",
+    "correct": "Igaz.",
+    "incorrect1": "Hamis.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 226,
+    "question": "Melyik sérülésre igaz az állítás? A csontszövet folytonossága megszakad.",
+    "correct": "Törés.",
+    "incorrect1": "Rándulás.",
+    "incorrect2": "Ficam.",
+    "image": null
+  },
+  {
+    "id": 227,
+    "question": "Melyik sérülésre igaz az állítás? A két csontvég kimozdul a helyéről, az ízületi tok és szalag megnyúlik, vagy elszakad, azonban az ízületi felszínek a helyükön maradnak.",
+    "correct": "Rándulás.",
+    "incorrect1": "Törés.",
+    "incorrect2": "Ficam.",
+    "image": null
+  },
+  {
+    "id": 228,
+    "question": "Melyik sérülésre igaz az állítás? Az erőbehatás végén a csontvégek az ízületi vápából kimozdulva rendellenes pozícióban maradnak.",
+    "correct": "Ficam.",
+    "incorrect1": "Rándulás.",
+    "incorrect2": "Törés.",
+    "image": null
+  },
+  {
+    "id": 229,
+    "question": "Mely állítások igazak a törés, rándulás ficam ellátására.",
+    "correct": "Mozgatási tilalom, jegelés, borogatás, rögzítés.",
+    "incorrect1": "Masszírozás, ékszerek eltávolítása, a sérült testrész melegen tartása.",
+    "incorrect2": "Helyre rakás, sínbe rakás, izolációs fóliába tekerés.",
+    "image": null
+  },
+  {
+    "id": 230,
+    "question": "Melyik vérzésre igaz az állítás? Gyenge intenzitású, nem ritkán csupán kisebb cseppekben jelentkezik a sérült bőrfelületen.",
+    "correct": "Kapilláris/hajszáleres.",
+    "incorrect1": "Vénás/visszeres.",
+    "incorrect2": "Artériás/ütőeres.",
+    "image": null
+  },
+  {
+    "id": 231,
+    "question": "Melyik vérzésre igaz az állítás? A vérzés intenzitása erős is lehet, a vér színe rendszerint sötétpiros.",
+    "correct": "Vénás/visszeres.",
+    "incorrect1": "Kapilláris/hajszáleres.",
+    "incorrect2": "Artériás/ütőeres.",
+    "image": null
+  },
+  {
+    "id": 232,
+    "question": "Melyik vérzésre igaz az állítás? A vérzés tipikus jellemzője az élénkpiros, lüktető sugárban távozó vér.",
+    "correct": "Artériás/ütőeres.",
+    "incorrect1": "Kapilláris/hajszáleres.",
+    "incorrect2": "Vénás/visszeres.",
+    "image": null
+  },
+  {
+    "id": 233,
+    "question": "Melyik vérzéstípus ellátásának lényege a fedőkötés?",
+    "correct": "Kapilláris/hajszáleres.",
+    "incorrect1": "Vénás/visszeres.",
+    "incorrect2": "Artériás/ütőeres.",
+    "image": null
+  },
+  {
+    "id": 234,
+    "question": "Milyen típusú vérzésnél alkalmazandó a nyomókötés?",
+    "correct": "Artériás/ütőeres és vénás/visszeres vérzések ellátására.",
+    "incorrect1": "Kapilláris/hajszáleres vérzés ellátására.",
+    "incorrect2": "Kizárólag belső vérzés ellátására.",
+    "image": null
+  },
+  {
+    "id": 235,
+    "question": "Melyik vérzéstípus ellátásának lényeges lépése a nyomáspont alkalmazása?",
+    "correct": "Artériás/ütőeres.",
+    "incorrect1": "Kapilláris/hajszáleres.",
+    "incorrect2": "Vénás/visszeres.",
+    "image": null
+  },
+  {
+    "id": 236,
+    "question": "Mik a belső vérzés tünetei?",
+    "correct": "Sápadtság, hideg, nedves bőr, szapora pulzus, szomjúság, fázás.",
+    "incorrect1": "Végtag görcsök, levertség, megemelkedett testhőmérséklet, verejtékezés.",
+    "incorrect2": "Hasfájás, hasmenés, hányinger, hányás, remegés, gyengeség.",
+    "image": null
+  },
+  {
+    "id": 237,
+    "question": "Mik a sokk tünetei?",
+    "correct": "Sápadtság, hideg, nedves bőr, szapora pulzus, szomjúság, fázás.",
+    "incorrect1": "Végtag görcsök, levertség, megemelkedett testhőmérséklet, verejtékezés.",
+    "incorrect2": "Hasfájás, hasmenés, hányinger, hányás, remegés, gyengeség.",
+    "image": null
+  },
+  {
+    "id": 238,
+    "question": "Mitől alakul ki a sokkos állapot?",
+    "correct": "A szervezet folyadékháztartásának hirtelen megváltozásától.",
+    "incorrect1": "A vér látványától.",
+    "incorrect2": "Nagy öröm hatására.",
+    "image": null
+  },
+  {
+    "id": 239,
+    "question": "Medence-, vagy gerincsérültnél lehet-e sokkfektetést alkalmazni?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 240,
+    "question": "Kell-e gerincsérülésre gyanakodnunk lépcsőről leesett sérültnél?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 241,
+    "question": "Kell-e gerincsérülésre gyanakodnunk sekély vízbe ugrott sérültnél?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 242,
+    "question": "Kell-e gerincsérülésre gyanakodnunk hirtelen összeeső sérültnél?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 243,
+    "question": "Mi a legfontosabb feladat az égési sérülések ellátásánál?",
+    "correct": "Hűtés, hőelvonás.",
+    "incorrect1": "Mozgatási tilalom.",
+    "incorrect2": "Izolációs fólia használata.",
+    "image": null
+  },
+  {
+    "id": 244,
+    "question": "Égési sérülés hűtésére mi a legmegfelelőbb?",
+    "correct": "Víz.",
+    "incorrect1": "Tejföl.",
+    "incorrect2": "Napolaj.",
+    "image": null
+  },
+  {
+    "id": 245,
+    "question": "Igaz-e, hogy égési sérült esetében a ruhákat és ékszereket el kell távolítani.",
+    "correct": "Igaz, de az égett területbe ragadt ruhákat/ruhadarabokat nem szabad eltávolítani.",
+    "incorrect1": "Igaz, az égett területbe ragadt ruhákat/ruhadarabokat hirtelen kell kirántani a sebből.",
+    "incorrect2": "Igaz, de csak az égett területbe ragadt ruhákat/ruhadarabokat kell eltávolítani.",
+    "image": null
+  },
+  {
+    "id": 246,
+    "question": "Melyik állítás igaz égési sérülés estében?",
+    "correct": "Csak az égett testrészt és környékét kell hűteni.",
+    "incorrect1": "Az egész testet kell hűteni.",
+    "incorrect2": "Mindig a csuklókat kell hűteni.",
+    "image": null
+  },
+  {
+    "id": 247,
+    "question": "A napszúrás, vagy a tartós meleg hatására bekövetkezett rosszullét a súlyosabb?",
+    "correct": "A tartós meleg hatására.",
+    "incorrect1": "A napszúrás.",
+    "incorrect2": "Egyforma.",
+    "image": null
+  },
+  {
+    "id": 248,
+    "question": "Melyek a napszúrás tünetei?",
+    "correct": "Fejfájás, hányinger, hányás.",
+    "incorrect1": "Kettős látás, tarkómerevség.",
+    "incorrect2": "Nincs jellegzetes tünete.",
+    "image": null
+  },
+  {
+    "id": 249,
+    "question": "Napszúrás és meleg okozta rosszullét esetén mi a kezelés módja?",
+    "correct": "Árnyékba, szellős helyre kell vinni, lefektetni, meg kell itatni, hűtőborogatást alkalmazni.",
+    "incorrect1": "Le kell venni a ruháit és az ékszereit, és stabil oldalfekvésbe kell rakni.",
+    "incorrect2": "Izolációs fóliát kell használni.",
+    "image": null
+  },
+  {
+    "id": 250,
+    "question": "Mi a hipotermia?",
+    "correct": "Kihűlés.",
+    "incorrect1": "A betegségektől való kórós félelem.",
+    "incorrect2": "Magas vérnyomás.",
+    "image": null
+  },
+  {
+    "id": 251,
+    "question": "Mi a legfontosabb feladat a hipotermiás sérülések ellátásánál?",
+    "correct": "Gátolni a további hővesztést.",
+    "incorrect1": "Hűtés, hőelvonás.",
+    "incorrect2": "Mozgatási tilalom.",
+    "image": null
+  },
+  {
+    "id": 252,
+    "question": "Okozhat-e sokkos állapotot a hipotermiás sérült hirtelen felmelegítése?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 253,
+    "question": "Okozhat-e hipotermiás állapotot, az égési sérülést szenvedett, vagy lázas beteg túlzott hűtése?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 254,
+    "question": "Mi a legfontosabb feladat mérgezést szenvedett sérült ellátásánál?",
+    "correct": "Mérgezés okának kiderítése, mentőhívás, beteg állapotának figyelése.",
+    "incorrect1": "Hányás- és hasmenés csillapítót adni, rendőrt hívni.",
+    "incorrect2": "A mérget kiszívni, ellenmérget beadni.",
+    "image": null
+  },
+  {
+    "id": 255,
+    "question": "A szén-dioxid könnyebb a levegőnél?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 256,
+    "question": "A szén-monoxid könnyebb a levegőnél?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 257,
+    "question": "Mit kell tenni vélhetően gázzal telített térbe történő belépés előtt?",
+    "correct": "Alaposan kiszellőztetni.",
+    "incorrect1": "Leguggolni, és így menni be.",
+    "incorrect2": "Semmit, mert nem szabad bemenni.",
+    "image": null
+  },
+  {
+    "id": 258,
+    "question": "Milyen esetben alkalmazunk Heimlich-féle műfogást?",
+    "correct": "Fulladó sérültnél.",
+    "incorrect1": "Vízből kiemelésnél.",
+    "incorrect2": "Spriccelő vérzés elállítására.",
+    "image": null
+  },
+  {
+    "id": 259,
+    "question": "Mit kell tenni a fulladó sérülttel?",
+    "correct": "Erőteljesen a lapockái közé csapni.",
+    "incorrect1": "Stabil oldalfekvésbe kell helyezni.",
+    "incorrect2": "Gégemetszést kell végrehajtani.",
+    "image": null
+  },
+  {
+    "id": 260,
+    "question": "Mit kell tenni a fulladó sérülttel?",
+    "correct": "Heimlich-féle műfogást kell alkalmazni.",
+    "incorrect1": "Stabil oldalfekvésbe kell helyezni.",
+    "incorrect2": "Gégemetszést kell végrehajtani.",
+    "image": null
+  },
+  {
+    "id": 261,
+    "question": "Maximum hányszor kell egymás után a fulladó lapockái közé csapni?",
+    "correct": "5-ször.",
+    "incorrect1": "1-szer.",
+    "incorrect2": "10-szer.",
+    "image": null
+  },
+  {
+    "id": 262,
+    "question": "Maximum hányszor kell egymás után gyomortáji lökést alkalmazni a fulladón?",
+    "correct": "5-ször.",
+    "incorrect1": "1-szer.",
+    "incorrect2": "10-szer.",
+    "image": null
+  },
+  {
+    "id": 263,
+    "question": "Igaz-e, hogy először 5 lapockák közé mért ütést, majd 5 gyomortáji lökést kell alkalmazni a léguti idegen test távozásáig?",
+    "correct": "Igaz.",
+    "incorrect1": "Hamis.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 264,
+    "question": "Indokolt-e mentőt hívni, ha sikerült megszüntetni a légúti elzáródást?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 265,
+    "question": "Bele lehet-e fulladni sekély vízbe?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 266,
+    "question": "Veszélyes-e alkoholos, vagy bódult állapotban vízbe ugrani?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 267,
+    "question": "Mi az a növekvő négyszögek módszer, és hol használják?",
+    "correct": "Pásztázási módszer vízbe esett felkutatására, melyet tavi körülmények között használnak.",
+    "incorrect1": "Pásztázási módszer vízbe esett felkutatására, melyet folyami körülmények között használnak.",
+    "incorrect2": "Lékesedés esetén egyre nagyobb lékponyvát kell a lékre helyezni.",
+    "image": null
+  },
+  {
+    "id": 268,
+    "question": "A növekvő négyszögek módszer használatakor hogyan változnak a megtett távolságok?",
+    "correct": "Minden második derékszögű forduló után az első hosszal növekszik a megtett út.",
+    "incorrect1": "Minden második derékszögű forduló után duplázódik a megtett távolság.",
+    "incorrect2": "Minden harmadik derékszögű forduló után duplázódik a megtett távolság.",
+    "image": null
+  },
+  {
+    "id": 269,
+    "question": "Mit lát az ábrán?",
+    "correct": "A vízbeesettek keresésére szolgáló eltolt háromszögek módszerét.",
+    "incorrect1": "Környezetre ártalmas anyagot szállító hajó megkülönböztető jelzését.",
+    "incorrect2": "Hatósági hajó megkülönböztető jelzését.",
+    "image": "Eltolt_haromszogek_modszere.jpg"
+  },
+  {
+    "id": 270,
+    "question": "Hol használjuk az alábbi keresési módot?",
+    "correct": "Állóvízen.",
+    "incorrect1": "Folyóvízen.",
+    "incorrect2": "Álló-, és folyóvízen egyaránt.",
+    "image": "Eltolt_haromszogek_modszere.jpg"
+  },
+  {
+    "id": 271,
+    "question": "Az ábrán látható keresési módot hogyan hajtjuk végre?",
+    "correct": "A fordulóknál a menetirányunkhoz képest 120 fokkal kell elfordulni, mindig azonos irányban.",
+    "incorrect1": "A fordulóknál a menetirányunkhoz képest 60 fokkal kell elfordulni, mindig azonos irányban.",
+    "incorrect2": "A fordulóknál a menetirányunkhoz képest 180 fokkal kell elfordulni, mindig azonos irányban.",
+    "image": "Eltolt_haromszogek_modszere.jpg"
+  },
+  {
+    "id": 272,
+    "question": "Mit lát az ábrán?",
+    "correct": "A vízbeesettek keresésére szolgáló növekvő négyzetek módszerét.",
+    "incorrect1": "A diagonális palánkolási mód elvi vázlatát.",
+    "incorrect2": "Szendvics szerkezetű műanyag hajó csúszásgátló felületének kiképzését.",
+    "image": "Novekvo_negyzetek_modszere.jpg"
+  },
+  {
+    "id": 273,
+    "question": "Hol használjuk az alábbi keresési módot?",
+    "correct": "Állóvízen.",
+    "incorrect1": "Folyóvízen.",
+    "incorrect2": "Álló-, és folyóvízen egyaránt.",
+    "image": "Novekvo_negyzetek_modszere.jpg"
+  },
+  {
+    "id": 274,
+    "question": "Az ábrán látható keresési módot hogyan hajtjuk végre?",
+    "correct": "Két egymást követő szakasz egyforma hosszú, a következő kettő egy egységgel hosszabb.",
+    "incorrect1": "Két egymást követő szakasz egyforma hosszú, a következő kettő hossza az előző duplája.",
+    "incorrect2": "Két egymást követő szakasz egyforma hosszú, a következő kettő egy egységgel rövidebb.",
+    "image": "Novekvo_negyzetek_modszere.jpg"
+  },
+  {
+    "id": 275,
+    "question": "Hol használjuk az alábbi keresési módot?",
+    "correct": "Folyóvízen.",
+    "incorrect1": "Állóvízen.",
+    "incorrect2": "Álló-, és folyóvízen egyaránt.",
+    "image": "Kigyo_vonalban.jpg"
+  },
+  {
+    "id": 276,
+    "question": "Az alábbiak közül melyik keresési módot/módokat használják állóvízen?",
+    "correct": "a. és b.",
+    "incorrect1": "a. és c.",
+    "incorrect2": "c.",
+    "image": "Keresesi_modok.jpg"
+  },
+  {
+    "id": 277,
+    "question": "Az alábbiak közül melyik keresési módot/módokat használják folyóvízen?",
+    "correct": "c.",
+    "incorrect1": "a. és b.",
+    "incorrect2": "a.",
+    "image": "Keresesi_modok.jpg"
+  },
+  {
+    "id": 278,
+    "question": "Folyamon a szem elől tévesztett bajbajutottat hogyan kell felkutatni?",
+    "correct": "A bajbajutott feltételezett helye alá hajózok, majd parttól partig felfelé haladva vizsgálok át egy folyamszakaszt.",
+    "incorrect1": "A bajbajutott feltételezett helye fölé hajózok, majd parttól partig lefelé haladva vizsgálok át egy folyamszakaszt.",
+    "incorrect2": "Az eltolt háromszögek módszert alkalmazva keresem meg a bajbajutottat.",
+    "image": null
+  },
+  {
+    "id": 279,
+    "question": "Használható-e vízből mentéshez például gumimatrac, vagy egyéb strandeszköz, ha nincs a hajón mentőpatkó, vagy mentőgyűrű?",
+    "correct": "Igen, szükség esetén bármilyen tárgy ami erre alkalmas, igénybe vehető az életmentéshez.",
+    "incorrect1": "Nem, mert minden hajón van mentőgyűrű, vagy mentőpatkó.",
+    "incorrect2": "Nem mert nem biztonságos, és kicsúszhat a bajbajutott alól.",
+    "image": null
+  },
+  {
+    "id": 280,
+    "question": "Vízből mentésnél hogyan közelítjük meg a mentendőt állóvízen?",
+    "correct": "Szél ellenében.",
+    "incorrect1": "Oldalszélben.",
+    "incorrect2": "Hátszélben.",
+    "image": null
+  },
+  {
+    "id": 281,
+    "question": "Vízből mentésnél hogyan közelítjük meg a mentendőt folyóvízen?",
+    "correct": "Hegymenetben.",
+    "incorrect1": "Völgymenetben.",
+    "incorrect2": "Hegymenetben, vagy völgymenetben, szabadon választható.",
+    "image": null
+  },
+  {
+    "id": 282,
+    "question": "A vízből mentésnél a mentendőt jobb vagy bal oldalról kell megközelíteni?",
+    "correct": "Bármely oldalról.",
+    "incorrect1": "Jobb oldalról.",
+    "incorrect2": "Bal oldalról.",
+    "image": null
+  },
+  {
+    "id": 283,
+    "question": "A vízből mentésnél a mentendőt szél alól, vagy szél felől kell megközelíteni állóvízen?",
+    "correct": "Szél alól.",
+    "incorrect1": "Szél felől.",
+    "incorrect2": "Mindegy.",
+    "image": null
+  },
+  {
+    "id": 284,
+    "question": "Vízből mentésnél, milyen sebességgel kell a mentendő mellé érni?",
+    "correct": "Nullához közeli sebességgel.",
+    "incorrect1": "A hajó manőversebességével.",
+    "incorrect2": "Minél gyorsabban.",
+    "image": null
+  },
+  {
+    "id": 285,
+    "question": "Mit kell tennünk amikor a mentendő mellé érünk, ha gépi erővel haladó kishajóval közelítjük meg?",
+    "correct": "Az irányváltót üresbe kell tenni, vagy a motort le kell állítani.",
+    "incorrect1": "Az irányváltót előremenetben kell hagyni.",
+    "incorrect2": "Az irányváltót hátramenetbe kell tenni.",
+    "image": null
+  },
+  {
+    "id": 286,
+    "question": "Helyes-e a mentendő megközelítése az ábrán látható módon? A nyíl a folyás vagy a sodrás irányát jelöli.",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": "Mentes_kgh_jo_1.jpg"
+  },
+  {
+    "id": 287,
+    "question": "Helyes-e a mentendő megközelítése az ábrán látható módon? A nyíl a folyás vagy a sodrás irányát jelöli.",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": "",
+    "image": "Mentes_kgh_rossz_1.jpg"
+  },
+  {
+    "id": 288,
+    "question": "Mit teszünk, ha folyóvízen hegymenetben haladva a hajónkról kiesik valaki, és ezt a hajó vezetőjeként azonnal észleljük?",
+    "correct": "Azonnal visszafordulok ügyelve arra, hogy a hajócsavar a vízben lévő személyben kárt ne okozzon.",
+    "incorrect1": "Azonnal hátramenetbe kapcsolok, és farral visszatolatok a vízben lévő személyhez.",
+    "incorrect2": "Egyenesen tovább haladok 2-3 hajóhosszt, majd visszafordulok a mentési manőverhez.",
+    "image": null
+  },
+  {
+    "id": 289,
+    "question": "Mit teszünk, ha folyóvízen völgymenetben haladva a hajónkról kiesik valaki, és ezt a hajó vezetőjeként azonnal észleljük?",
+    "correct": "Egyenesen tovább haladok 2-3 hajóhosszt, majd visszafordulok a mentési manőverhez.",
+    "incorrect1": "Azonnal hátramenetbe kapcsolok, és farral visszatolatok a vízben lévő személyhez.",
+    "incorrect2": "Azonnal visszafordulok ügyelve arra, hogy a hajócsavar a vízben lévő személyben kárt ne okozzon.",
+    "image": null
+  },
+  {
+    "id": 290,
+    "question": "Hogyan kell a vízbe esett bajbajutottat kisgéphajóval megközelíteni?",
+    "correct": "Széllel és/vagy áramlással szemben, a szél alatti oldalon maradva.",
+    "incorrect1": "Széllel és/vagy áramlással szemben, a szél feletti oldalon maradva.",
+    "incorrect2": "A legrövidebb időn belül, az mindegy hogyan.",
+    "image": null
+  },
+  {
+    "id": 291,
+    "question": "Milyen veszélyeket rejthet a vízből mentett hajóba történő beemelése?",
+    "correct": "Kisebb hajóval, csónakkal végzett mentésnél felborulhatunk.",
+    "incorrect1": "A hajó oldalán történő beemelésnél mindig fennáll a borulás veszélye.",
+    "incorrect2": "A hajó orránál és faránál történő beemelésnél mindig fennáll a borulás veszélye.",
+    "image": null
+  },
+  {
+    "id": 292,
+    "question": "Milyen veszélyeket rejthet a vízből mentett hajóba történő beemelése?",
+    "correct": "Ha háton emeljük be a mentendőt gerincsérülést okozhatunk neki.",
+    "incorrect1": "Ha háttal próbáljuk beemelni nem lát minket és megijedhet a mentendő.",
+    "incorrect2": "Ha háttal emeljük be a mentendőt vizet nyelhet.",
+    "image": null
+  },
+  {
+    "id": 293,
+    "question": "Hogyan minimalizálható a hajómotorok környezetterhelése?",
+    "correct": "Idejében elvégzett karbantartásokkal, a pontos, szakszerű beállításokkal és a gyár által előírt kenő- és üzemanyagok használatával.",
+    "incorrect1": "A gyártó által erre a célra javasolt adalékok rendszeres használatával.",
+    "incorrect2": "Megfelelő idejű bemelegítéssel, és a benzinkutak extra üzemanyagainak rendszeres használatával.",
+    "image": null
+  },
+  {
+    "id": 294,
+    "question": "Mi az ami különösen magas károsanyag-kibocsátáshoz vezet és éppen ezért elkerülendő?",
+    "correct": "Magas olaj arány a keverék benzinben.",
+    "incorrect1": "Alacsony olaj arány a keverék benzinben.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 295,
+    "question": "Mi az ami különösen magas károsanyag-kibocsátáshoz vezet és éppen ezért elkerülendő?",
+    "correct": "Levegőben szegény benzin levegő keverék.",
+    "incorrect1": "Levegőben gazdag benzin levegő keverék.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 296,
+    "question": "Mit kell tenni, ha tankoláskor üzemanyag kerül a vízbe?",
+    "correct": "Értesíteni kell a vízirendészetet (107, 112).",
+    "incorrect1": "Ultrát kell rászórni.",
+    "incorrect2": "Nem kell tenni semmit.",
+    "image": null
+  },
+  {
+    "id": 297,
+    "question": "Mit kell tenni, ha tankoláskor üzemanyag kerül a vízbe?",
+    "correct": "Értesíteni kell a katasztrófavédelmet (105, 112).",
+    "incorrect1": "Ultrát kell rászórni.",
+    "incorrect2": "Nem kell tenni semmit.",
+    "image": null
+  },
+  {
+    "id": 298,
+    "question": "Mit kell tenni, ha tankoláskor üzemanyag kerül a vízbe?",
+    "correct": "Értesíteni kell a területileg illetékes vízügyi igazgatóságot.",
+    "incorrect1": "Ultrát kell rászórni.",
+    "incorrect2": "Nem kell tenni semmit.",
+    "image": null
+  },
+  {
+    "id": 299,
+    "question": "Hol kell tárolni egy gázpalackot a hajón?",
+    "correct": "A lakótértől elkülönített, jól szellőző, naptól, sugárzó hőtől védett zárt helyen.",
+    "incorrect1": "A kézi tűzoltó készülékre kell ezeket rakni.",
+    "incorrect2": "Kizárólag a vízvonal alatt szabad tárolni.",
+    "image": null
+  },
+  {
+    "id": 300,
+    "question": "Milyen módon kell a hajón a tűzveszélyes anyagokat tárolni?",
+    "correct": "A lakótértől elkülönített, jól szellőző, naptól, sugárzó hőtől védett zárt helyen.",
+    "incorrect1": "A kézi tűzoltó készülékre kell ezeket rakni.",
+    "incorrect2": "Kizárólag a vízvonal alatt szabad tárolni.",
+    "image": null
+  },
+  {
+    "id": 301,
+    "question": "Miben szabad üzemanyagot tárolni?",
+    "correct": "Az erre a célra rendszeresített minőségi tanúsítvánnyal rendelkező eszközben.",
+    "incorrect1": "Akármiben, de rá kell írni, hogy mi van benne.",
+    "incorrect2": "Akármiben, de egy edényben mindig csak egy fajta üzemanyagtípust szabad tárolni.",
+    "image": null
+  },
+  {
+    "id": 302,
+    "question": "Hogyan kell ellenőrizni összeszerelés után a PB palack tömítettségét?",
+    "correct": "Szivárgás ellenőrző spray-vel.",
+    "incorrect1": "Gyufával.",
+    "incorrect2": "Kóccal.",
+    "image": null
+  },
+  {
+    "id": 303,
+    "question": "Milyen típusú tüzek oltására alkalmas a porral oltó készülék?",
+    "correct": "A,B,C típusúakra és elektromos tüzekre 1000 V feszültségig.",
+    "incorrect1": "A, B, C,típusokra és minden elektromos tűz oltására.",
+    "incorrect2": "A,B,C,D típusú tüzekre.",
+    "image": null
+  },
+  {
+    "id": 304,
+    "question": "Téli tárolás idejére hogyan kell eljárni a poroltóval?",
+    "correct": "Nincs vele tennivaló, marad a helyén.",
+    "incorrect1": "Ki kell venni a hajóból, fagymentes és száraz helyiségben tárolni a téli állás alatt.",
+    "incorrect2": "Ki kell venni, mert a kikötő személyzet intézkedik az esedékes felülvizsgálatáról.",
+    "image": null
+  },
+  {
+    "id": 305,
+    "question": "Elektromos tüzek oltására használható e az A,B,C kategóriájú tüzek oltására alkalmas készülék?",
+    "correct": "Igen, 1000 Volt feszültségig.",
+    "incorrect1": "Nem.",
+    "incorrect2": "Igen, nincs feszültség korlátozás, mert az oltóanyag nem vezeti az áramot.",
+    "image": null
+  },
+  {
+    "id": 306,
+    "question": "Mi a hatásmechanizmusa a porral oltásnak?",
+    "correct": "Az oltóanyag elzárja a levegőtől az égő anyagot, valamint magas hő hatására széndioxid szabadul fel.",
+    "incorrect1": "Az oltóanyag magas hő hatására folyadékká alakul, és lefedi, valamint lehűti a tüzet.",
+    "incorrect2": "Az oltóanyag gőzzé alakul a magas hő hatására, és elfolytja, valamint lehűti a tüzet.",
+    "image": null
+  },
+  {
+    "id": 307,
+    "question": "Hol kell a kézi tűzoltó készüléket elhelyezni?",
+    "correct": "A tűzveszélyes helyek közelében.",
+    "incorrect1": "A menekülési útban.",
+    "incorrect2": "A légkamrában.",
+    "image": null
+  },
+  {
+    "id": 308,
+    "question": "Hol kell a kézi tűzoltó készüléket elhelyezni?",
+    "correct": "Könnyen hozzáférhető helyen.",
+    "incorrect1": "A menekülési útban.",
+    "incorrect2": "A légkamrában.",
+    "image": null
+  },
+  {
+    "id": 309,
+    "question": "Hogyan kell a kézi tűzoltó készüléket elhelyezni?",
+    "correct": "Könnyen oldható rögzítéssel.",
+    "incorrect1": "Lopásvédelemmel ellátott fix rögzítéssel.",
+    "incorrect2": "Nem szabad rögzíteni.",
+    "image": null
+  },
+  {
+    "id": 310,
+    "question": "Milyen veszélye van a szén-dioxiddal oltó készüléknek?",
+    "correct": "A gáz alulról tölti ki a teret, így fulladásveszélyt okozhat.",
+    "incorrect1": "Előfordulhat, hogy nem jön ki belőle az oltópor.",
+    "incorrect2": "Nincs veszélye, ez a legbiztonságosabb oltókészülék.",
+    "image": null
+  },
+  {
+    "id": 311,
+    "question": "Mi az első lépés, ha tűz üt ki a hajón?",
+    "correct": "A hajóban tartózkodó személyek kimentése.",
+    "incorrect1": "A gázpalack, benzinkanna eltávolítása a hajóról.",
+    "incorrect2": "A tűzoltók értesítése.",
+    "image": null
+  },
+  {
+    "id": 312,
+    "question": "Mi az az égési háromszög?",
+    "correct": "A levegő, a hő és az éghető anyag hármasa, amelynek egyidejű jelenléte az égés alapfeltétele.",
+    "incorrect1": "A levegő, a tűz és az éghető anyag hármasa, amelynek egyidejű jelenléte az égés alapfeltétele.",
+    "incorrect2": "A levegő, a hő és a tűz hármasa, amelynek egyidejű jelenléte az égés alapfeltétele.",
+    "image": null
+  },
+  {
+    "id": 313,
+    "question": "Elegendő-e a tűz eloltásához ha az égési háromszögnek csak az egyik tényezőjét vonjuk el?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": null
+  },
+  {
+    "id": 314,
+    "question": "Mi jellemző a kompozit műgyanta égésére?",
+    "correct": "Heves gázképződés, sűrű fekete, mérgező füst formájában.",
+    "incorrect1": "Mérsékelt gázképződés mellett az anyag leginkább parázslik.",
+    "incorrect2": "Heves gázképződés mellett az anyag leginkább parázslik.",
+    "image": null
+  },
+  {
+    "id": 315,
+    "question": "Hány alapfeltétele van az égésnek?",
+    "correct": "3.",
+    "incorrect1": "1.",
+    "incorrect2": "5.",
+    "image": null
+  },
+  {
+    "id": 316,
+    "question": "Az égés alapfeltételei közül mennyit kell minimálisan megszüntetni, hogy a tűz elaludjon?",
+    "correct": "1.",
+    "incorrect1": "3.",
+    "incorrect2": "2.",
+    "image": null
+  },
+  {
+    "id": 317,
+    "question": "Honnan tudható meg a tűzoltó készülék lejárati időpontja?",
+    "correct": "A készüléken hitelesítéskor felragasztható matricán feltüntetik.",
+    "incorrect1": "Az interneten kell megnézni.",
+    "incorrect2": "A tűzoltóság diszpécserét kell megkérdezni a 105-ös számon.",
+    "image": null
+  },
+  {
+    "id": 318,
+    "question": "Honnan tudható meg, hogy milyen tüzek oltására alkalmas tűzoltó készülékünk?",
+    "correct": "A készüléken feltüntetett piktogramokból, és betűjelzésekből.",
+    "incorrect1": "Az interneten kell megnézni.",
+    "incorrect2": "A tűzoltóság diszpécserét kell megkérdezni a 105-ös számon.",
+    "image": null
+  },
+  {
+    "id": 319,
+    "question": "Kell-e a tűzoltóságot értesíteni, ha sikerült a tüzet eloltani?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": "",
+    "image": null
+  },
+  {
+    "id": 320,
+    "question": "Milyen számon kell a tűzoltóságot értesíteni?",
+    "correct": "105, vagy 112.",
+    "incorrect1": "104, vagy 112.",
+    "incorrect2": "107, vagy 112.",
+    "image": null
+  },
+  {
+    "id": 321,
+    "question": "A tűz melyik részét kell célozni a kézi tűzoltó készülékkel?",
+    "correct": "A felénk eső részét.",
+    "incorrect1": "A közepét.",
+    "incorrect2": "A tőlünk távolabbi felét.",
+    "image": null
+  },
+  {
+    "id": 322,
+    "question": "Melyik állítás jellemző a viharjelzésre az alábbiak közül?",
+    "correct": "Villogó fénnyel figyelmeztetnek a veszélyre.",
+    "incorrect1": "Piros és sárga rakétával figyelmeztetnek a veszélyre.",
+    "incorrect2": "Három tónusú hangjelzéssel figyelmeztetnek a veszélyre.",
+    "image": null
+  },
+  {
+    "id": 323,
+    "question": "Jobbforgású hajócsavarral szerelt hajó fara merre mozdul el oldalirányban, ha álló helyzetében erőteljes gázt adunk röviden előremenetben?",
+    "correct": "Jobbra.",
+    "incorrect1": "Balra.",
+    "incorrect2": "Semerre.",
+    "image": null
+  },
+  {
+    "id": 324,
+    "question": "Jobbforgású hajócsavarral szerelt hajó fara merre mozdul el oldalirányban, ha álló helyzetében erőteljes gázt adunk röviden hátramenetben?",
+    "correct": "Balra.",
+    "incorrect1": "Jobbra.",
+    "incorrect2": "Semerre.",
+    "image": null
+  },
+  {
+    "id": 325,
+    "question": "Balforgású hajócsavarral szerelt hajó fara merre mozdul el oldalirányban, ha álló helyzetében erőteljes gázt adunk röviden előremenetben?",
+    "correct": "Balra.",
+    "incorrect1": "Jobbra.",
+    "incorrect2": "Semerre.",
+    "image": null
+  },
+  {
+    "id": 326,
+    "question": "Balforgású hajócsavarral szerelt hajó fara merre mozdul el oldalirányban, ha álló helyzetében erőteljes gázt adunk röviden hátramenetben?",
+    "correct": "Jobbra.",
+    "incorrect1": "Balra.",
+    "incorrect2": "Semerre.",
+    "image": null
+  }
+]

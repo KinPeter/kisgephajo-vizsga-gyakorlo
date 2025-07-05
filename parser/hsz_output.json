@@ -1,0 +1,4282 @@
+[
+  {
+    "question": "Hány fő részből áll a Hajózási Szabályzat (HSz)?",
+    "correct": "Kettő.",
+    "incorrect1": "Egy.",
+    "incorrect2": "Három.",
+    "image": null,
+    "id": 1
+  },
+  {
+    "question": "A HSz melyik része tartalmaz a hazai víziutakra vonatkozó kiegészítő rendelkezéseket?",
+    "correct": "II. rész.",
+    "incorrect1": "I. rész.",
+    "incorrect2": "III. rész.",
+    "image": null,
+    "id": 2
+  },
+  {
+    "question": "Kiterjed-e a HSz hatálya a tengeren közlekedő hajókra is?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": null,
+    "id": 3
+  },
+  {
+    "question": "Mit tekintünk a közlekedési szabályok szempontjából géphajónak?",
+    "correct": "A saját gépi berendezésével hajtott hajót.",
+    "incorrect1": "A gépi hajtással rendelkező hajót.",
+    "incorrect2": null,
+    "image": null,
+    "id": "4"
+  },
+  {
+    "question": "Mit tekintünk a közlekedési szabályok szempontjából vitorlás hajónak?",
+    "correct": "A csak vitorlával haladó hajót.",
+    "incorrect1": "A vitorlát is használó hajót.",
+    "incorrect2": null,
+    "image": null,
+    "id": "5"
+  },
+  {
+    "question": "Minek minősül a közlekedési szabályok szempontjából a vitorla mellett saját gépi hajtóberendezését is használó hajó?",
+    "correct": "Géphajónak.",
+    "incorrect1": "Vitorlás hajónak.",
+    "incorrect2": null,
+    "image": "teszt-1235.jpg",
+    "id": "6"
+  },
+  {
+    "question": "Kishajónak minősül-e a HSz szerint az a 20 méternél rövidebb hajó, amelyen 12 főnél több utas szállítását engedélyezték?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "xxx-1659.jpg",
+    "id": "7"
+  },
+  {
+    "question": "Kishajónak minősül-e a HSz szerint a gyorsjáratú hajó?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "xxx-3951.jpg",
+    "id": "8"
+  },
+  {
+    "question": "Az alábbiak közül melyik tulajdonság jellemzi az úszóművet?",
+    "correct": "Rendeltetésszerűen helyhez kötött.",
+    "incorrect1": "Helyváltoztatásra szolgál.",
+    "incorrect2": "A mederfenékhez rögzített.",
+    "image": "teszt-1408.jpg",
+    "id": "9"
+  },
+  {
+    "question": "Milyen köteléktípusokat különböztet meg a HSz?",
+    "correct": "Vontatott és tolt köteléket, illetve mellévett alakzatot.",
+    "incorrect1": "Tolt-csatolt és vontatott köteléket.",
+    "incorrect2": "Hajóvontákat és mereven összecsatolt kötelékeket.",
+    "image": null,
+    "id": "10"
+  },
+  {
+    "question": "Kishajónak minősül-e a közlekedési szabályok szempontjából az a vitorlás vízi sporteszköz, melynek névleges vitorlafelülete legalább 3 m2?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": "xxx-1648.jpg",
+    "id": "11"
+  },
+  {
+    "question": "Milyen előírás vonatkozik a nyilvántartásra kötelezett kishajó vezetőjére az alábbiak közül? A vezetőnek (   )",
+    "correct": "a kishajó vezetéséhez szükséges képesítéssel kell rendelkeznie.",
+    "incorrect1": "a hajón tartózkodók közül a legmagasabb képesítéssel kell rendelkeznie.",
+    "incorrect2": "legalább kormányosi képesítéssel kell rendelkeznie.",
+    "image": null,
+    "id": "12"
+  },
+  {
+    "question": "Milyen kötelezettsége van a kishajó vezetőjének az illetékes hatóság ellenőrzési tevékenységével kapcsolatban?",
+    "correct": "Biztosítani kell az ellenőrzés lehetőségét.",
+    "incorrect1": "Nincsenek kötelezettségei.",
+    "incorrect2": "Az ellenőrzésről haladéktalanul értesítenie kell a kishajó tulajdonosát.",
+    "image": null,
+    "id": "13"
+  },
+  {
+    "question": "Mit jelöl a hajón látható kettős sárga kúp? Olyan hajót jelöl, amely a közlekedési szabályok szempontjából (   )",
+    "correct": "nem minősül kishajónak.",
+    "incorrect1": "kishajónak minősül.",
+    "incorrect2": null,
+    "image": "xxx-2461.jpg",
+    "id": "14"
+  },
+  {
+    "question": "Mit jelöl a hajón látható csúcsával lefelé álló fekete kúp? Olyan hajót jelöl, amely a közlekedési szabályok szempontjából (   )",
+    "correct": "géphajónak minősül.",
+    "incorrect1": "vitorláshajónak tekintendő.",
+    "incorrect2": null,
+    "image": "xxx-2700.jpg",
+    "id": "15"
+  },
+  {
+    "question": "Mit értünk egy menetben lévő kishajó vonatkozásában a MEGÁLL kifejezés alatt?",
+    "correct": "A parthoz viszonyított megállást.",
+    "incorrect1": "A vízhez viszonyított megállást.",
+    "incorrect2": "Más hajóhoz viszonyított megállást.",
+    "image": null,
+    "id": "16"
+  },
+  {
+    "question": "Minek tekintjük a HSz-ben azt a hajót, amely nem áll horgonyon vagy a parthoz kikötve, illetve nincs zátonyon fennakadva?",
+    "correct": "Menetben lévőnek.",
+    "incorrect1": "Veszteglőnek.",
+    "incorrect2": "Sodródónak.",
+    "image": null,
+    "id": "17"
+  },
+  {
+    "question": "Mi a kötelezettsége a kishajó vezetőjének a kishajón tartandó okmányokkal kapcsolatban?",
+    "correct": "Az illetékes hatóságok képviselőinek felszólítására be kell mutatni azokat.",
+    "incorrect1": "Ellenőrzésre előkészítve kell őket a kishajón tartani.",
+    "incorrect2": "Elegendő az eredeti okmányok fénymásolatait a hajón tartani.",
+    "image": null,
+    "id": "18"
+  },
+  {
+    "question": "Melyik válasz helyes a HSz alapján az alábbiak közül? A biztonságos sebesség olyan sebesség, amelynél a hajó (   )",
+    "correct": "az adott körülmények és viszonyok között szükséges távolságon belül megállhat.",
+    "incorrect1": "egyáltalán nem kelt maga mögött hullámzást.",
+    "incorrect2": "nyugodtan közlekedhet, mert biztosan elkerüli az összeütközést.",
+    "image": null,
+    "id": "19"
+  },
+  {
+    "question": "Hogyan nevezzük a HSz szerint a nem kielégítő pihenés vagy betegség miatt fellépő, a magatartási normától való eltérésben és a reakcióidő növekedésében megnyilvánuló állapotot?",
+    "correct": "Kimerült állapot.",
+    "incorrect1": "Bódult állapot.",
+    "incorrect2": "Beteg állapot.",
+    "image": null,
+    "id": "20"
+  },
+  {
+    "question": "Hogyan nevezzük a HSz szerint az alkohol, kábítószer, illetve gyógyszer vagy más hasonló anyag fogyasztásának következtében fellépő állapotot?",
+    "correct": "Bódult állapot.",
+    "incorrect1": "Beteg állapot.",
+    "incorrect2": "Kimerült állapot.",
+    "image": null,
+    "id": "21"
+  },
+  {
+    "question": "Az alábbiak közül milyen feltételt támaszt a HSz a menetben lévő kishajó vezetőjével szemben?",
+    "correct": "Nem lehet kimerült vagy bódult állapotban.",
+    "incorrect1": "Állandóan a kishajó kormánya mögött kell állnia.",
+    "incorrect2": "A kishajón való tartózkodása alatt nem fogyaszthat sem gyógyszert, sem alkoholt.",
+    "image": null,
+    "id": "22"
+  },
+  {
+    "question": "Ki tartozik felelősséggel a vezetőn kívül a HSz előírásainak megtartásáért egy kishajón?",
+    "correct": "Az a személy, aki ideiglenesen maga határozza meg a kishajó útvonalát és sebességét.",
+    "incorrect1": "A személyzet tagjai akkor, ha nem utasításra cselekszenek.",
+    "incorrect2": "Minden kishajón tartózkodó személy egyetemlegesen felelős.",
+    "image": null,
+    "id": "23"
+  },
+  {
+    "question": "Folytassa a meghatározást! Kishajó vezetése olyan személynek engedhető át, (   )",
+    "correct": "aki nincs kimerült vagy bódult állapotban.",
+    "incorrect1": "aki előtte kellően kialudta magát.",
+    "incorrect2": "aki a vezetésben már legalább egy éves gyakorlattal rendelkezik.",
+    "image": null,
+    "id": "24"
+  },
+  {
+    "question": "Mikor térhet el a kishajóvezető a HSz rendelkezéseitől?",
+    "correct": "Csak akkor, ha azt közvetlenül fenyegető veszély elhárítása érdekében teszi.",
+    "incorrect1": "Nincs szükség erre, mert minden rendkívüli helyzetre létezik előírás.",
+    "incorrect2": "Sosem szabad eltérni az előírásoktól, mert az bűncselekménynek minősül.",
+    "image": null,
+    "id": "25"
+  },
+  {
+    "question": "Milyen előírás vonatkozik a kishajó horgonyára, ha azt nem használják? Ha a horgonyt nem használják (   )",
+    "correct": "azt teljesen fel kell húzni.",
+    "incorrect1": "az nem lóghat a vízfelszín alá.",
+    "incorrect2": "a kishajó gerincvonala fölé kell emelni.",
+    "image": null,
+    "id": "26"
+  },
+  {
+    "question": "Milyen kötelezettség terheli az alábbiak közül egy kishajó vezetőjét, ha olyan tárgyat veszített el, amely a hajózás számára akadályt vagy veszélyt jelenthet?",
+    "correct": "Haladéktalanul értesítenie kell erről a legközelebbi illetékes hatóságot.",
+    "incorrect1": "A kiemelést végző búvárok helyszínre érkezéséig a helyszínről nem távozhat el.",
+    "incorrect2": "Köteles az elvesztett tárgyat megkeresni és kiemelni.",
+    "image": null,
+    "id": "27"
+  },
+  {
+    "question": "Milyen kötelezettség terheli az alábbiak közül egy kishajó vezetőjét, ha víziutat elzáró ismeretlen akadályt észlel? Amennyiben az veszélyezteti a hajózást, (   )",
+    "correct": "akkor lehetőség szerint a helyet köteles megjelölni.",
+    "incorrect1": "azonnal gondoskodnia kell az észlelt akadály eltávolításáról.",
+    "incorrect2": "figyelmeztetnie kell az összes rádióforgalmazásra kötelezett hajót.",
+    "image": null,
+    "id": "28"
+  },
+  {
+    "question": "Terheli-e kötelezettség a kishajó vezetőjét, ha műtárgyat (pl. zsilip, híd) rongál meg?",
+    "correct": "Köteles haladéktalanul értesíteni a legközelebbi illetékes hatóságot.",
+    "incorrect1": "Tájékoztatnia kell a károkozás tényéről a térségben közlekedő hajókat.",
+    "incorrect2": "Ki kell töltenie a károkozásnál használatos felelősségvállalási nyilatkozatokat.",
+    "image": null,
+    "id": "29"
+  },
+  {
+    "question": "Milyen kötelezettség hárul a kishajó vezetőjére a hajón tartózkodó személyek biztonságát fenyegető balesetnél?",
+    "correct": "Minden rendelkezésre álló eszközt fel kell használnia e személyek mentése érdekében.",
+    "incorrect1": "A veszélyeztetett személyek érdekében meg kell várnia míg az illetékes hatóságok intézkednek.",
+    "incorrect2": null,
+    "image": null,
+    "id": "30"
+  },
+  {
+    "question": "Köteles-e segítséget nyújtani a kishajó vezetője, ha azt látja, hogy egy hajó emberéletet veszélyeztető balesetet szenvedett?",
+    "correct": "Igen, saját kishajójának biztonságával összeegyeztethető mértékben.",
+    "incorrect1": "A kedvtelési célú hajó vezetője nem, mivel e kérdésben kevésbé jártas.",
+    "incorrect2": "Csak akkor, ha a kishajóról van szó, mert a nagyhajók esetében a szabályok eltérőek.",
+    "image": null,
+    "id": "31"
+  },
+  {
+    "question": "Milyen kötelezettség hárul az elsüllyedt kishajó vezetőjére az alábbiak közül? A káreset közelében kell maradnia addig, (   )",
+    "correct": "amíg számára az illetékes hatóság a helyszín elhagyását nem engedélyezi.",
+    "incorrect1": "amíg a süllyedéssel kapcsolatban a vízirendészet el nem kezd intézkedni.",
+    "incorrect2": "amíg az elsüllyedt jármű kiemelése be nem fejeződik.",
+    "image": null,
+    "id": "32"
+  },
+  {
+    "question": "Milyen sebességgel szabad közlekednie a HSz előírásai szerint egy kishajónak?",
+    "correct": "Biztonságos sebességgel.",
+    "incorrect1": "Az illetékes hatóság által mindenkor meghatározott sebességgel.",
+    "incorrect2": "90 km/h maximális sebességgel.",
+    "image": null,
+    "id": "33"
+  },
+  {
+    "question": "Folytassa! A kishajó vezetőjének a HSz külön rendelkezése hiányában is meg kell tennie valamennyi elővigyázatossági intézkedést, hogy (   )",
+    "correct": "elkerülje az emberéletet fenyegető veszélyt.",
+    "incorrect1": "elhárítson minden más hajó által okozott kárt.",
+    "incorrect2": "megóvja a személyzetének és minden más személynek testi épségét.",
+    "image": null,
+    "id": "34"
+  },
+  {
+    "question": "Milyen HSz szerinti előírás vonatkozik a kishajó felszerelésére és szerkezetére az alábbiak közül?",
+    "correct": "Biztosítania kell a rajtuk tartózkodó személyek és a hajózás biztonságát.",
+    "incorrect1": "Meg kell felelnie a Hajók Műszaki Felügyeleti Előírásainak.",
+    "incorrect2": "Teljesítenie kell a nemzetközi ajánlások követelményeit.",
+    "image": null,
+    "id": "35"
+  },
+  {
+    "question": "Folytassa! A kishajó vezetője köteles végrehajtani az illetékes hatóságoknak (   )",
+    "correct": "a hajózás biztonsága érdekében kiadott rendelkezéseit.",
+    "incorrect1": "a HSz végrehajtására vonatkozó, írásba foglalt ajánlásait.",
+    "incorrect2": "a víziút hajózhatóságára vonatkozó közérdekű tájékoztatóit.",
+    "image": null,
+    "id": "36"
+  },
+  {
+    "question": "Honnan tájékozódhat a kishajó vezetője a hajózási hatóság által kiadott átmeneti rendelkezésekről (hajósoknak szóló hirdetményekről).",
+    "correct": "A hajózási hatóság közzé teszi azokat a honlapján.",
+    "incorrect1": "A kishajó vezetője köteles a VHF 22-es csatornát hallgatni.",
+    "incorrect2": "A Petőfi rádióban hangzik el a vízállásjelentés után.",
+    "image": null,
+    "id": "37"
+  },
+  {
+    "question": "Milyen kötelezettséget rónak a kishajó vezetőjére a hajózási hatóság által kiadott hajósoknak szóló hirdetmények?",
+    "correct": "Köteles végrehajtani azokat.",
+    "incorrect1": "Mint ajánlásokat, köteles figyelembe venni őket.",
+    "incorrect2": null,
+    "image": null,
+    "id": "38"
+  },
+  {
+    "question": "Mit jelez a tábla, ha azt hajón helyezik el?",
+    "correct": "A dohányzás és nem védett világítótest vagy nyílt láng használata tilos!",
+    "incorrect1": "A hajó teljes területén tilos a dohányzás!",
+    "incorrect2": "A dohányzás vagy a nyílt láng használata tilos!",
+    "image": "teszt-1585.jpg",
+    "id": "39"
+  },
+  {
+    "question": "Mit jelent a képen látható jelzés, ha azt egy hajón helyezték el?",
+    "correct": "Tilos a hajó mellé állni és tőle 25 méter távolságon belül vesztegelni!",
+    "incorrect1": "A hajótól mért 25 méteres távolságon belül megengedett a horgonyzás.",
+    "incorrect2": "A hajótól mért 25 méteres távolságon túl tilos a veszteglés!",
+    "image": "teszt-1586.jpg",
+    "id": "40"
+  },
+  {
+    "question": "Haladhatnak-e a hajók hosszabb ideig párhuzamosan (egymás mellett) azonos irányban?",
+    "correct": "Igen, ha az erre rendelkezésre álló szabad tér ezt lehetővé teszi.",
+    "incorrect1": "Nem, mivel ez növeli az összeütközés veszélyét.",
+    "incorrect2": null,
+    "image": null,
+    "id": "41"
+  },
+  {
+    "question": "Mire figyelmezteti a vízisíelőt, mielőtt vontatni kezdené? Arra, hogy a vízisíelőnek menetben lévő hajótól és munkát végző úszómunkagéptől (   )",
+    "correct": "kellő távolságot kell tartania.",
+    "incorrect1": "legalább 25 m távolságot kell tartania.",
+    "incorrect2": "legfeljebb 3 hajóhossz távolságot kell tartania.",
+    "image": null,
+    "id": "42"
+  },
+  {
+    "question": "Folytassa! A hajónak úgy kell szabályozni a sebességét, hogy (   )",
+    "correct": "ne keltsen olyan hullámot vagy szívóhatást, amely kárt okozhat.",
+    "incorrect1": "más menetben lévő hajónál kellően gyorsabb legyen.",
+    "incorrect2": "biztosítsa annak mindenkori gazdaságos üzemelését.",
+    "image": null,
+    "id": "43"
+  },
+  {
+    "question": "Hogyan kell elhajózni hullámzás elleni védelem jelzéseit viselő hajó mellett? Az elhaladás során a hajók kötelesek (   )",
+    "correct": "a lehető legnagyobb oldaltávolságot tartani tőle.",
+    "incorrect1": "legalább 100 m oldaltávolságot tartani tőle.",
+    "incorrect2": "minimum 3 hajóhossz távolságot tartani tőle.",
+    "image": "xxx-3679.jpg",
+    "id": "44"
+  },
+  {
+    "question": "Folytassa! Egy olyan kisgéphajónak, amely kizárólag kishajókból álló köteléket továbbít, a kötelék műveletképességének biztosításához (   )",
+    "correct": "elegendő gépteljesítménnyel kell rendelkeznie.",
+    "incorrect1": "minimum 15 km/óra holtvízi sebességre kell képesnek lennie.",
+    "incorrect2": "legalább 10 m hosszúságúnak kell lennie.",
+    "image": "xxx-0059.jpg",
+    "id": "45"
+  },
+  {
+    "question": "Folytassa! Az aknamentesítéssel foglalkozó hajó farát tilos megközelíteni (   )",
+    "correct": "1000 m-nél kisebb távolságra.",
+    "incorrect1": "a szükségesnél kisebb távolságra.",
+    "incorrect2": "3 hajóhossznál kisebb távolságra.",
+    "image": "teszt-1683.jpg",
+    "id": "46"
+  },
+  {
+    "question": "Milyen előírás vonatkozik a vízisízésre és hasonló tevékenység végzésére az alábbiak közül?",
+    "correct": "A vontató hajón a vezetőt egy olyan személynek kell kísérnie, akit a vontatókötél kezelésével és a vontatott személy figyelemmel kísérésével bíztak meg.",
+    "incorrect1": "A vontatókötelet csak akkor szabad vonszolni, ha az felúszó anyagú.",
+    "incorrect2": "Ilyen tevékenység csak hatóság által kijelölt zárt pályán folytatható.",
+    "image": null,
+    "id": "47"
+  },
+  {
+    "question": "Milyen előírás vonatkozik a vízisízésre és hasonló tevékenység végzésére az alábbiak közül?",
+    "correct": "A vontató hajó és a vontatott személy köteles kellő távolságot tartani minden más hajótól, a parttól és a fürdőzőktől.",
+    "incorrect1": "Ilyen tevékenység csak hatóság által kijelölt zárt pályán folytatható.",
+    "incorrect2": "A vontatókötelet csak akkor szabad vonszolni, ha az felúszó anyagú.",
+    "image": null,
+    "id": "48"
+  },
+  {
+    "question": "Milyen előírás vonatkozik a vízisízésre és hasonló tevékenység végzésére az alábbiak közül?",
+    "correct": "A vontatókötelet tilos vonszolni, ha abba vontatott személy nem kapaszkodik.",
+    "incorrect1": "Ilyen tevékenység csak hatóság által kijelölt zárt pályán folytatható.",
+    "incorrect2": "Csak napnyugtától napkeltéig szabad vontatókötelet vonszolni.",
+    "image": null,
+    "id": "49"
+  },
+  {
+    "question": "Melyik állítás igaz? Vízisízés és hasonló tevékenység (   )",
+    "correct": "csak nappal és jó látási viszonyok között megengedett.",
+    "incorrect1": "csak elegendően mély vízben, a part közelében megengedett.",
+    "incorrect2": "csak a hatóság által kijelölt zárt pályán megengedett.",
+    "image": null,
+    "id": "50"
+  },
+  {
+    "question": "Milyen előírást fogalmaz meg a HSz a halászattal foglalkozó hajó megközelítésére? Tilos a halászattal foglalkozó hajó (   )",
+    "correct": "farának közelében elhaladni.",
+    "incorrect1": "útját keresztezni 1500 m távolságon belül.",
+    "incorrect2": "hálóját éjszaka megközelíteni.",
+    "image": "xxx-4180.jpg",
+    "id": "51"
+  },
+  {
+    "question": "Igaz vagy hamis az alábbi állítás? Tilos külön engedély nélkül búvár-tevékenységet folytatni olyan helyeken, ahol az a hajózást akadályozhatja!",
+    "correct": "Igaz.",
+    "incorrect1": "Hamis.",
+    "incorrect2": null,
+    "image": null,
+    "id": "52"
+  },
+  {
+    "question": "Milyen előírást tartalmaz a HSz a búvármunkát végző hajó közelében történő elhajózásra? Minden hajó köteles (   )",
+    "correct": "kellő távolságot tartani tőle.",
+    "incorrect1": "mögötte legalább 100 m távolságot tartani.",
+    "incorrect2": "legalább 20 km/óra sebességgel mellette elhaladni.",
+    "image": "teszt-1665.jpg",
+    "id": "53"
+  },
+  {
+    "question": "Milyen külső körülmények befolyásolják kishajó vezetését? A HSz más rendelkezésein túl, kishajót",
+    "correct": "az időjárási, a forgalmi és a hajóútviszonyoknak megfelelően kell vezetni.",
+    "incorrect1": "a természeti környezetet nem befolyásoló módon kell vezetni.",
+    "incorrect2": "a vízállás változásának megfelelő sebességgel kell vezetni.",
+    "image": null,
+    "id": "54"
+  },
+  {
+    "question": "Milyen előírás vonatkozik az alábbiak közül egy kishajóra a befogadóképesség szempontjából?",
+    "correct": "Két tíz éven aluli gyermek egy személynek tekinthető.",
+    "incorrect1": "Két kiskorú gyermek egy felnőtt személynek tekinthető.",
+    "incorrect2": "Nem a HSz előírásai, hanem a hajólevélben feltüntetett befogadóképesség az irányadó.",
+    "image": null,
+    "id": "55"
+  },
+  {
+    "question": "Az alábbiak közül mikor alkalmazható az a szabály, amely szerint két tíz éven aluli gyermek egy személynek tekinthető?",
+    "correct": "Ha minden utasnak van ülőhelye.",
+    "incorrect1": "Ha minden személy mentőmellényt visel.",
+    "incorrect2": "Ha a kishajó 10 főnél több befogadóképességgel rendelkezik.",
+    "image": null,
+    "id": "56"
+  },
+  {
+    "question": "Mely vízterületen NEM alkalmazható az a szabály, amely szerint a legnagyobb utaslétszám 25%-ára megengedett két tíz éven aluli gyermeket egy személynek tekinteni?",
+    "correct": "Balaton.",
+    "incorrect1": "Duna.",
+    "incorrect2": "Velencei-tó.",
+    "image": null,
+    "id": "57"
+  },
+  {
+    "question": "Kishajóval a Balatonon hajózik. Hogyan alkalmazható az a szabály, amely szerint két tíz éven aluli gyermek egy személynek tekinthető a befogadóképesség kihasználása szempontjából?",
+    "correct": "Legfeljebb a megengedett legnagyobb utaslétszám 10%-ára alkalmazható.",
+    "incorrect1": "A vezetőn kívül minden más személyre alkalmazható.",
+    "incorrect2": "Maximum a legnagyobb utaslétszám 25%-ra alkalmazható.",
+    "image": null,
+    "id": "58"
+  },
+  {
+    "question": "Válassza ki azt a helyzetet vagy körülményt, amely miatt megtiltható a kishajó elindulása! Az illetékes hatóság megtilthatja az elindulást, ha a kishajó (   )",
+    "correct": "hajózásra alkalmatlan.",
+    "incorrect1": "útvonalán sekély gázlók alakultak ki.",
+    "incorrect2": "vezetője elfelejtette útját a vízirendészetnek bejelenteni.",
+    "image": null,
+    "id": "59"
+  },
+  {
+    "question": "Hogy nevezik a HSz alapján a kikötő, vagy menedékhely igénybevételét szabályozó rendelkezést?",
+    "correct": "Kikötőrend.",
+    "incorrect1": "Üzemeltetési rend.",
+    "incorrect2": "Közlekedési rend.",
+    "image": null,
+    "id": "60"
+  },
+  {
+    "question": "Az alábbiak közül mely hajózási létesítmények rendelkeznek üzemeltetési renddel (melynek a betartását a HSz kötelezővé teszi)?",
+    "correct": "Komp- és révátkelőhelyek, hajóhidak, zsilipek.",
+    "incorrect1": "Elektromos átfeszítések, nyílt vízi sportpályák.",
+    "incorrect2": "Mederfenékhez rögzített pilléreken álló hidak.",
+    "image": null,
+    "id": "61"
+  },
+  {
+    "question": "Mikor kell tájékozódnom egy adott zsilip üzemeltetési rendjéről?",
+    "correct": "Útiterv készítésekor, ha azt tervezem, hogy majd át fogok hajózni az adott zsilipen.",
+    "incorrect1": "Egy kedvtelési kishajósnak erre sosincs szüksége, csak a hivatásos hajósoknak.",
+    "incorrect2": "Akkor, ha ezt az időjárási körülmények indokolják.",
+    "image": null,
+    "id": "62"
+  },
+  {
+    "question": "Mit tesz az a kishajó, aki azt látja, hogy az ellenőrző hatóság hajója álló helyzetben is viseli a megkülönböztető kék villogó fényt? A kishajó köteles (   )",
+    "correct": "az elhaladás során menetsebességét csökkenteni és a lehető legnagyobb távolságot tartani.",
+    "incorrect1": "rádiótelefonon bejelentkezni és kérni az elhaladás engedélyezését.",
+    "incorrect2": null,
+    "image": "xxx-3923.jpg",
+    "id": "63"
+  },
+  {
+    "question": "Milyen távolságon belül tilos keresztezni a menetben lévő nagyhajó útvonalát (haladási irányában) kisgéphajóval?",
+    "correct": "1000 m-en belül.",
+    "incorrect1": "300 m-en belül.",
+    "incorrect2": "500 m-en belül.",
+    "image": "teszt-2312.jpg",
+    "id": "64"
+  },
+  {
+    "question": "Milyen távolságon belül tilos kishajóval megközelíteni oldalról menetben lévő nagyhajót (feltéve, hogy a víziút méretei azt lehetővé teszik)?",
+    "correct": "30 m-nél kisebb oldaltávolságra.",
+    "incorrect1": "10 m-nél kisebb oldaltávolságra.",
+    "incorrect2": "50 m-nél kisebb oldaltávolságra.",
+    "image": "xxx-3930.jpg",
+    "id": "65"
+  },
+  {
+    "question": "Milyen távolságon belül tilos kisgéphajóval hátulról megközelíteni menetben lévő nagygéphajót?",
+    "correct": "60 m-nél kisebb távolságra.",
+    "incorrect1": "30 m-nél kisebb távolságra.",
+    "incorrect2": "100 m-nél kisebb távolságra.",
+    "image": "xxx-3931.jpg",
+    "id": "66"
+  },
+  {
+    "question": "Milyen távolságon belül tilos kishajóval keresztezni a menetben lévő és 2 db sárga villogó fényt viselő gyorsjáratú hajó útvonalát (annak haladási irányában)?",
+    "correct": "1500 m-en belül.",
+    "incorrect1": "500 m-en belül.",
+    "incorrect2": "1000 m-en belül.",
+    "image": null,
+    "id": "67"
+  },
+  {
+    "question": "Milyen távolságon belül tilos kishajóval megközelíteni oldalról a menetben lévő és 2 db sárga villogó fényt viselő gyorsjáratú hajót (feltéve, hogy a víziút méretei azt lehetővé teszik)?",
+    "correct": "30 m-nél kisebb oldaltávolságra.",
+    "incorrect1": "10 m-nél kisebb oldaltávolságra.",
+    "incorrect2": "50 m-nél kisebb oldaltávolságra.",
+    "image": "xxx-3951.jpg",
+    "id": "68"
+  },
+  {
+    "question": "Milyen távolságon belül tilos kishajóval hátulról megközelíteni menetben lévő gyorsjáratú hajót?",
+    "correct": "60 m-nél kisebb távolságra.",
+    "incorrect1": "30 m-nél kisebb távolságra.",
+    "incorrect2": "100 m-nél kisebb távolságra.",
+    "image": null,
+    "id": "69"
+  },
+  {
+    "question": "Milyen távolságon belül tilos kishajóval az alacsonyvezetésű köteles komp kifeszített kötelét megközelíteni? ",
+    "correct": "50 m-nél kisebb távolságra.",
+    "incorrect1": "30 m-nél kisebb távolságra.",
+    "incorrect2": "80 m-nél kisebb távolságra.",
+    "image": "xxx-0666.jpg",
+    "id": "70"
+  },
+  {
+    "question": "Milyen előírás vonatkozik a kikötött úszólétesítmény és a part közötti vízterületen közlekedő kishajóra? A kötelek, támdorongok, kikötői eszközök alatt (   )",
+    "correct": "tilos közlekedni.",
+    "incorrect1": "akkor engedélyezett az áthaladás, ha elegendő a víz mélysége.",
+    "incorrect2": "csak 5 km/órás sebességgel szabad áthaladni.",
+    "image": "xxx-1725.jpg",
+    "id": "71"
+  },
+  {
+    "question": "Milyen feltételei vannak kishajóval vízisíelő vontatásának az alábbiak közül?",
+    "correct": "A vontatókötél a vízijármű műveletképességét nem gátolhatja.",
+    "incorrect1": "A vontatás csak megfelelően (gyárilag) kialakított vontató berendezéssel történhet.",
+    "incorrect2": "A vontató vízfelszínhez viszonyított sebességének el kell érnie a 30 km/h értéket.",
+    "image": "xxx-4225.jpg",
+    "id": "72"
+  },
+  {
+    "question": "Milyen közlekedési előírások vonatkoznak a vízisít vagy más hasonló (úszóeszköznek nem minősülő) eszközt vontató vízijárműre az alábbiak közül?",
+    "correct": "A kisgéphajó közlekedésére vonatkozó szabályok.",
+    "incorrect1": "A kishajó felhasználói kézikönyvének vontatásra vonatkozó előírásai.",
+    "incorrect2": "A motoros vízi sporteszközre vonatkozó kiegészítő szabályok.",
+    "image": null,
+    "id": "73"
+  },
+  {
+    "question": "Mi a feladata a kishajóvezető által kijelölt, a vízisíelőt folyamatosan figyelő személynek az alábbiak közül? Köteles (   )",
+    "correct": "a vízisíelőt figyelmeztetni a felmerülő veszélyekre, és számára a hajóvezető utasításait továbbítani.",
+    "incorrect1": "gondoskodni arról, hogy a vontatókötél mindig feszes legyen.",
+    "incorrect2": "a vízisíelő utasítására a vontatókötél hosszát szabályozni.",
+    "image": null,
+    "id": "74"
+  },
+  {
+    "question": "Folytassa! Ha a kishajó használata során a megengedett legkisebb biztonsági távolság ideiglenesen nem tartható meg, akkor (   )",
+    "correct": "a kishajóban tartózkodó személyek mentőmellényt kötelesek viselni.",
+    "incorrect1": "meg kell kettőzni a hajóban a mentőgyűrűk számát.",
+    "incorrect2": "azonnal a legközelebbi horgonyzóhelyre kell hajózni.",
+    "image": null,
+    "id": "75"
+  },
+  {
+    "question": "Mikor kell eltávolítani a kishajóból indulás előtt a vizet? Ha annak mennyisége befolyásolja a kishajó (   )",
+    "correct": "stabilitását és úszóképességét.",
+    "incorrect1": "nedvességre érzékeny eszközeinek működését.",
+    "incorrect2": "merülési mércéjének hitelességét.",
+    "image": null,
+    "id": "76"
+  },
+  {
+    "question": "Igaz, vagy hamis az alábbi állítás? Fürdés céljából vízijárművet csak a vezető engedélyével szabad elhagyni.",
+    "correct": "Igaz.",
+    "incorrect1": "Hamis.",
+    "incorrect2": null,
+    "image": null,
+    "id": "77"
+  },
+  {
+    "question": "Igaz, vagy hamis az alábbi állítás? A vízijárművet elhagyó fürdőzőt mindaddig követni kell (mentésre készenlétben), amíg az nincs teljes biztonságban.",
+    "correct": "Igaz.",
+    "incorrect1": "Hamis.",
+    "incorrect2": null,
+    "image": null,
+    "id": "78"
+  },
+  {
+    "question": "Folytassa! Búvármunkák közelében minden vízijármű köteles sebességét a lehető legkisebbre csökkenteni, és a jelzéstől (   )",
+    "correct": "legalább 50 méter távolságot tartani.",
+    "incorrect1": "maximum 100 méter távolságot tartani.",
+    "incorrect2": "minimum 25 m távolságot tartani.",
+    "image": "xxx-4182.jpg",
+    "id": "79"
+  },
+  {
+    "question": "Hogyan szabad felügyelet nélkül hagyni kisgéphajót és saját gépi hajtóberendezéssel rendelkező vitorlás kishajót?",
+    "correct": "Úgy, hogy azt illetéktelen személy üzembe ne helyezhesse.",
+    "incorrect1": "A motortér lezárása, illetve külmotor esetén annak leszerelése után szabad.",
+    "incorrect2": "Csak akkor szabad, ha a hajó a parthoz kötéllel ki van kötve.",
+    "image": null,
+    "id": "80"
+  },
+  {
+    "question": "Folytassa! A kerítő- vagy vonóhálóval halászó hajót más hajó (   )",
+    "correct": "150 m-nél kisebb távolságra nem közelítheti meg.",
+    "incorrect1": "csökkentett sebességgel közelítheti meg.",
+    "incorrect2": "200 m-nél kisebb távolságra nem közelítheti meg.",
+    "image": "teszt-1199.jpg",
+    "id": "81"
+  },
+  {
+    "question": "A HSz előírásai szerint milyennek kell maradnia egy vízzel teljesen elárasztott kishajónak?",
+    "correct": "Úszóképesnek.",
+    "incorrect1": "Működőképesnek.",
+    "incorrect2": "Üzemképesnek.",
+    "image": null,
+    "id": "82"
+  },
+  {
+    "question": "Milyen meteorológiai viszonyt jelez tavainkon az I. fokú viharjelzés (percenként 45 felvillanással működő sárga villogó fény)?",
+    "correct": "Veszélyes jelenségek közeledtének lehetőségét jelzik a keletkezés idejére való utalás nélkül.",
+    "incorrect1": "Veszélyes jelenségek várható bekövetkezését jelzik 1 órán belül.",
+    "incorrect2": "A veszélyes meteorológiai jelenségek megszűnését jelzik.",
+    "image": null,
+    "id": "83"
+  },
+  {
+    "question": "Milyen meteorológiai viszonyt jelez tavainkon a II. fokú viharjelzés (percenként 90 felvillanással működő sárga villogó fény)?",
+    "correct": "Ez a veszély jele, a veszélyes jelenségek közvetlen közeledtére figyelmeztetnek.",
+    "incorrect1": "Veszélyes jelenségek közeledtének lehetőségét jelzik 1 órai valószínűséggel.",
+    "incorrect2": "Veszélyes meteorológiai jelenségek megszűnését jelzik.",
+    "image": null,
+    "id": "84"
+  },
+  {
+    "question": "Hajózhat-e a Balatonon az a kedvelési célú kishajó, amelynek hajóokmánya azt tartalmazza, hogy 3. zónájú belvizeken történő közlekedésre alkalmas?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": null,
+    "id": "85"
+  },
+  {
+    "question": "Hajózhat-e a Velencei-tavon az a kedvelési célú kishajó, amelynek hajóokmánya azt tartalmazza, hogy 2. zónájú belvizeken történő közlekedésre alkalmas?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": null,
+    "id": "86"
+  },
+  {
+    "question": "Folytassa! Tilos olyan tárgyat, illetve anyagot, amely a környezetet károsíthatja és a hajózás, valamint a víziút egyéb használói számára akadályt vagy veszélyt jelenthet (   )",
+    "correct": "a vízbe dobni, ejteni, önteni vagy folyatni.",
+    "incorrect1": "a hajóút közelében elhelyezni akkor, ha a hajó nincs mozgásban.",
+    "incorrect2": "a víziút partja mellett a hajóról kidobni, kifolyatni.",
+    "image": null,
+    "id": "87"
+  },
+  {
+    "question": "Keletkezhet-e egy kisgéphajón olaj-, vagy kenőanyag-tartalmú hajóüzemi hulladék?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": null,
+    "id": "88"
+  },
+  {
+    "question": "Keletkezhet-e kisgéphajón a HSz fogalom meghatározása szerinti fáradt olaj?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": null,
+    "id": "89"
+  },
+  {
+    "question": "Keletkezhet-e kisgéphajón olyan hulladék, amely a HSz fogalom meghatározása szerint fenékvíznek minősül?",
+    "correct": "Igen, ha az a hajó elkülönülő tereiből (pl. motortérből) származik és olajjal szennyezett.",
+    "incorrect1": "Igen, ez a hajó alsó részében összegyűlő csapadékvíz.",
+    "incorrect2": "Nem, mert a kondenzációból vagy fröccsenésből származó víz nem minősül hulladéknak.",
+    "image": null,
+    "id": "90"
+  },
+  {
+    "question": "Keletkezhet-e kishajón a HSz fogalom meghatározása szerinti kommunális szennyvíz?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": null,
+    "id": "91"
+  },
+  {
+    "question": "Mi minősül a HSz fogalommeghatározása szerint kommunális szennyvíznek?",
+    "correct": "A konyhából, étkezőből, mosdóból, és a mosodából származó szennyvíz, valamint a fekália.",
+    "incorrect1": "A hajófenékben összegyűlt csapadék- és kondenzvíz.",
+    "incorrect2": "A hajón a tisztítóberendezés üzemeltetése során keletkezett víz.",
+    "image": null,
+    "id": "92"
+  },
+  {
+    "question": "Mi minősül a HSz fogalom meghatározása szerint háztartási szemétnek?",
+    "correct": "A szerves és szervetlen háztartási és konyhai hulladék.",
+    "incorrect1": "Szerves, szilárd halmazállapotú hulladék.",
+    "incorrect2": "A tisztítóberendezés üzemeltetése során keletkezett hulladék.",
+    "image": null,
+    "id": "93"
+  },
+  {
+    "question": "Milyen kötelezettség hárul a kishajó vezetőjére a hajón keletkező hulladékokkal kapcsolatban az alábbiak közül?",
+    "correct": "Megfelelő gondosságot kell tanúsítania annak érdekében, hogy elkerülje a víziút szennyezését.",
+    "incorrect1": "Hajóüzemi hulladékot a vízbe engednie csak a nemzeti előírásoknak megfelelő hígítással szabad.",
+    "incorrect2": null,
+    "image": null,
+    "id": "94"
+  },
+  {
+    "question": "Milyen kötelezettség terheli a kishajó vezetőjét a fenékvízzel (géptérből származó olajos fenékvíz) kapcsolatban? A kishajó vezetője köteles (   )",
+    "correct": "biztosítani a géptéri fenékvíz összegyűjtését.",
+    "incorrect1": "gondoskodni a géptéri fenék tisztántartásáról.",
+    "incorrect2": "megakadályozni a géptérben összegyűlt víz olajjal való szennyeződését.",
+    "image": null,
+    "id": "95"
+  },
+  {
+    "question": "Milyen előírást tartalmaz a HSz a hajó külhéjának tisztítására?",
+    "correct": "Tilos a hajók külhéját olyan anyagokkal tisztítani, amelyek vízbe dobása tiltott.",
+    "incorrect1": "Tilos a nagynyomású tisztítóberendezésekkel mosni a hajók külhéját.",
+    "incorrect2": "A hajó külhéját csak vízben oldódó szerrel szabad mosni.",
+    "image": null,
+    "id": "96"
+  },
+  {
+    "question": "Milyen előírást tartalmaz a HSz a hajón alkalmazott festékek használatára?",
+    "correct": "Tilos az antivegetatív festékek használata.",
+    "incorrect1": "A festékekhez csak vízben oldódó hígítót szabad használni.",
+    "incorrect2": "A HSz felsorolja, hogy mely anyagokat tartalmazó festékeket szabad használni.",
+    "image": null,
+    "id": "97"
+  },
+  {
+    "question": "Hajózni készül a Tisza-tavon, és előtte útitervet készít. Talál-e a nemzetközi szabályok mellett nemzeti, kiegészítő előírásokat a HSz-ben erre a vízterületre?",
+    "correct": "Igen, a HSz II. része tartalmazza a hazai víziutakra vonatkozó, kiegészítő előírásokat.",
+    "incorrect1": "Nem, a HSz csak az elsőbbségadás szabályairól rendelkezik.",
+    "incorrect2": null,
+    "image": null,
+    "id": "98"
+  },
+  {
+    "question": "Hajózni készül a Balatonon, és előtte útitervet készít. Talál-e a nemzetközi szabályok mellett nemzeti, kiegészítő előírásokat a HSz-ben erre a vízterületre?",
+    "correct": "Igen, a HSz II. része tartalmazza a hazai víziutakra vonatkozó, kiegészítő előírásokat.",
+    "incorrect1": "Nem, a HSz csak az elsőbbségadás szabályairól rendelkezik.",
+    "incorrect2": null,
+    "image": null,
+    "id": "99"
+  },
+  {
+    "question": "Mi a hajóút a HSz fogalom meghatározása szerint?",
+    "correct": "A vízi útnak az adott vízállásnál hajózásra használt és jelzésekkel kitűzött része.",
+    "incorrect1": "A hajózás részére megnyitott természetes vagy mesterséges felszíni víz.",
+    "incorrect2": "Hajózásra igénybe vehető vízterület, melynek része a víziút.",
+    "image": null,
+    "id": "100"
+  },
+  {
+    "question": "Mit értünk a hegymenet fogalma alatt a HSz-ben?",
+    "correct": "A folyó forrása felé történő haladást.",
+    "incorrect1": "A hullámhegyek biztonságos meghajózásának irányát.",
+    "incorrect2": "A víz áramlásával ellentétes irányú hajózást.",
+    "image": null,
+    "id": "101"
+  },
+  {
+    "question": "Mit értünk a völgymenet fogalma alatt a HSz-ben?",
+    "correct": "A folyó torkolata felé történő haladást.",
+    "incorrect1": "A víz áramlásával azonos irányú hajózást.",
+    "incorrect2": "A hullámok mozgásával azonos irányú haladást.",
+    "image": null,
+    "id": "102"
+  },
+  {
+    "question": "Folytassa a HSz alapján! A víziút jobb és bal partját (   )",
+    "correct": "a forrástól a torkolat felé haladva értelmezzük.",
+    "incorrect1": "a torkolattól a forrás felé haladva értelmezzük.",
+    "incorrect2": "a mindenkori menetirány szerint értelmezzük.",
+    "image": null,
+    "id": "103"
+  },
+  {
+    "question": "Mit jelent a bal part fogalma a HSz-ben?",
+    "correct": "A víziút bal oldalát, a forrástól a torkolat felé haladva.",
+    "incorrect1": "A víziút bal partját, a torkolattól a forrás felé haladva.",
+    "incorrect2": "A hajó menetirányához képest bal oldal felé található partot.",
+    "image": null,
+    "id": "104"
+  },
+  {
+    "question": "Folytassa! A kishajó hosszának, szélességének, magasságának, merülésének és sebességének meg kell felelnie (   )",
+    "correct": "a víziút és a műtárgyak műszaki jellemzőinek.",
+    "incorrect1": "a műszaki és nautikai előírásoknak.",
+    "incorrect2": "a bójákkal kitűzött hajóút jellemzőinek.",
+    "image": null,
+    "id": "105"
+  },
+  {
+    "question": "Mit köteles tenni egy kishajó vezetője akkor, ha útja során valamely kitűző jel rendellenességét, sérülését észleli?",
+    "correct": "Köteles az észlelt eseményt, vagy rendellenességet a legközelebbi illetékes hatóságnál bejelenteni.",
+    "incorrect1": "Figyelmen kívül hagyhatja, mert intézkedésre csak a nagyhajó vezetője kötelezett.",
+    "incorrect2": "A lehetőségeihez mérten meg kell kísérelnie a hiba elhárítását (pl. izzó csere).",
+    "image": null,
+    "id": "106"
+  },
+  {
+    "question": "Folytassa! Folyamkilométer a víziút adott pontjának a folyó vagy csatorna (   )",
+    "correct": "torkolatától mért távolsága.",
+    "incorrect1": "forrásától mért távolsága.",
+    "incorrect2": "a jobb parton mért és a torkolattól számított távolsága.",
+    "image": "xxx-1665.jpg",
+    "id": "107"
+  },
+  {
+    "question": "Mit jelölnek az ábrán látható laterális kitűző jelek?",
+    "correct": "A hajóút jobb szélet és a jobb part közeli veszélyeket.",
+    "incorrect1": "A hajóút bal szélét és a bal part közeli veszélyeket.",
+    "incorrect2": "A hajóút tengelyét.",
+    "image": "teszt-0473.jpg",
+    "id": "108"
+  },
+  {
+    "question": "Mit jelez az ábrán látható vörös villanó fényű bója?",
+    "correct": "A hajóút jobb szélét és a jobb part közeli veszélyeket.",
+    "incorrect1": "A veszteglőhelyet a hajóút jobb oldalán határolja el.",
+    "incorrect2": null,
+    "image": "teszt-0475.jpg",
+    "id": "109"
+  },
+  {
+    "question": "Kishajómmal völgymenetben haladok. Biztonságra törekedve, melyik oldal felől hajózom el az ábrán látható bója mellett? A bója a hajóút jobb szélét és a jobb part közeli veszélyeket jelzi, (   )",
+    "correct": "a bója mellett a hajóm jobb oldala felől hajózom el.",
+    "incorrect1": "a bója mellett a hajóm bal oldala felől hajózom el.",
+    "incorrect2": null,
+    "image": "teszt-0476.jpg",
+    "id": "110"
+  },
+  {
+    "question": "Kishajómmal hegymenetben haladok. Biztonságra törekedve, melyik oldal felől hajózom el az ábrán látható bója mellett? A bója a hajóút jobb szélét és a jobb part közeli veszélyeket jelzi, (   )",
+    "correct": "a bója mellett a hajóm bal oldala felől hajózom el.",
+    "incorrect1": "a bója mellett a hajóm jobb oldala felől hajózom el.",
+    "incorrect2": null,
+    "image": "teszt-0477.jpg",
+    "id": "111"
+  },
+  {
+    "question": "Mit jelez az ábrán látható vörös hengert formáló, fehér P betűvel ellátott bója? A fehér P betű azt jelenti, hogy a hajóút veszteglőhely mentén halad, a bója (   )",
+    "correct": "a hajóút jobb szélét és a jobb part közötti veszteglőhelyet határolja el.",
+    "incorrect1": "a hajóút bal szélét és a bal part közötti veszteglőhelyet határolja el.",
+    "incorrect2": null,
+    "image": "teszt-0511.jpg",
+    "id": "112"
+  },
+  {
+    "question": "Mit jelez az ábrán látható (állandó fázisú) vörös fényű bója?",
+    "correct": "A hajóút jobb szélét és a jobb part közötti veszteglőhelyet határolja el.",
+    "incorrect1": "A hajóút bal szélét és a bal part közötti veszteglőhelyet határolja el.",
+    "incorrect2": null,
+    "image": "teszt-0513.jpg",
+    "id": "113"
+  },
+  {
+    "question": "Mit jelez a parti tábla az alábbiak közül? A hajóút parthoz viszonyított helyzetét jelöli ott, (   )",
+    "correct": "ahol az a jobb parthoz közelít.",
+    "incorrect1": "ahol az a bal parthoz közelít.",
+    "incorrect2": null,
+    "image": "xxx-0543.jpg",
+    "id": "114"
+  },
+  {
+    "question": "Mit jelez az ábrán látható villanó vörös fényű parti tábla? A hajóút parthoz viszonyított helyzetét ott, ahol az a jobb parthoz közelít, (   )",
+    "correct": "továbbá iránytartó jelként is szolgál.",
+    "incorrect1": "de csak a vízen elhelyezett más jelölésekkel együtt vehető figyelembe.",
+    "incorrect2": "és kisegítő jelként a mederbe nyúló veszélyes helyeket is jelzi.",
+    "image": "xxx-0544.jpg",
+    "id": "115"
+  },
+  {
+    "question": "Mit jelöl az ábrán látható parti tábla? Egyrészt kisegítő jelként szolgál a mederbe benyúló különféle műtárgyak (gát, vezetőmű stb.) határolására, másrészt (   )",
+    "correct": "a jobb parti veszélyes helyeket jelzi.",
+    "incorrect1": "a bal parti veszélyes helyeket jelzi.",
+    "incorrect2": null,
+    "image": "xxx-0550.jpg",
+    "id": "116"
+  },
+  {
+    "question": "Mit jelölnek az ábrán látható laterális kitűző jelek?",
+    "correct": "A hajóút bal szélét és a bal part közeli veszélyeket.",
+    "incorrect1": "A hajóút jobb szélet és a jobb part közeli veszélyeket.",
+    "incorrect2": "A hajóút tengelyét.",
+    "image": "teszt-0524.jpg",
+    "id": "117"
+  },
+  {
+    "question": "Mit jelez az ábrán látható zöld villanó fényű bója?",
+    "correct": "A hajóút bal szélét és a bal part közeli veszélyeket.",
+    "incorrect1": "A veszteglőhelyet a hajóút bal oldalán határolja el.",
+    "incorrect2": null,
+    "image": "xxx-0557.jpg",
+    "id": "118"
+  },
+  {
+    "question": "Kishajómmal völgymenetben haladok. Biztonságra törekedve, melyik oldal felől hajózom el az ábrán látható bója mellett? A bója a hajóút bal szélét és a bal part közeli veszélyeket jelzi, (   )",
+    "correct": "a bója mellett a hajóm bal oldala felől hajózom el.",
+    "incorrect1": "a bója mellett a hajóm jobb oldala felől hajózom el.",
+    "incorrect2": null,
+    "image": "teszt-0532.jpg",
+    "id": "119"
+  },
+  {
+    "question": "Kishajójával völgymenetben hajózva az ábrán látható zöld fényű 2,8 másodperces megszakításokkal 0,7 másodpercig villanó bóját észleli. Mit jelez a bója?",
+    "correct": "A hajóút bal szélét és a bal part közeli veszélyeket.",
+    "incorrect1": "A veszteglőhelyet a hajóút bal oldalán határolja el.",
+    "incorrect2": null,
+    "image": "teszt-0534.jpg",
+    "id": "120"
+  },
+  {
+    "question": "Kishajómmal hegymenetben haladok. A biztonságra törekedve, melyik oldal felől fogok elhajózni az ábrán látható bója mellett? A bója a hajóút bal szélét és a bal part közeli veszélyeket jelzi, (   )",
+    "correct": "a bója mellett a hajóm jobb oldala felől hajózom el.",
+    "incorrect1": "a bója mellett a hajóm bal oldala felől hajózom el.",
+    "incorrect2": null,
+    "image": "teszt-0536.jpg",
+    "id": "121"
+  },
+  {
+    "question": "Kishajómmal hegymenetben haladok. A biztonságra törekedve, melyik oldal felől fogok elhajózni az ábrán látható zöld fényű (2,8 másodperces megszakításokkal 0,7 másodpercig villanó) bója mellett?",
+    "correct": "A hajóm jobb oldala felől hajózom el.",
+    "incorrect1": "A hajóm bal oldala felől hajózom el.",
+    "incorrect2": null,
+    "image": "teszt-0530.jpg",
+    "id": "122"
+  },
+  {
+    "question": "Kishajómmal völgymenetben haladva egy tárgyat veszek észre magam előtt. Megvilágítva azt egy zöld kúpot formáló alakzatot látok. A biztonságra törekedve, melyik oldal felől fogok elhajózni az ábrán látható úszó mellett?",
+    "correct": "A hajóm bal oldala felől hajózom el.",
+    "incorrect1": "A hajóm jobb oldala felől hajózom el.",
+    "incorrect2": null,
+    "image": "xxx-0523.jpg",
+    "id": "123"
+  },
+  {
+    "question": "Mit jelez az ábrán látható zöld kúpot formáló, fehér P betűvel ellátott bója? A fehér P betű azt jelenti, hogy a hajóút veszteglőhely mentén halad, a bója (   )",
+    "correct": "a hajóút bal szélét és a bal part közötti veszteglőhelyet határolja el.",
+    "incorrect1": "a hajóút jobb szélét és a jobb part közötti veszteglőhelyet határolja el.",
+    "incorrect2": null,
+    "image": "xxx-0537.jpg",
+    "id": "124"
+  },
+  {
+    "question": "Mit jelez a parti tábla az alábbiak közül? A hajóút parthoz viszonyított helyzetét jelöli ott, (   )",
+    "correct": "ahol az a bal parthoz közelít.",
+    "incorrect1": "ahol az a jobb parthoz közelít.",
+    "incorrect2": null,
+    "image": "xxx-0567.jpg",
+    "id": "125"
+  },
+  {
+    "question": "Mit jelez az ábrán látható villanó zöld fényű parti tábla? A hajóút parthoz viszonyított helyzetét ott, ahol az a bal parthoz közelít, (   )",
+    "correct": "továbbá iránytartó jelként is szolgál.",
+    "incorrect1": "de csak a vízen elhelyezett más jelölésekkel együtt vehető figyelembe.",
+    "incorrect2": "és kisegítő jelként a mederbe nyúló veszélyes helyeket is jelzi.",
+    "image": "xxx-0569.jpg",
+    "id": "126"
+  },
+  {
+    "question": "Mit jelöl az ábrán látható parti tábla? Egyrészt kisegítő jelként szolgál a mederbe benyúló különféle műtárgyak (gát, vezetőmű stb.) határolására, másrészt (   )",
+    "correct": "a bal parti veszélyes helyeket jelzi.",
+    "incorrect1": "a jobb parti veszélyes helyeket jelzi.",
+    "incorrect2": null,
+    "image": "xxx-0554.jpg",
+    "id": "127"
+  },
+  {
+    "question": "Mit jelez az ábrán látható, állandó fázisú, fehér fényű bója?",
+    "correct": "A hajóút szétágazását vagy összefolyását, valamint a hajóúton belül elhelyezkedő akadályokat.",
+    "incorrect1": "A hajóút tengelyvonalát, a hajóút középét és a kikötőhelyeket.",
+    "incorrect2": null,
+    "image": "teszt-0545.jpg",
+    "id": "128"
+  },
+  {
+    "question": "Kishajómmal völgymenetben hajózom. Melyik oldal felől hajózhatok el az ábrán látható bója mellett? A jel mellett (   )",
+    "correct": "bármelyik oldalról el lehet haladni.",
+    "incorrect1": "csak a hajóm baloldala felől szabad elhaladni, mivel a baloldali ágban hajó közeledik.",
+    "incorrect2": null,
+    "image": "teszt-0543.jpg",
+    "id": "129"
+  },
+  {
+    "question": "Kishajómmal völgymenetben haladok. Melyik oldal felől hajózhatok el az ábrán látható parti jel mellett? A jelet a szigetcsúcson helyezték el ott, ahol a sziget kettéosztja a hajóutat, (   )",
+    "correct": "az elhaladás mindkét oldalról lehetséges.",
+    "incorrect1": "csak a jobboldali ágat választhatom, mivel a baloldali ágban hajó közeledik.",
+    "incorrect2": null,
+    "image": "teszt-0563.jpg",
+    "id": "130"
+  },
+  {
+    "question": "Mit jelez az ábrán látható parti jel, ha az állandó fázisú, 2,5 másodperces szünetekkel és 2,5 másodperces fehér fényű felvillanásokkal jelez?",
+    "correct": "A hajóút szétágazását.",
+    "incorrect1": "A hajóút tengelyvonalát, és a hajóút középét.",
+    "incorrect2": null,
+    "image": "teszt-0566.jpg",
+    "id": "131"
+  },
+  {
+    "question": "Folytassa a mondtatot! Az ábrán látható parti táblák (feltakaró jelek) a hajóút egyik partból a másikba való (hosszabb) átmenetének kezdetét, illetve végét jelzik (   )",
+    "correct": "a jobb parton.",
+    "incorrect1": "a bal parton.",
+    "incorrect2": null,
+    "image": "teszt-0606.jpg",
+    "id": "132"
+  },
+  {
+    "question": "Folytassa a mondtatot! Az ábrán látható parti táblák (feltakaró jelek) a hajóút egyik partból a másikba való (hosszabb) átmenetének kezdetét, illetve végét jelzik (   )",
+    "correct": "a bal parton.",
+    "incorrect1": "a jobb parton.",
+    "incorrect2": null,
+    "image": "xxx-0610.jpg",
+    "id": "133"
+  },
+  {
+    "question": "Mit jelent a tábla?",
+    "correct": "Áthaladási tilalom.",
+    "incorrect1": "Korlátozottan igénybe vehető víziútszakasz.",
+    "incorrect2": "Irányjel, a hajóút tengelyének jelzésére.",
+    "image": "xxx-0364.jpg",
+    "id": "134"
+  },
+  {
+    "question": "Áthajózhat-e a képen látható műtárgy átjáró nyílásán, ha az átjáró felett egy vörös-fehér-vörös vízszintes csíkozású táblát lát kihelyezve?",
+    "correct": "Nem, az áthaladás tilos.",
+    "incorrect1": "Igen, az áthajózás engedélyezett.",
+    "incorrect2": "Csak akkor, ha az ellenkező irányból nem közeledik más hajó.",
+    "image": "xxx-0365.jpg",
+    "id": "135"
+  },
+  {
+    "question": "A képen látható műtárgy felé hajózik. Mit jelöl a képen látható jelzések közül a 4-es számú (vörös-fehér-vörös) tábla?",
+    "correct": "A duzzasztómű nyílásán történő áthaladás tilalmát.",
+    "incorrect1": "A zsilipkamrába történő behajózás tilalmát.",
+    "incorrect2": "A duzzasztómű vízterületére történő behajózás tilalmát.",
+    "image": "teszt-0135.jpg",
+    "id": "136"
+  },
+  {
+    "question": "Völgymenetben a Rákóczi híd felé hajózik. Mit jelöl a 2-es számmal jelzett tábla?",
+    "correct": "Áthaladási tilalmat jelöl a hídnyílásban.",
+    "incorrect1": "A völgymeneti hajózás számára kijelölt hídnyílást jelöli.",
+    "incorrect2": "A hídnyílásban történő áthajózáskor az előzést és a találkozást tiltja.",
+    "image": "teszt-3335.jpg",
+    "id": "137"
+  },
+  {
+    "question": "Mi a jelentése a hídon látható állandó vörös fénynek?",
+    "correct": "Áthaladási tilalmat jelöl a hídnyílásban.",
+    "incorrect1": "A hajóút tengelyét jelző fény.",
+    "incorrect2": "Irányjel a hajóút jobb szélén.",
+    "image": "teszt-1729.jpg",
+    "id": "138"
+  },
+  {
+    "question": "Mi a jelentése a hídon látható, egymás mellett elhelyezett két állandó vörös fénynek?",
+    "correct": "Áthaladási tilalmat jelöl a hídnyílásban.",
+    "incorrect1": "Irányjel a hajóút jobb szélén.",
+    "incorrect2": "Tartós áthaladási tilalom.",
+    "image": "teszt-1728.jpg",
+    "id": "139"
+  },
+  {
+    "question": "Mi a jelentése az ábrán látható tábláknak?",
+    "correct": "Az áthaladás tartósan tilos.",
+    "incorrect1": "Hajózási korlátozásra utaló jelzés, tudakozódni kell.",
+    "incorrect2": "Jobb parti feltakaró jel.",
+    "image": "xxx-1923.jpg",
+    "id": "140"
+  },
+  {
+    "question": "Éjszaka a képen látható híd felé hajózik. Mit jelölnek az egymás feletti állandó vörös fények?",
+    "correct": "Tartós áthajózási tilalmat a hídnyílásban.",
+    "incorrect1": "A hajóút tengelyét jelölik.",
+    "incorrect2": "Magasságkorlátozást jelölnek.",
+    "image": "teszt-3339.jpg",
+    "id": "141"
+  },
+  {
+    "question": "Mit jelent az ábrán látható egy, illetve két vörös lobogó felmutatása?",
+    "correct": "Áthaladási tilalmat jelent.",
+    "incorrect1": "Hajózási korlátozásra utaló jelzés, tudakozódni kell.",
+    "incorrect2": "Nagyhajók találkozásra javasolt oldalának jelzése.",
+    "image": "teszt-0157.jpg",
+    "id": "142"
+  },
+  {
+    "question": "Mit jelent a parti tábla? A víziút táblával megjelölt szakaszán (   )",
+    "correct": "tilos az előzés.",
+    "incorrect1": "köteles áthajózni a hajóút jobboldalára.",
+    "incorrect2": "találkozás és előzés tilos.",
+    "image": "teszt-2573.jpg",
+    "id": "143"
+  },
+  {
+    "question": "Mit jelent a parti tábla? A víziút táblával megjelölt szakaszán (   )",
+    "correct": "tilos a találkozás és előzés.",
+    "incorrect1": "szembejövő forgalomra kell számítani.",
+    "incorrect2": "köteles áthajózni a hajóút jobboldalára.",
+    "image": "teszt-2578.jpg",
+    "id": "144"
+  },
+  {
+    "question": "Mi a jelentése az ábrán látható tábláknak?",
+    "correct": "Tilos vesztegelni (horgonyon vagy parthoz kikötve) 600 m távolságon belül.",
+    "incorrect1": "A jelek között 600 m-nél hosszabb kötelék nem vesztegelhet.",
+    "incorrect2": "A parttól a víz felé számított 600 m távolságig tilos a veszteglés.",
+    "image": "teszt-0171.jpg",
+    "id": "145"
+  },
+  {
+    "question": "Melyik táblával jelölik a veszteglésre tiltott vízterület szélességét?",
+    "correct": "1.",
+    "incorrect1": "2.",
+    "incorrect2": "3.",
+    "image": "xxx-0194.jpg",
+    "id": "146"
+  },
+  {
+    "question": "Mi a jelentése a képen látható 1. számú táblának? A kiegészítő jelzések hatálya alá tartozó vízterületen tilos (   )",
+    "correct": "a horgonyzás, horgony, kötél és lánc vonszolása.",
+    "incorrect1": "a veszteglés a parthoz kikötve.",
+    "incorrect2": "50 méternél rövidebb horgonylánccal horgonyozni.",
+    "image": "teszt-3352.jpg",
+    "id": "147"
+  },
+  {
+    "question": "Mi a jelentése az ábrán látható tábláknak?",
+    "correct": "Tilos horgonyozni, horgonyt, kötelet és láncot vonszolni 50 m távolságon belül.",
+    "incorrect1": "Tilos 50 méternél rövidebb horgonylánccal horgonyozni.",
+    "incorrect2": "A jelzések között tilos a veszteglés a parthoz kikötve.",
+    "image": "teszt-0172.jpg",
+    "id": "148"
+  },
+  {
+    "question": "Mit jelent a tábla?",
+    "correct": "Tilos a parthoz kikötni.",
+    "incorrect1": "Tilos parti kötelet használni.",
+    "incorrect2": "A kiépített kikötőbak használata veszélyes.",
+    "image": "teszt-0173.jpg",
+    "id": "149"
+  },
+  {
+    "question": "Mi a táblák jelentése? A víziút táblákkal jelzett szakaszán (   )",
+    "correct": "tilos megfordulni.",
+    "incorrect1": "géphajók közlekedése tilos.",
+    "incorrect2": "veszélyes áramlási viszonyok találhatók.",
+    "image": "teszt-2588.jpg",
+    "id": "150"
+  },
+  {
+    "question": "Mi a táblák jelentése? A víziút táblákkal jelölt szakaszán (   )",
+    "correct": "hullámzást kelteni tilos.",
+    "incorrect1": "a csatornahatás miatt csökkentse sebességét.",
+    "incorrect2": "veszélyes hullámok alakulhatnak ki.",
+    "image": "teszt-0178.jpg",
+    "id": "151"
+  },
+  {
+    "question": "Mit jelent a hídon elhelyezett két tábla? A fehérrel jelzett területen (   )",
+    "correct": "kívül (annál szélesebben) tilos áthaladni az átjáróban.",
+    "incorrect1": "hajóútszűkületre kell számítani.",
+    "incorrect2": "magasság- és mélységkorlátozás van érvényben.",
+    "image": "teszt-3355.jpg",
+    "id": "152"
+  },
+  {
+    "question": "Mi a tábla jelentése? A táblával megjelölt vízterületen (   )",
+    "correct": "géphajók közlekedése tilos.",
+    "incorrect1": "hullámzást kelteni tilos.",
+    "incorrect2": "kedvtelési célú vízijárművek közlekedése tilos.",
+    "image": "xxx-0197.jpg",
+    "id": "153"
+  },
+  {
+    "question": "Mit jelent a tábla a képen? A táblával megjelölt vízterületen (   )",
+    "correct": "a kedvtelési célú vízijárművek közlekedése tilos.",
+    "incorrect1": "mindenféle sporttevékenység tiltott.",
+    "incorrect2": "géphajók közlekedése tilos.",
+    "image": "xxx-0363.jpg",
+    "id": "154"
+  },
+  {
+    "question": "Mit jelent a parti tábla? A táblával megjelölt vízterületen (   )",
+    "correct": "a vízisízés tilos.",
+    "incorrect1": "mindenféle sporttevékenység tiltott.",
+    "incorrect2": "a kedvtelési célú vízijárművek közlekedése tilos.",
+    "image": "xxx-0288.jpg",
+    "id": "155"
+  },
+  {
+    "question": "Melyik számú tábla tiltja a vitorlás hajók közlekedését?",
+    "correct": "3.",
+    "incorrect1": "1.",
+    "incorrect2": "2.",
+    "image": "xxx-0201.jpg",
+    "id": "156"
+  },
+  {
+    "question": "Melyik számú  tábla tiltja a vitorlás deszkával való közlekedést?",
+    "correct": "1.",
+    "incorrect1": "2.",
+    "incorrect2": "3.",
+    "image": "xxx-0202.jpg",
+    "id": "157"
+  },
+  {
+    "question": "Mit jelent a parti tábla? A táblával megjelölt vízterületen (   )",
+    "correct": "géphajónak és vitorlás hajónak nem minősülő hajók közlekedése tilos.",
+    "incorrect1": "a kedvtelési célú vízijárművek közlekedése tilos.",
+    "incorrect2": "mindenféle sporttevékenység tiltott.",
+    "image": "xxx-0290.jpg",
+    "id": "158"
+  },
+  {
+    "question": "Mit jelent a parti tábla? A táblával megjelölt vízterületen (   )",
+    "correct": "tilos vitorlás deszkával közlekedni.",
+    "incorrect1": "mindenféle sporttevékenység tiltott.",
+    "incorrect2": "a kedvtelési célú vízijárművek közlekedése tilos.",
+    "image": "xxx-0291.jpg",
+    "id": "159"
+  },
+  {
+    "question": "Mit jelent a parti tábla?",
+    "correct": "A sport és kedvtelési kishajók nagy sebességű közlekedésére engedélyezett zóna végét.",
+    "incorrect1": "Hullámzást kelteni tilos.",
+    "incorrect2": "Kedvtelési célú vízijárművek közlekedése tilos.",
+    "image": "xxx-0292.jpg",
+    "id": "160"
+  },
+  {
+    "question": "Mit jelent a parti tábla?",
+    "correct": "Hajók vízre bocsátása, és partra húzása tilos.",
+    "incorrect1": "A sólyapálya használata tilos.",
+    "incorrect2": "Meredek partszakasz, utánfutó használata tilos.",
+    "image": "teszt-3357.jpg",
+    "id": "161"
+  },
+  {
+    "question": "Mit jelent a parti tábla? A táblával megjelölt vízterületen (   )",
+    "correct": "motoros vízi sporteszközzel közlekedni tilos.",
+    "incorrect1": "géphajók közlekedése tilos.",
+    "incorrect2": "hullámzást kelteni tilos.",
+    "image": "xxx-0294.jpg",
+    "id": "162"
+  },
+  {
+    "question": "Mit jelent a parti tábla?",
+    "correct": "A nyíllal jelzett irányban köteles haladni.",
+    "incorrect1": "Ajánlott haladási irány.",
+    "incorrect2": "A nyíllal jelzett irányban tilos hajózni.",
+    "image": "teszt-2590.jpg",
+    "id": "163"
+  },
+  {
+    "question": "Mit jelent a képen látható 1-es számú parti tábla?",
+    "correct": "Köteles a hajóútnak a hajó bal oldala felé eső részére áthajózni.",
+    "incorrect1": "Találkozáskor kitérési kötelezettség balra.",
+    "incorrect2": "Ajánlott haladási irány.",
+    "image": "teszt-0326.jpg",
+    "id": "164"
+  },
+  {
+    "question": "Mit jelent a képen látható 1-es számú parti tábla?",
+    "correct": "Köteles a hajóútnak a hajó jobb oldala felé eső részére áthajózni.",
+    "incorrect1": "Ajánlott haladási irány.",
+    "incorrect2": "Találkozáskor kitérési kötelezettség jobbra.",
+    "image": "teszt-0316.jpg",
+    "id": "165"
+  },
+  {
+    "question": "Mit jelent a parti tábla?",
+    "correct": "Köteles a hajóútnak a hajó jobb oldala felé eső oldalán haladni.",
+    "incorrect1": "A folyamatos nyíl irányába haladó hajó elsőbbséget élvez.",
+    "incorrect2": "Szembejövő forgalom.",
+    "image": "teszt-3360.jpg",
+    "id": "166"
+  },
+  {
+    "question": "Mit jelent a tábla?",
+    "correct": "Köteles a hajóútnak a hajó bal oldala felé eső oldalán haladni.",
+    "incorrect1": "Találkozni és előzni tilos.",
+    "incorrect2": "Szembejövő forgalom.",
+    "image": "teszt-0202.jpg",
+    "id": "167"
+  },
+  {
+    "question": "Mit jelent a képen látható 3-as számú parti tábla?",
+    "correct": "Köteles a hajóútnak a hajó bal oldala felé eső oldalán hajózni.",
+    "incorrect1": "Találkozni és előzni tilos.",
+    "incorrect2": "Szembejövő forgalom.",
+    "image": "teszt-0317.jpg",
+    "id": "168"
+  },
+  {
+    "question": "Mit jelent a parti tábla?",
+    "correct": "Köteles a hajóútnak a hajó bal oldala felé eső oldalára áthajózni!",
+    "incorrect1": "Találkozni és előzni tilos.",
+    "incorrect2": "Tilos a keresztezés.",
+    "image": "teszt-3362.jpg",
+    "id": "169"
+  },
+  {
+    "question": "Mit jelent a tábla?",
+    "correct": "Köteles a hajóútnak a hajó jobb oldala felé eső oldalára áthajózni.",
+    "incorrect1": "Találkozni és előzni tilos.",
+    "incorrect2": "Tilos a keresztezés.",
+    "image": "teszt-0206.jpg",
+    "id": "170"
+  },
+  {
+    "question": "Egy zsilip felé hajózva a képen látható jelzéseket látja. Mit jelöl a 2-es számú parti tábla? A zsilipbe a tiltó jelzés miatt jelenleg nem lehet behajózni, (   )",
+    "correct": "ezért a tábla előtt meg kell állni.",
+    "incorrect1": "ezért fokozott elővigyázatra figyelmeztet a tábla.",
+    "incorrect2": "a behajózási szándék jelzésére egy hosszú hangjelet kell adni.",
+    "image": "teszt-3366.jpg",
+    "id": "171"
+  },
+  {
+    "question": "Egy nyitható híd felé hajózva a képen látható jelzéseket észleli. Mit jelöl a parton elhelyezett tábla? A híd zárt állapota miatt jelenleg nem tudunk áthajózni, (   )",
+    "correct": "ezért a tábla előtt meg kell állni.",
+    "incorrect1": "ezért fokozott elővigyázatra figyelmeztet a tábla.",
+    "incorrect2": "a híd nyitását egy hosszú hangjelzéssel kell kezdeményezni.",
+    "image": "teszt-3369.jpg",
+    "id": "172"
+  },
+  {
+    "question": "Mit jelent a parti tábla?",
+    "correct": "A táblán feltüntetett sebességet (5 km/óra) tilos túllépni.",
+    "incorrect1": "Korlátozott vízmélység (5 méter).",
+    "incorrect2": "Tilos a veszteglés a táblától mért (5 méter) szélességben.",
+    "image": "teszt-3373.jpg",
+    "id": "173"
+  },
+  {
+    "question": "Melyik számú tábla kötelez hangjeladásra?",
+    "correct": "2.",
+    "incorrect1": "1.",
+    "incorrect2": "3.",
+    "image": "xxx-0226.jpg",
+    "id": "174"
+  },
+  {
+    "question": "Melyik számú tábla kötelez fokozott elővigyázatosságra?",
+    "correct": "1.",
+    "incorrect1": "2.",
+    "incorrect2": "3.",
+    "image": "xxx-0226.jpg",
+    "id": "175"
+  },
+  {
+    "question": "Folytassa! A parti tábla azt jelenti, hogy a főágba csak abban az esetben szabad kihajóznom, vagy azt kereszteznem, (   )",
+    "correct": "ha a főágban haladó hajókat nem kényszerítem sebességük, vagy útirányuk megváltoztatására.",
+    "incorrect1": "ha a főágban haladó hajók részére három hosszú figyelmeztető hangjelzést adtam le.",
+    "incorrect2": null,
+    "image": "teszt-3377.jpg",
+    "id": "176"
+  },
+  {
+    "question": "Mit jelent a tábla?",
+    "correct": "Kötelező rádiótelefon-kapcsolatba lépni.",
+    "incorrect1": "Hajózási viszonyokra vonatkozó információ  kapható.",
+    "incorrect2": "Rádiótelefon használati tilalom (rádiócsend).",
+    "image": "xxx-0234.jpg",
+    "id": "177"
+  },
+  {
+    "question": "Mit jelent a tábla? A táblán feltüntetett csatornán (   )",
+    "correct": "kötelező rádiótelefon-kapcsolatba lépni.",
+    "incorrect1": "hajózási viszonyokra vonatkozó információ  kapható.",
+    "incorrect2": "rádiótelefon használati tilalom (rádiócsend).",
+    "image": "xxx-0235.jpg",
+    "id": "178"
+  },
+  {
+    "question": "Völgymenetben a Rákóczi híd felé hajózik. Mit jelölnek a hídnyílások felett elhelyezett 1-es számmal jelzett táblák?",
+    "correct": "Korlátozott vízmélység.",
+    "incorrect1": "Korlátozott vízszint feletti szabad magasság.",
+    "incorrect2": "Tilos az áthaladás.",
+    "image": "teszt-3381.jpg",
+    "id": "179"
+  },
+  {
+    "question": "Az ábrán látható hajóhíd felé közeledik. Mit jelent a hídon az 1-es számú tábla?",
+    "correct": "Korlátozott vízszint feletti szabad magasság.",
+    "incorrect1": "Tilos az áthaladás.",
+    "incorrect2": "Korlátozott vízmélység.",
+    "image": "teszt-3383.jpg",
+    "id": "180"
+  },
+  {
+    "question": "Melyik számú tábla jelez korlátozott átjáró- vagy hajóútszélességet?",
+    "correct": "3.",
+    "incorrect1": "1.",
+    "incorrect2": "2.",
+    "image": "xxx-0253.jpg",
+    "id": "181"
+  },
+  {
+    "question": "Mit jelent az 1-es számú parti tábla?",
+    "correct": "Hajózási korlátozások, tudakozódjék.",
+    "incorrect1": "Köteles megállni, hajózási zárlat.",
+    "incorrect2": "Fokozott elővigyázat.",
+    "image": "teszt-3386.jpg",
+    "id": "182"
+  },
+  {
+    "question": "Mit jelent a parti tábla?",
+    "correct": "A hajóút 40 m-re eltávolodik a menetirány szerinti jobb parttól.",
+    "incorrect1": "Tilos a veszteglés a táblától mért 40 m szélességben.",
+    "incorrect2": "A jobb partnál korlátozott a vízmélység (40 méter).",
+    "image": "teszt-2593.jpg",
+    "id": "183"
+  },
+  {
+    "question": "Mit jelent az ábrán látható sárga fény, ha azt hídon észleli éjszaka?",
+    "correct": "Mindkét irányban ajánlott átjáró (hídnyílás).",
+    "incorrect1": "Az átjáró (hídnyílás) középvonala.",
+    "incorrect2": "Egyirányú átjáró (hídnyílás).",
+    "image": "teszt-0209.jpg",
+    "id": "184"
+  },
+  {
+    "question": "Mit jelent a hídon látható 1-es számú tábla?",
+    "correct": "Az ajánlott, mindkét irányból hajózható átjárót (hídnyílást) jelöli.",
+    "incorrect1": "Az ajánlott, egy irányból hajózható átjárót (hídnyílást) jelöli.",
+    "incorrect2": "Az átjáró (hídnyílás) középvonalát jelöli.",
+    "image": "teszt-3387.jpg",
+    "id": "185"
+  },
+  {
+    "question": "Mit jelent a két sárga rombusz alakú tábla, ha azt hídon észleli nappal?",
+    "correct": "Ajánlott átjáró (hídnyílás) csak a megadott irányban (az ellenkező irányban az áthaladás tilos).",
+    "incorrect1": "Az átjáró (hídnyílás) középvonalát jelöli.",
+    "incorrect2": "Az ajánlott, mindkét irányból hajózható átjárót (hídnyílást) jelöli.",
+    "image": "teszt-0210.jpg",
+    "id": "186"
+  },
+  {
+    "question": "Mit jelent a két sárga fény, ha azt hídon észleli éjszaka?",
+    "correct": "Ajánlott átjáró (hídnyílás) csak a megadott irányban (az ellenkező irányban az áthaladás tilos).",
+    "incorrect1": "Az átjáró (hídnyílás) középvonalát jelöli.",
+    "incorrect2": "Az ajánlott, mindkét irányból hajózható átjárót (hídnyílást) jelöli.",
+    "image": "teszt-3389.jpg",
+    "id": "187"
+  },
+  {
+    "question": "Mit jelent a hídon látható két rombusz alakú tábla? A hídnyíláson való áthajózás közben a két jelzőtábla (   )",
+    "correct": "között ajánlott maradni.",
+    "incorrect1": "között köteles maradni.",
+    "incorrect2": "között biztosított a szabad magasság.",
+    "image": "teszt-3390.jpg",
+    "id": "188"
+  },
+  {
+    "question": "Mit jelent az ábrán látható módon elhelyezett két zöld fény, ha azt hídon észleli éjszaka? A hídnyíláson való áthajózás közben a két fény (   )",
+    "correct": "között ajánlott maradni.",
+    "incorrect1": "között köteles maradni.",
+    "incorrect2": "között biztosított a szabad magasság.",
+    "image": "xxx-0296.jpg",
+    "id": "189"
+  },
+  {
+    "question": "Mit jelent a hídon látható, 2-es számmal jelölt, két rombusz alakú tábla? A hídnyíláson való áthajózás közben a két jelzőtábla közötti területen (   )",
+    "correct": "kívül tilos hajózni.",
+    "incorrect1": "kívül nem biztosított a szabad magasság.",
+    "incorrect2": "kívül hajózni csak saját felelősségre lehetséges.",
+    "image": "teszt-3392.jpg",
+    "id": "190"
+  },
+  {
+    "question": "Mit jelent a tábla? A nyíllal jelzett irányba haladni (   )",
+    "correct": "ajánlott.",
+    "incorrect1": "kötelező.",
+    "incorrect2": "tilos.",
+    "image": "xxx-0304.jpg",
+    "id": "191"
+  },
+  {
+    "question": "Mit jelet az a fényjelzés, amely egy állandó és egy villogó fehér fényből áll? Az állandó fénytől a villogó fény irányába haladni (   )",
+    "correct": "ajánlott.",
+    "incorrect1": "kötelező.",
+    "incorrect2": "tilos.",
+    "image": "xxx-0305.jpg",
+    "id": "192"
+  },
+  {
+    "question": "Mit jelent a tábla?",
+    "correct": "Az áthaladást engedélyezett.",
+    "incorrect1": "Bal parti iránytartó jel.",
+    "incorrect2": "Hajózható mellékágat jelöl.",
+    "image": "xxx-0313.jpg",
+    "id": "193"
+  },
+  {
+    "question": "Mit jelent az ábra szerinti egy, vagy a két egymás mellett elhelyezett állandó zöld fény?",
+    "correct": "Az áthaladás engedélyezett.",
+    "incorrect1": "Hajózható mellékágat jelölnek.",
+    "incorrect2": "Bal parti iránytartó jelek.",
+    "image": "teszt-2595.jpg",
+    "id": "194"
+  },
+  {
+    "question": "Mit jelent, ha az ábra szerinti egy, vagy két zöld lobogót mutatnak fel?",
+    "correct": "Az áthaladás engedélyezett.",
+    "incorrect1": "Ezek nem hajózási jelzések.",
+    "incorrect2": "Nagyhajók találkozásra javasolt oldalát jelzik így.",
+    "image": "teszt-0221.jpg",
+    "id": "195"
+  },
+  {
+    "question": "Mit jelent a tábla? Tájékoztató jel, jelentése 500 méter távolságban (   )",
+    "correct": "légvezeték átfeszítés.",
+    "incorrect1": "radar interferencia veszély.",
+    "incorrect2": "nyomvonalas létesítmény.",
+    "image": "teszt-0238.jpg",
+    "id": "196"
+  },
+  {
+    "question": "Egy zsilip felé hajózva a képen látható jelzéseket látja. Mit jelent az 1-es számú parti tábla? Tájékoztató jel, jelentése (   )",
+    "correct": "duzzasztómű.",
+    "incorrect1": "híd a duzzasztóművön.",
+    "incorrect2": "duzzasztómű uszadék fogóval.",
+    "image": "teszt-0148.jpg",
+    "id": "197"
+  },
+  {
+    "question": "Mit jelent a parti tábla? Tájékoztató jel, jelentése 300 méter távolságban (   )",
+    "correct": "szabadon közlekedő komp.",
+    "incorrect1": "légpárnás hajó.",
+    "incorrect2": "hajóállomás.",
+    "image": "teszt-0244.jpg",
+    "id": "198"
+  },
+  {
+    "question": "Melyik számú táblával jelzik a nem szabadon közlekedő kompot?",
+    "correct": "2.",
+    "incorrect1": "1.",
+    "incorrect2": "3.",
+    "image": "teszt-0236.jpg",
+    "id": "199"
+  },
+  {
+    "question": "Mit jelent a tábla? Arról tájékoztat, hogy a víziút jelzett oldalán (   )",
+    "correct": "vesztegelni szabad (horgonyon vagy parthoz kikötve).",
+    "incorrect1": "tolt kötelékben továbbított hajók számára veszteglőhely van kijelölve.",
+    "incorrect2": "hajóállomás található.",
+    "image": "teszt-0246.jpg",
+    "id": "200"
+  },
+  {
+    "question": "Mi jelent a két tábla az ábrán? Arról tájékoztatnak, hogy a víziút táblákkal jelölt részén a jelzésektől számított (   )",
+    "correct": "60 méter széles vízterületen vesztegelni szabad (horgonyon vagy parthoz kikötve).",
+    "incorrect1": "60 méter hosszúságú vízterületen vesztegelni szabad.",
+    "incorrect2": null,
+    "image": "teszt-0250.jpg",
+    "id": "201"
+  },
+  {
+    "question": "Mi jelent a két tábla az ábrán? Arról tájékoztatnak, hogy a víziút táblákkal jelölt részén a jelzésektől számított (   )",
+    "correct": "30 és 60 méter közötti vízterületen vesztegelni szabad.",
+    "incorrect1": "vízterületen 30 és 60 méter hosszúságú hajók részére megengedett a veszteglés.",
+    "incorrect2": null,
+    "image": "teszt-0260.jpg",
+    "id": "202"
+  },
+  {
+    "question": "Mi jelent a két tábla az ábrán? Arról tájékoztatnak, hogy a víziút táblákkal jelölt részén a veszteglés (   )",
+    "correct": "4 db egymás mellé állított hajó részére megengedett.",
+    "incorrect1": "összesen 4 db egymás mögé egy sorba állított hajó számára megengedett.",
+    "incorrect2": null,
+    "image": "teszt-0261.jpg",
+    "id": "203"
+  },
+  {
+    "question": "Mi jelent a két tábla az ábrán? Arról tájékoztatnak, hogy a víziút táblákkal jelölt részén, a táblák között (   )",
+    "correct": "megengedett a horgonyzás, illetve horgony, kötél vagy lánc vonszolása.",
+    "incorrect1": "vesztegelni szabad (horgonyon vagy parthoz kikötve).",
+    "incorrect2": "megengedett a parthoz való kikötés.",
+    "image": "teszt-0302.jpg",
+    "id": "204"
+  },
+  {
+    "question": "Mi jelent a két tábla az ábrán? Arról tájékoztatnak, hogy a víziút táblákkal jelölt részén, a táblák között (   )",
+    "correct": "megengedett a parthoz való kikötés.",
+    "incorrect1": "megengedett a horgonyzás, illetve horgony, kötél vagy lánc vonszolása.",
+    "incorrect2": "vesztegelni szabad (horgonyon vagy parthoz kikötve).",
+    "image": "teszt-0304.jpg",
+    "id": "205"
+  },
+  {
+    "question": "Mi jelent a két tábla az ábrán? Arról tájékoztatnak, hogy a víziút táblákkal jelölt részén, a táblák között (   )",
+    "correct": "fordítóhely található.",
+    "incorrect1": "rendellenes vízmozgásra kell számítani.",
+    "incorrect2": null,
+    "image": "teszt-0308.jpg",
+    "id": "206"
+  },
+  {
+    "question": "Mellékvíziúton közlekedem-e, ha kishajómmal az ábrán látható tájékoztató táblák valamelyikét észlelem a parton?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "xxx-3641.jpg",
+    "id": "207"
+  },
+  {
+    "question": "Mellékvíziúton közlekedem-e, ha kishajómmal az ábrán látható tájékoztató táblák valamelyikét észlelem a parton?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": "teszt-0313.jpg",
+    "id": "208"
+  },
+  {
+    "question": "Kishajóval az ábra szerinti víziúton hajózom. Köteles vagyok-e az 1-es számmal jelölt tábla utasítását továbbra is figyelembe venni akkor is, ha már elhagytam a 2-es számú táblát?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "teszt-0326.jpg",
+    "id": "209"
+  },
+  {
+    "question": "Mit jelent a tábla?",
+    "correct": "Tilalom vagy az egyirányú közlekedés feloldása, illetve a korlátozás vége.",
+    "incorrect1": "Iránytartási kötelezettség kezdete.",
+    "incorrect2": "Ajánlott haladási irány.",
+    "image": "teszt-0335.jpg",
+    "id": "210"
+  },
+  {
+    "question": "Olyan kikötőből, mellékvíziútból, csatornából kíván kihajózni, ahol jelzőállomás működik. Közeledve a kijárat felé mit jelent hajózási jelzésként a parton látható állandó fehér fény?",
+    "correct": "Akadály (kihajózást tiltó jelzés), az állandó fehér fénynél (előtte) kötelező a megállás.",
+    "incorrect1": "Az egy fehér fény egyirányú hajózást engedélyez.",
+    "incorrect2": "A kihajózás tilos, maximum a vörös fényig szabad elhajózni.",
+    "image": "teszt-0338.jpg",
+    "id": "211"
+  },
+  {
+    "question": "Az ábra szerinti zsiliphez közeledik. Mit jelez Önnek a parton látható állandó fehér fény?",
+    "correct": "A fehér fénynél (előtte) kötelező a megállás.",
+    "incorrect1": "A továbbhaladás megengedett.",
+    "incorrect2": "A zsilipből kihajózó hajó várható.",
+    "image": "teszt-0339.jpg",
+    "id": "212"
+  },
+  {
+    "question": "Olyan mellékvíziútból kíván kihajózni, ahol jelzőállomás működik. A kijáratnál az ábra szerinti zöld fényt észleli. Meg kell-e állnia ebben az esetben a parton látható villogó fehér fény előtt?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "teszt-0349.jpg",
+    "id": "213"
+  },
+  {
+    "question": "Az ábra szerinti zsiliphez közeledik. Mit jelez Önnek a parton látható villogó fehér fény?",
+    "correct": "A továbbhaladás megengedett.",
+    "incorrect1": "A zsilipből kihajózó hajó várható.",
+    "incorrect2": "A fehér fénynél (előtte) kötelező a megállás.",
+    "image": "teszt-0350.jpg",
+    "id": "214"
+  },
+  {
+    "question": "Miről tájékoztatja a képen látható tábla?",
+    "correct": "Ivóvízvételező hely.",
+    "incorrect1": "Ipari vízkivétel.",
+    "incorrect2": "Ivóvíz minőségét ellenőrző pont.",
+    "image": "xxx-0318.jpg",
+    "id": "215"
+  },
+  {
+    "question": "Miről tájékoztatja a képen látható tábla?",
+    "correct": "Távbeszélő állomás.",
+    "incorrect1": "A hajózási viszonyokra vonatkozó információ rádiótelefonon kapható.",
+    "incorrect2": "Telefonfülke.",
+    "image": "xxx-0319.jpg",
+    "id": "216"
+  },
+  {
+    "question": "Mit jelent a tábla? Géphajók közlekedése (   )",
+    "correct": "engedélyezett.",
+    "incorrect1": "várható.",
+    "incorrect2": "tilos.",
+    "image": "xxx-0320.jpg",
+    "id": "217"
+  },
+  {
+    "question": "Mit jelent a tábla? Kedvtelési célú hajók közlekedése (   )",
+    "correct": "engedélyezett.",
+    "incorrect1": "várható.",
+    "incorrect2": "tilos.",
+    "image": "xxx-0321.jpg",
+    "id": "218"
+  },
+  {
+    "question": "Mit jelentenek a táblák? A víziút táblákkal jelölt szakaszán vízisízés (   )",
+    "correct": "engedélyezett.",
+    "incorrect1": "tilos.",
+    "incorrect2": "előfordul.",
+    "image": "xxx-0326.jpg",
+    "id": "219"
+  },
+  {
+    "question": "Mit jelentenek a táblák? A víziút táblákkal jelölt szakaszán vitorlás hajók közlekedése (   )",
+    "correct": "engedélyezett.",
+    "incorrect1": "tilos.",
+    "incorrect2": "előfordul.",
+    "image": "xxx-0328.jpg",
+    "id": "220"
+  },
+  {
+    "question": "Behajózhat-e evezővel hajtott kishajójával az ábra szerinti szakaszra, ha a műtárgyon látható táblát észleli?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": "xxx-0331.jpg",
+    "id": "221"
+  },
+  {
+    "question": "Szabad-e vitorlás deszkával (szörf) közlekednie azon vízterületen, ahol az ábra szerinti táblát helyezték el?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": "xxx-0332.jpg",
+    "id": "222"
+  },
+  {
+    "question": "Szabad-e kedvtelési célú kisgéphajójával nagy sebességgel közlekednie azon vízterületen, ahol az ábra szerinti táblát helyezték el?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": "xxx-0333.jpg",
+    "id": "223"
+  },
+  {
+    "question": "Mit jelent a tábla?",
+    "correct": "Hajók vízre bocsátása, és partra húzása engedélyezett.",
+    "incorrect1": "Veszélyes lejtésű rámpa.",
+    "incorrect2": "Hajók vízre bocsátása csak engedéllyel.",
+    "image": "xxx-0336.jpg",
+    "id": "224"
+  },
+  {
+    "question": "Mit jelent a tábla?",
+    "correct": "A hajózási viszonyokra vonatkozó információ a jelzésen feltüntetett csatornán kapható.",
+    "incorrect1": "Rádiótelefon használati tilalom (rádiócsend).",
+    "incorrect2": "Köteles a táblán feltüntetett rádiócsatornán bejelentkezni.",
+    "image": "xxx-0337.jpg",
+    "id": "225"
+  },
+  {
+    "question": "Szabad-e motoros vízi sporteszközzel (jet-ski) közlekednie azon vízterületen, ahol az ábra szerinti táblákat helyezték el?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": "xxx-0339.jpg",
+    "id": "226"
+  },
+  {
+    "question": "Melyik számú jelzés közli azt a távolságot is, ahonnan kezdve a tábla által jelzett előírás érvényes?",
+    "correct": "1.",
+    "incorrect1": "2.",
+    "incorrect2": "3.",
+    "image": "xxx-0340.jpg",
+    "id": "227"
+  },
+  {
+    "question": "Kishajómmal egy öbölbe szeretnék behajózni, és az ábra szerinti jelzéseket észlelem. Meg kell-e mindenképpen állnom a parti tábla előtt?",
+    "correct": "Nem, mert az öbölbe szabad a behajózás.",
+    "incorrect1": "Igen, a tábla erre kötelez.",
+    "incorrect2": null,
+    "image": "xxx-3655.jpg",
+    "id": "228"
+  },
+  {
+    "question": "Kishajómmal egy öbölbe szeretnék behajózni, és az ábra szerinti jelzéseket észlelem. Meg kell-e mindenképpen állnom a parti tábla előtt?",
+    "correct": "Igen, mert az öbölbe jelenleg nem szabad a behajózás.",
+    "incorrect1": "Nem, mivel a tábla fokozott elővigyázatosságra szólít fel.",
+    "incorrect2": null,
+    "image": "xxx-3657.jpg",
+    "id": "229"
+  },
+  {
+    "question": "Mit jelent a tábla?",
+    "correct": "Megállás vámvizsgálatra.",
+    "incorrect1": "A vámhatóság épületét jelzi.",
+    "incorrect2": null,
+    "image": "xxx-0347.jpg",
+    "id": "230"
+  },
+  {
+    "question": "Hajózási (kitérési) szabályok tekintetében milyen közlekedési helyzeteket különböztet meg a HSz?",
+    "correct": "Előzést, keresztezést, találkozást.",
+    "incorrect1": "Egyenrangú és alárendelt víziutak kereszteződését.",
+    "incorrect2": "Gépi, evezős, és vitorla meghajtású hajók találkozását.",
+    "image": null,
+    "id": "231"
+  },
+  {
+    "question": "Hogyan hívjuk a HSz-ben azt a közlekedési helyzetet, amikor két hajó az ábrán látható módon közelíti meg egymást?",
+    "correct": "Keresztezés.",
+    "incorrect1": "Találkozás.",
+    "incorrect2": "Előzés.",
+    "image": "teszt-2312.jpg",
+    "id": "232"
+  },
+  {
+    "question": "Kisgéphajójának sebessége nagyobb, mint az utolért vitorlás kishajóé, ezért majd el is fog haladni mellette. Mi ennek a közlekedési helyzetnek a neve a HSz-ben?",
+    "correct": "Előzés.",
+    "incorrect1": "Találkozás.",
+    "incorrect2": "Keresztezés.",
+    "image": "xxx-4447.jpg",
+    "id": "233"
+  },
+  {
+    "question": "Hogyan hívjuk a HSz-ben azt a közlekedési helyzetet, amikor két hajó egymáshoz viszonyítottan közel ellentétes irányban halad (ahogy az a mellékelt ábrán látható)?",
+    "correct": "Találkozás.",
+    "incorrect1": "Előzés.",
+    "incorrect2": "Keresztezés.",
+    "image": "xxx-2707.jpg",
+    "id": "234"
+  },
+  {
+    "question": "Kisgéphajója szembe találkozik egy nagyhajóval. Melyik hajó köteles biztosítani a másik számára a menetiránya megtartásához és műveletei végzéséhez szükséges teret?",
+    "correct": "A kishajó.",
+    "incorrect1": "A nagyhajó.",
+    "incorrect2": null,
+    "image": "xxx-3884.jpg",
+    "id": "235"
+  },
+  {
+    "question": "Kisgéphajója összeütközés-veszélyes irányban halad egy nagyhajóval. Melyik hajó köteles a másik útjából kitérni?",
+    "correct": "A kishajó.",
+    "incorrect1": "A nagyhajó.",
+    "incorrect2": null,
+    "image": "xxx-3427.jpg",
+    "id": "236"
+  },
+  {
+    "question": "Gépi hajtású kishajómmal haladva a jobbról közeledő, csúcsával lefelé álló fekete kúpot viselő vitorlás nagyhajót veszem észre. Miért nekem kell kitérnem a másik hajó útjából?",
+    "correct": "Mivel a kishajó köteles kitérni a nagyhajó útjából.",
+    "incorrect1": "Mivel két géphajó keresztezésekor a jobbról érkezőnek van elsőbbsége.",
+    "incorrect2": null,
+    "image": "xxx-3435.jpg",
+    "id": "237"
+  },
+  {
+    "question": "Kishajóval hajózom, és ennek során az ábrán látható hajó keresztezi az utamat. Milyen hajó viselhet felül vörös, alul zöld fényjelzést?",
+    "correct": "Vitorlás nagyhajó.",
+    "incorrect1": "Vitorlás kishajó.",
+    "incorrect2": null,
+    "image": "xxx-3440.jpg",
+    "id": "238"
+  },
+  {
+    "question": "Evezővel hajtott kishajómmal haladva az ábrán látható, jobbról közeledő nagyhajót veszem észre. Miért nekem kell kitérnem a másik hajó útjából?",
+    "correct": "Mivel a kishajó köteles kitérni a nagyhajó útjából.",
+    "incorrect1": "Mivel a jobbról érkezőnek van elsőbbsége.",
+    "incorrect2": null,
+    "image": "xxx-3458.jpg",
+    "id": "239"
+  },
+  {
+    "question": "Kishajómmal vitorlázva az ábrán látható nagyhajót észlelem. Befolyásolja-e a kitérési kötelezettséget az, hogy az utamat keresztező hajó gépi hajtással közlekedik?",
+    "correct": "Nem, mivel ő nagyhajó, ezért a hajtási módtól függetlenül nekem kell kitérnem.",
+    "incorrect1": "Igen, mivel ha gépi erővel halad, akkor neki kell kitérnie az én utamból.",
+    "incorrect2": null,
+    "image": "xxx-3256.jpg",
+    "id": "240"
+  },
+  {
+    "question": "Két vitorlás hajó keresztezi egymás útját az ábrázolt forgalmi helyzetben. Befolyásolja-e a kitérési kötelezettséget az, hogy ki milyen oldali széllel közlekedik?",
+    "correct": "Nem, mivel a kishajónak a szél irányától függetlenül ki kell térnie.",
+    "incorrect1": "Igen, mivel a kishajó jobboldali széllel halad, így neki van előnye.",
+    "incorrect2": null,
+    "image": "xxx-3813.jpg",
+    "id": "241"
+  },
+  {
+    "question": "Jobboldali széllel haladó vitorlás kishajóm útját baloldali széllel haladó vitorlás nagyhajó keresztezi. Befolyásolja-e a kitérési kötelezettséget az, hogy ki milyen oldali széllel közlekedik?",
+    "correct": "Nem, mivel nekem a szél irányától függetlenül ki kell térnem a nagyhajó útjából.",
+    "incorrect1": "Igen, mivel a baloldali széllel közeledő hajó köteles kitérni az én utamból.",
+    "incorrect2": null,
+    "image": "xxx-3311.jpg",
+    "id": "242"
+  },
+  {
+    "question": "Egészítse ki! A találkozás vagy az előzés csak akkor engedhető meg, ha a (. . . . .) - valamennyi helyi körülményt és más hajók mozgását is figyelembe véve - kétséget kizáróan elegendő az egyidejű áthaladáshoz.",
+    "correct": "hajóút szélessége",
+    "incorrect1": "víziút szélessége",
+    "incorrect2": "víziút-szakasz hossza",
+    "image": null,
+    "id": "243"
+  },
+  {
+    "question": "Milyen mértékben változtathatják meg a menetirányukat és menetsebességüket a találkozás vagy előzés folyamán az érintett hajók?",
+    "correct": "Olyan mértékben, hogy azzal az összeütközés veszélyét ne idézzék elő.",
+    "incorrect1": "Egyáltalán nem változtathatják meg, mert azzal az összeütközés veszélyét idéznék elő.",
+    "incorrect2": null,
+    "image": null,
+    "id": "244"
+  },
+  {
+    "question": "Kishajóval nappal hajózik. Mire számít, milyen főszabály szerint hajtják végre az Ön előtti nagyhajók az egymás közötti találkozásukat?",
+    "correct": "Mindkét hajó jobbra tartva fog kitérni, hogy bal oldaluk felől haladhassanak el egymás mellett.",
+    "incorrect1": "Mindkét hajó balra tartva fog kitérni, hogy jobb oldaluk felől haladhassanak el egymás mellett.",
+    "incorrect2": null,
+    "image": "xxx-3757.jpg",
+    "id": "245"
+  },
+  {
+    "question": "Kishajóval éjszaka hajózik. Mire számít, milyen főszabály szerint hajtják végre az Ön előtti nagyhajók az egymás közötti találkozásukat?",
+    "correct": "Mindkét hajó jobbra tartva fog kitérni, hogy bal oldaluk felől haladhassanak el egymás mellett.",
+    "incorrect1": "Mindkét hajó balra tartva fog kitérni, hogy jobb oldaluk felől haladhassanak el egymás mellett.",
+    "incorrect2": null,
+    "image": "xxx-3760.jpg",
+    "id": "246"
+  },
+  {
+    "question": "Kishajómmal völgymenetben hajózom. Az ábrázolt forgalmi helyzet szerint hegymenetben nagyhajó közeledik. Mire számítok, hogy fogjuk a találkozást végrehajtani? Arra, hogy (   )",
+    "correct": "nekem kell kitérni a nagyhajó útjából.",
+    "incorrect1": "számomra a hegymenő hajó utat fog engedni.",
+    "incorrect2": null,
+    "image": "xxx-3753.jpg",
+    "id": "247"
+  },
+  {
+    "question": "Kishajómmal völgymenetben hajózom. Az ábrázolt forgalmi helyzet szerint hegymenetben nagyhajó közeledik. Mire számítok, hogy fogjuk a találkozást végrehajtani? Arra, hogy (   )",
+    "correct": "nekem kell kitérni a nagyhajó útjából.",
+    "incorrect1": "számomra a hegymenő hajó utat fog engedni.",
+    "incorrect2": null,
+    "image": "xxx-4187.jpg",
+    "id": "248"
+  },
+  {
+    "question": "Kishajóval hegymenetben hajózik. Számíthat-e valamilyen jelzésre az Ön előtt haladó nagyhajók részéről, ha egymással a találkozást jobbra tartva, a bal oldaluk felől elhaladva hajtják végre?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "xxx-3758.jpg",
+    "id": "249"
+  },
+  {
+    "question": "Mire számít, ha az Ön előtt hegymenetben közlekedő nagyhajón erős villogó fehér fényt lát, illetve világoskék zászlóval jeleznek? Arra, hogy a hegymenő hajó (   )",
+    "correct": "a jobb oldala felől enged utat vele szembe közeledő, völgymenetben haladó nagyhajónak.",
+    "incorrect1": "a bal oldala felől enged utat vele szembe közeledő, völgymenetben haladó nagyhajónak.",
+    "incorrect2": null,
+    "image": "xxx-3774.jpg",
+    "id": "250"
+  },
+  {
+    "question": "Mire számít, ha az Ön előtt hegymenetben közlekedő nagyhajón villogó fehér fényt lát, illetve világoskék táblával jeleznek? Arra, hogy a hegymenő hajó (   )",
+    "correct": "a jobb oldala felől enged utat vele szembe közeledő, völgymenetben haladó nagyhajónak.",
+    "incorrect1": "a bal oldala felől enged utat vele szembe közeledő, völgymenetben haladó nagyhajónak.",
+    "incorrect2": null,
+    "image": "xxx-3780.jpg",
+    "id": "251"
+  },
+  {
+    "question": "Folytassa! A kishajó köteles a hajóútszűkületen (   )",
+    "correct": "a lehető legrövidebb idő alatt áthaladni.",
+    "incorrect1": "az elérhető legnagyobb sebességével áthaladni.",
+    "incorrect2": "való áthaladás közben többször hosszú hangjelzést adni.",
+    "image": "xxx-3952.jpg",
+    "id": "252"
+  },
+  {
+    "question": "Behajózhat-e kishajójával a víziút táblával jelzett szakaszára, ha ott szemből közeledő nagyhajókból álló köteléket észlel?",
+    "correct": "Nem, mivel a tábla minden hajó részére tiltja a találkozást (és előzést).",
+    "incorrect1": "Igen, kishajóra a tábla nem jelent tilalmat.",
+    "incorrect2": null,
+    "image": "xxx-3989.jpg",
+    "id": "253"
+  },
+  {
+    "question": "Mit tesz, ha kishajójával a víziút táblával jelzett szakaszához érkezve Önnel szemben közeledő nagyhajót észlel? A tábla a találkozást és az előzést tiltja, (   )",
+    "correct": "ezért nem hajózom be a szakaszra. Megállással vagy sebességcsökkentéssel megvárom, hogy a hajó onnan kihajózzon.",
+    "incorrect1": "de csak a nagyhajók számára, ezért kishajóként folytatom utam, jobbra tartva bal oldalunk felől elhaladva egymás mellett.",
+    "incorrect2": null,
+    "image": "xxx-3988.jpg",
+    "id": "254"
+  },
+  {
+    "question": "Mit tesz, ha magányos kishajójával a víziút táblával jelzett szakaszához érkezve Önnel szemben közeledő magányos nagyhajót észlel?",
+    "correct": "Behajózom a szakaszra, mivel a tábla csak a kötelékek egymás közötti találkozását és előzését tiltja.",
+    "incorrect1": "Nem hajózom be a szakaszra. Megállással vagy sebességcsökkentéssel megvárom, hogy a hajó onnan kihajózzon.",
+    "incorrect2": null,
+    "image": "xxx-3992.jpg",
+    "id": "255"
+  },
+  {
+    "question": "Magányosan haladó kishajójával megelőzheti-e a tábla hatálya alá tartozó víziút-szakaszon az Ön előtt haladó magányos nagyhajót?",
+    "correct": "Igen, mivel a tábla csak a kötelékek egymás közötti találkozását és előzését tiltja.",
+    "incorrect1": "Nem, mivel a tábla mindenféle előzést tilt.",
+    "incorrect2": "Igen, mivel a tábla csak a találkozást tiltja.",
+    "image": "xxx-3995.jpg",
+    "id": "256"
+  },
+  {
+    "question": "Olyan víziút-szakaszhoz érkeztem, amelyre az illetékes hatóság a találkozás elkerülésére váltakozó irányú áthaladást írt elő. A parton látható jelzőállomás jelzései alapján a kishajómmal (   )",
+    "correct": "jelenleg tilos az áthaladás, mert a víziút-szakasz a másik irányból érkező hajók részére szabad.",
+    "incorrect1": "behajózhatok a szakaszra, mert a tilalom csak nagyhajókra vonatkozik.",
+    "incorrect2": null,
+    "image": "xxx-3998.jpg",
+    "id": "257"
+  },
+  {
+    "question": "Olyan víziút-szakaszhoz érkeztem, amelyre az illetékes hatóság a találkozás elkerülésére váltakozó irányú áthaladást írt elő. A parton látható jelzőállomás jelzései alapján a kishajómmal (   )",
+    "correct": "jelenleg tilos az áthaladás, mert a víziút-szakasz a másik irányból érkező hajók részére szabad.",
+    "incorrect1": "behajózhatok a szakaszra, mert a tilalom csak nagyhajókra vonatkozik.",
+    "incorrect2": null,
+    "image": "xxx-4000.jpg",
+    "id": "258"
+  },
+  {
+    "question": "Olyan víziút-szakaszhoz érkeztem, amelyre az illetékes hatóság a találkozás elkerülésére váltakozó irányú áthaladást írt elő. A parton látható jelzőállomás jelzései alapján a kishajómmal a szakaszra behajózhatok, (   )",
+    "correct": "szembejövőre nem kell számítanom, de az előzés továbbra is tilos.",
+    "incorrect1": "és mivel szembejövőre nem kell számítanom, az utolért nagyhajót megelőzhetem.",
+    "incorrect2": null,
+    "image": "xxx-4001.jpg",
+    "id": "259"
+  },
+  {
+    "question": "Olyan víziút-szakaszhoz érkeztem, amelyre az illetékes hatóság a találkozás elkerülésére váltakozó irányú áthaladást írt elő. Mi teszek, ha a jelzőállomás nem mutatja az előírt (az áthaladást tiltó, vagy engedélyező) jelzéseket?",
+    "correct": "Jelzés hiányában meg kell állnom, és meg kell várnom az illetékes hatóság képviselőinek engedélyét.",
+    "incorrect1": "Ha a jelző nem működik, akkor a szakaszon szabadon át lehet hajózni.",
+    "incorrect2": "Ebben az esetben csak fokozott elővigyázatossággal szabad továbbhajóznom.",
+    "image": "xxx-4005.jpg",
+    "id": "260"
+  },
+  {
+    "question": "Mikor kezdhető meg az előzés?",
+    "correct": "Ha az előző hajó meggyőződött annak veszélytelenségéről.",
+    "incorrect1": "Ha az előzött hajó belegyezett.",
+    "incorrect2": "Ha nem közeledik ellenkező irányból más hajó vagy kötelék.",
+    "image": null,
+    "id": "261"
+  },
+  {
+    "question": "Melyik oldal felől kell általában az előzést végrehajtani (fő szabályként)?",
+    "correct": "Az előzött hajó bal oldala felől.",
+    "incorrect1": "Az előzött hajó jobb oldala felől.",
+    "incorrect2": "Amelyik oldalon azt az utolért hajó engedélyezte.",
+    "image": null,
+    "id": "262"
+  },
+  {
+    "question": "Elhaladhat-e az előző hajó az előzött hajó jobb oldala felől?",
+    "correct": "Igen, amennyiben nem merül fel az összeütközés veszélye.",
+    "incorrect1": "Nem, jobbról tilos előzni.",
+    "incorrect2": "Amennyiben azt az utolért hajó engedélyezte.",
+    "image": null,
+    "id": "263"
+  },
+  {
+    "question": "Megelőzheti-e kishajójával a víziút táblával jelzett szakaszán az Ön előtt haladó köteléket?",
+    "correct": "Nem, mivel a tábla minden hajó részére tiltja az előzést.",
+    "incorrect1": "Igen, kishajóra a tábla nem jelent tilalmat.",
+    "incorrect2": null,
+    "image": "xxx-4024.jpg",
+    "id": "264"
+  },
+  {
+    "question": "Megelőzheti-e kishajójával a víziút táblával jelzett szakaszán az Ön előtt haladó magányos hajót?",
+    "correct": "Igen, mivel a tábla csak a kötelékek egymás közötti előzését tiltja.",
+    "incorrect1": "Nem, mivel a tábla mindenféle előzést tilt.",
+    "incorrect2": null,
+    "image": "xxx-4026.jpg",
+    "id": "265"
+  },
+  {
+    "question": "Alkalmazandók-e a keresztezés szabályai a forduláskor?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": null,
+    "id": "266"
+  },
+  {
+    "question": "Folytassa! A kishajó csak akkor fordulhat meg, ha meggyőződött arról, hogy más hajók mozgása ezt veszély nélkül lehetővé teszi (   )",
+    "correct": "és más hajó nem kényszerül menetiránya vagy sebessége hirtelen megváltoztatására.",
+    "incorrect1": "még akkor is, ha emiatt más hajó menetiránya vagy sebessége hirtelen megváltoztatására kényszerül.",
+    "incorrect2": null,
+    "image": "xxx-4045.jpg",
+    "id": "267"
+  },
+  {
+    "question": "Menetben lévő kishajómmal egy szemből közeledő kishajó fordulási szándékát veszem észre. Mi a teendőm?",
+    "correct": "Ha szükséges és lehetséges, akkor sebességet és irányt változtatok a kockázat nélküli fordulás elősegítése érdekében.",
+    "incorrect1": "Sebesség- és irányváltoztatás nélkül kell tovább hajóznom.",
+    "incorrect2": null,
+    "image": null,
+    "id": "268"
+  },
+  {
+    "question": "Folytassa! Az ábrával megjelölt víziút-szakaszon kishajóval (   )",
+    "correct": "megfordulni tilos.",
+    "incorrect1": "megfordulni szabad.",
+    "incorrect2": null,
+    "image": "teszt-0175.jpg",
+    "id": "269"
+  },
+  {
+    "question": "Mit kell tennie, mielőtt kishajójával egy horgonyzó- vagy kikötőhelyről elindulna?",
+    "correct": "Meg kell győződnöm arról, hogy más hajók mozgása ezt veszély nélkül lehetővé teszi.",
+    "incorrect1": "Mindig az elinduló hajónak van elsőbbsége, ezért csak az indulási manőverrel foglalkozom.",
+    "incorrect2": null,
+    "image": null,
+    "id": "270"
+  },
+  {
+    "question": "Menetben lévő kishajómmal egy horgonyzó- vagy kikötőhelyét elhagyni készülő kishajót veszek észre. Mi a teendőm?",
+    "correct": "Ha szükséges és lehetséges, akkor sebességet és irányt változtatok a kockázat nélküli indulás elősegítése érdekében.",
+    "incorrect1": "Sebesség- és irányváltoztatás nélkül kell tovább hajóznom.",
+    "incorrect2": null,
+    "image": null,
+    "id": "271"
+  },
+  {
+    "question": "Mikor hajózhat be a HSz szerint kishajóval mellékvíziútba, illetve mikor hajózhat ki onnan? Válassza ki melyik válasz helyes!",
+    "correct": "Akkor, ha meggyőződött arról, hogy ez a művelet biztonságosan elvégezhető.",
+    "incorrect1": "Amennyiben meggyőződött arról, hogy nincs a közelben más hajó.",
+    "incorrect2": null,
+    "image": null,
+    "id": "272"
+  },
+  {
+    "question": "Mikor hajózhat be a HSz szerint kishajóval kikötőbe, illetve mikor hajózhat ki onnan? Válassza ki melyik válasz helyes!",
+    "correct": "Akkor, ha meggyőződött arról, hogy ez a művelet biztonságosan elvégezhető.",
+    "incorrect1": "Amennyiben meggyőződött arról, hogy a kikötőben nincs másik menetben lévő hajó.",
+    "incorrect2": null,
+    "image": "xxx-4069.jpg",
+    "id": "273"
+  },
+  {
+    "question": "Hegymenetben haladó kishajóval egy mellékvíziútba szeretne behajózni, amikor észleli az oda szintén behajózni kívánó nagyhajót. Mikor hajózhat be?",
+    "correct": "A nagyhajó után.",
+    "incorrect1": "A nagyhajó előtt.",
+    "incorrect2": null,
+    "image": "xxx-4076.jpg",
+    "id": "274"
+  },
+  {
+    "question": "Kishajójával egy kikötőbe szeretne behajózni, amikor észleli az oda szintén behajózni kívánó, sárga kettőskúpot viselő hajót. Mikor hajózhat be?",
+    "correct": "A sárga kettőskúpot viselő hajó után.",
+    "incorrect1": "A sárga kettőskúpot viselő hajó előtt.",
+    "incorrect2": null,
+    "image": "xxx-4078.jpg",
+    "id": "275"
+  },
+  {
+    "question": "Egy hegymenetben és egy völgymenetben haladó kishajó közül melyik hajózhat elsőként a mellékvíziútba, ha a völgymenetben haladónak a behajózáshoz előtte még hegymenetbe kell fordulnia?",
+    "correct": "A hegymenetben haladó.",
+    "incorrect1": "A völgymenetben haladó.",
+    "incorrect2": null,
+    "image": "xxx-4074.jpg",
+    "id": "276"
+  },
+  {
+    "question": "Kishajójával egy mellékvíziútba szeretne behajózni, amikor észleli az onnan kihajózni kívánó nagyhajót. Mit tesz?",
+    "correct": "Ha úgy ítélem meg, hogy a behajózás biztonságosan elvégezhető, akkor folytatom az utam. ",
+    "incorrect1": "Mindenképpen folytatom az utam, a fő víziúton haladóként nekem van elsőbbségem.",
+    "incorrect2": null,
+    "image": "xxx-4082.jpg",
+    "id": "277"
+  },
+  {
+    "question": "Kishajójával egy kikötőbe szeretne behajózni, amikor észleli az onnan kihajózni kívánó, sárga kettőskúpot viselő hajót. Mit tesz?",
+    "correct": "Ha úgy ítélem meg, hogy a behajózás biztonságosan elvégezhető, akkor folytatom az utam. ",
+    "incorrect1": "Mindenképpen folytatom az utam, mert kikötőbe behajózóként nekem van elsőbbségem.",
+    "incorrect2": null,
+    "image": "xxx-2320.jpg",
+    "id": "278"
+  },
+  {
+    "question": "Kishajójával egy mellékvíziútból szeretne kihajózni, amikor észleli az oda behajózni kívánó nagyhajót. Kényszerítheti-e őt a menetiránya vagy sebessége hirtelen megváltoztatására?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "xxx-4084.jpg",
+    "id": "279"
+  },
+  {
+    "question": "Kishajójával egy kikötőből szeretne kihajózni, amikor észleli az oda behajózni kívánó nagyhajót. Kényszerítheti-e őt a menetiránya vagy sebessége hirtelen megváltoztatására?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "xxx-2360.jpg",
+    "id": "280"
+  },
+  {
+    "question": "Menetben lévő kishajómmal egy mellékágból kihajózni készülő kishajót veszek észre. Mi a teendőm? A fő víziúton haladó kishajóként (   )",
+    "correct": "ha szükséges, akkor megváltoztatom a menetirányomat vagy sebességemet a kihajózás elősegítése érdekében.",
+    "incorrect1": "elsőbbséget élvezek, ezért köteles vagyok menetirányomat és sebességemet megtartani.",
+    "incorrect2": null,
+    "image": null,
+    "id": "281"
+  },
+  {
+    "question": "Kihajózhat-e kishajójával a táblával jelzett mellékvíziútból abban az esetben, ha kihajózásával a főágban haladó kishajót menetirányának vagy sebességének hirtelen megváltoztatására kényszerítené?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "xxx-4129.jpg",
+    "id": "282"
+  },
+  {
+    "question": "Kötelesek-e találkozásnál vagy keresztezésnél a hajók utat engedni a műveletképességében korlátozott hajónak és a halászattal foglalkozó hajónak?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": null,
+    "id": "283"
+  },
+  {
+    "question": "Kisgéphajóm felé ellentétes irányból egy sárga kettős kúpot és egy csúcsával lefelé álló fekete kúpot viselő hajó közeledik. Hogyan hajtjuk végre a találkozást?",
+    "correct": "Én térek ki.",
+    "incorrect1": "Mindketten jobbra tartunk.",
+    "incorrect2": "Ő tér ki.",
+    "image": "xxx-2640.jpg",
+    "id": "284"
+  },
+  {
+    "question": "Vitorlás kishajóm felé ellentétes irányból nagygéphajó közeledik. Hogyan hajtjuk végre a találkozást?",
+    "correct": "Én térek ki, mivel én kishajó vagyok, ő pedig nagyhajó.",
+    "incorrect1": "Mindketten jobbra tartunk, mivel a közlekedési helyzet találkozás.",
+    "incorrect2": null,
+    "image": "xxx-2262.jpg",
+    "id": "285"
+  },
+  {
+    "question": "Kisgéphajómmal egy tavi kikötőből hajózom ki, amikor meglátom az ellentétes irányból közeledő nagygéphajót. Más szabályok szerint kell-e a találkozást végrehajtani itt, mint a nyílt vízen?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "teszt-2026.jpg",
+    "id": "286"
+  },
+  {
+    "question": "Kisgéphajómmal egy tavi kikötőből hajózom ki, amikor meglátom az ellentétes irányból közeledő, gépi erővel haladó nagyhajót. Hogyan hajtjuk végre a találkozást?",
+    "correct": "Én térek ki.",
+    "incorrect1": "Ő tér ki.",
+    "incorrect2": null,
+    "image": "teszt-2030.jpg",
+    "id": "287"
+  },
+  {
+    "question": "Evezővel hajtott kishajómmal tavi kikötőbe behajózva meglátom az ellentétes irányból közeledő nagyhajót. Más szabályok szerint kell-e a találkozást végrehajtani itt, mint a nyílt vízen?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "teszt-2071.jpg",
+    "id": "288"
+  },
+  {
+    "question": "Mit értünk az éjszaka fogalmán a víziközlekedésben?",
+    "correct": "A napnyugta és a napkelte közötti időszakot.",
+    "incorrect1": "Korlátozott látási viszonyokat.",
+    "incorrect2": "A szürkület és a hajnal között időszakot.",
+    "image": null,
+    "id": "289"
+  },
+  {
+    "question": "Mit értünk a nappal fogalmán a víziközlekedésben?",
+    "correct": "A napkelte és a napnyugta közötti időszakot.",
+    "incorrect1": "A hajnal és a szürkület közötti időszakot.",
+    "incorrect2": "A világosodás és a sötétedés közötti időszakot.",
+    "image": null,
+    "id": "290"
+  },
+  {
+    "question": "Mit értünk villanó fényen a víziközlekedésben? Olyan fényt, amelynél a ritmikus villanás száma (   )",
+    "correct": "percenként 40-60.",
+    "incorrect1": "percenként több mint 60-80.",
+    "incorrect2": "percenként 100-120.",
+    "image": null,
+    "id": "291"
+  },
+  {
+    "question": "Mit értünk gyors villanó fényen a víziközlekedésben? Olyan fényt, amelynél a ritmikus villanás száma (   )",
+    "correct": "percenként 100-120.",
+    "incorrect1": "percenként nem több mint 40-60.",
+    "incorrect2": "percenként legfeljebb 60-80.",
+    "image": null,
+    "id": "292"
+  },
+  {
+    "question": "Folytassa! A nyilvántartásra kötelezett kishajó hivatalos azonosító jelét legalább 10 cm magasságú latin betűkkel, jól olvasható és letörölhetetlen módon, (   )",
+    "correct": "a hajó külső részén köteles viselni.",
+    "incorrect1": "a hajó belső részén köteles viselni.",
+    "incorrect2": "a hajó belső és külső részén köteles viselni.",
+    "image": null,
+    "id": "293"
+  },
+  {
+    "question": "Hogyan rendelkezik a HSz, mikor kell viselni az éjszakára előírt jelzéseket kiegészítő jelzésként nappal is?",
+    "correct": "Ha azt a látási viszonyok megkövetelik.",
+    "incorrect1": "Az éjszakai fényeket csak napnyugta és napkelte között kell viselni.",
+    "incorrect2": "Ha a látótávolság nappal 500 méter alá csökken.",
+    "image": null,
+    "id": "294"
+  },
+  {
+    "question": "Mit tekint a HSz minden oldalról látható fénynek? Azt a megszakítás nélkül kibocsátott fényt, (   )",
+    "correct": "360 fokban látszik.",
+    "incorrect1": "amely felülről is látszik.",
+    "incorrect2": "amelyet az árboc tetején helyeztek el.",
+    "image": null,
+    "id": "295"
+  },
+  {
+    "question": "Milyen látószögben látszik egy kishajó fehér színű árbocfénye?",
+    "correct": "225 fok.",
+    "incorrect1": "135 fok.",
+    "incorrect2": "112 fok  30 perc.",
+    "image": "xxx-3548.jpg",
+    "id": "296"
+  },
+  {
+    "question": "Milyen látószögben látszik egy kishajó oldalfénye?",
+    "correct": "112 fok 30 perc.",
+    "incorrect1": "120 fok 30 perc.",
+    "incorrect2": "135 fok.",
+    "image": null,
+    "id": "297"
+  },
+  {
+    "question": "Milyen látószögben látszik egy kishajó fehér színű farfénye?",
+    "correct": "135 fok.",
+    "incorrect1": "225 fok.",
+    "incorrect2": "112 fok 30 perc.",
+    "image": "xxx-3554.jpg",
+    "id": "298"
+  },
+  {
+    "question": "Szabad-e kishajón a HSz-ben nem említett világító berendezést, fényszórót, továbbá táblát, lobogót vagy más tárgyat használni?",
+    "correct": "Igen, ha az nem értelmezhető HSz-ben előírt jelzőfényként vagy jelzésként.",
+    "incorrect1": "Nem, kishajó fedélzetén ez tilos.",
+    "incorrect2": "Igen, de kizárólag a meghibásodott jelzőfények helyettesítésre.",
+    "image": null,
+    "id": "299"
+  },
+  {
+    "question": "Milyen fontos előírás vonatkozik az oldalfények elhelyezésére egy vitorlás nagyhajón? Azokat elhelyezni (   )",
+    "correct": "azonos magasságban, a hajó legszélesebb részén kell.",
+    "incorrect1": "a hajó orrán vagy annak közelében kell.",
+    "incorrect2": "közös lámpatestben az árboc csúcsán kell.",
+    "image": "xxx-2657.jpg",
+    "id": "300"
+  },
+  {
+    "question": "Hogyan nem szabad hajón világító berendezést vagy fényszórót használni?",
+    "correct": "Úgy, hogy az a közlekedést veszélyeztető vagy zavaró vakítást okozzon.",
+    "incorrect1": "A hajózási hatóság egyedi engedélyének hiányában.",
+    "incorrect2": "Világító berendezés reklám céljait nem szolgálhatja, fényszóróra nincs tiltás.",
+    "image": null,
+    "id": "301"
+  },
+  {
+    "question": "Mit kell tenni, ha a HSz-ben előírt jelzőfény nem működik?",
+    "correct": "Haladéktalanul tartalék jelzőfénnyel kell azt helyettesíteni.",
+    "incorrect1": "A hajón található bármely egyéb fényforrással kell ideiglenesen azt pótolni.",
+    "incorrect2": "Azonnal meg kell állni, és a javítást megkezdeni.",
+    "image": null,
+    "id": "302"
+  },
+  {
+    "question": "Mikor helyettesíthető a HSz-ben előírt henger, gömb, kúp és kettőskúp?",
+    "correct": "Ha az távolról azonos alakot mutat.",
+    "incorrect1": "Ha az az előírásoknak megfelelő fényvisszaverő anyagból készül.",
+    "incorrect2": "Ha a helyettesítő szerkezet méreteit 150 százalékkal megnövelik.",
+    "image": null,
+    "id": "303"
+  },
+  {
+    "question": "Honnan ismeri fel a veszélyes árukat szállító hajókat nappal? Onnan, hogy a szállított veszélyes áru jellegének megfelelő számú (   )",
+    "correct": "csúcsával lefelé fordított kék kúpot viselnek.",
+    "incorrect1": "kettőskúpot viselnek.",
+    "incorrect2": "csúcsával felfelé állított fekete kúpot viselnek.",
+    "image": null,
+    "id": "304"
+  },
+  {
+    "question": "Éjszaka az ábrán látható hajó fényeit észleli. Miből következtet arra, hogy vitorlával haladó hajó keresztezi az Ön útját?",
+    "correct": "Hiányzik az árbocfény.",
+    "incorrect1": "Látom a vitorlák körvonalait.",
+    "incorrect2": "A fények alapján nem tudom megállapítani, csak a sebességéből.",
+    "image": "xxx-3331.jpg",
+    "id": "305"
+  },
+  {
+    "question": "Éjszaka az ábrán látható hajó fényeit észleli. Egyebek mellett miből következtet arra, hogy milyen hajó keresztezi az Ön útját? Az árboc felső részén viselt két egymás feletti, (   )",
+    "correct": "minden oldalról látható vörös és zöld fényeket csak vitorlás nagyhajó viselheti.",
+    "incorrect1": "225 fok látószögű fény csak vitorlás kishajónak megengedett.",
+    "incorrect2": "zöld, vörös csúcsfény menetben lévő vitorla mellett saját gépi erőt is használó hajót jelez.",
+    "image": "xxx-3300.jpg",
+    "id": "306"
+  },
+  {
+    "question": "Éjszaka az ábrán látható hajó fényeit észleli. Miből következtet arra, hogy nagyhajóval találkozik?",
+    "correct": "Az oldalfényeket vitorlás kishajó nem viselheti a hajó legszélesebb helyén.",
+    "incorrect1": "Csak annyit tudok megállapítani, hogy a hajó velem szembe halad.",
+    "incorrect2": "A hajó körvonalainak mérete nagyhajóra engednek következtetni.",
+    "image": "xxx-2342.jpg",
+    "id": "307"
+  },
+  {
+    "question": "Éjszaka az ábrán látható hajó fényeit észleli. Miből következtet arra, hogy vitorla mellett gépi erőt is használó hajó keresztezi az Ön útját?",
+    "correct": "Árbocfényt is visel.",
+    "incorrect1": "Hallás után, a motorzaj a víz felett jól terjed. ",
+    "incorrect2": "A fények alapján nem tudom megállapítani, csak a sebességéből.",
+    "image": "xxx-3308.jpg",
+    "id": "308"
+  },
+  {
+    "question": "Hogyan kell elhelyezni az oldalfényeket egy 7 m hosszúságot elérő vitorlás kishajón? Az oldalfényeket (   )",
+    "correct": "egymás mellett vagy egy közös lámpatestben a hajó hossztengelyében a hajó orrán, vagy annak közelében kell elhelyezni.",
+    "incorrect1": "egymás mellett a hajó legszélesebb helyén kell azonos magasságban elhelyezni.",
+    "incorrect2": null,
+    "image": null,
+    "id": "309"
+  },
+  {
+    "question": "Ha nem a hajó orrán, vagy annak közelében, akkor hogyan lehet még elhelyezni az oldalfényeket egy vitorlás kishajón?",
+    "correct": "Az oldalfényeket és farfényt egy közös lámpatestben elhelyezve az árboccsúcson, vagy az árboc felső részén is lehet viselni.",
+    "incorrect1": "Egymás mellett a hajó legszélesebb helyén, azonos magasságban is el lehet helyezni azokat.",
+    "incorrect2": null,
+    "image": null,
+    "id": "310"
+  },
+  {
+    "question": "Kisgéphajója menet közben meghibásodik. Milyen jelzéssel tudatja a környező hajókkal, hogy a hajója műveletképtelen?",
+    "correct": "Egy vörös fény lengetésével, amely kishajó esetében lehet fehér színű is.",
+    "incorrect1": "Egy vörös fény körkörös forgatásával.",
+    "incorrect2": "A morzeábécé szerinti ••• - - - ••• (SOS) fényjelek leadásával.",
+    "image": null,
+    "id": "311"
+  },
+  {
+    "question": "Milyen hajó jelenlétére számít, ha azon egy vörös fényt lengetnek? A jelzést leadó hajó (   )",
+    "correct": "műveletképtelen.",
+    "incorrect1": "veszélyben van, segítséget kér.",
+    "incorrect2": "a hajóútban munkát végez.",
+    "image": "xxx-3587.jpg",
+    "id": "312"
+  },
+  {
+    "question": "Az ábrán látható nappali jelzések közül melyik betűjelű jelenti azt, hogy kishajója műveletképtelen?",
+    "correct": "A.",
+    "incorrect1": "B.",
+    "incorrect2": "C.",
+    "image": "xxx-3671.jpg",
+    "id": "313"
+  },
+  {
+    "question": "Mikor lehet indokolt egy kishajón fehér fény lengetése? Ha ezzel a jelzéssel tudatja a környezetében lévő hajókkal azt, hogy (   )",
+    "correct": "műveletképtelen, az esetleges kitérési kötelezettségeinek nem tud eleget tenni.",
+    "incorrect1": "veszélyben van, segítséget kér.",
+    "incorrect2": "hullámzás elleni védelemre szorul, így kéri a hajóktól, hogy mellette lassítsanak.",
+    "image": "xxx-3588.jpg",
+    "id": "314"
+  },
+  {
+    "question": "Milyen úszólétesítmény látható az ábrán?",
+    "correct": "Műveletképtelen, de menetben lévő (sodródó) géphajó, amely a jobb oldalát mutatja.",
+    "incorrect1": "Fennakadt géphajó, amely a jobb oldalát mutatja.",
+    "incorrect2": "Hullámzás elleni védelemre szoruló géphajó, amely a jobb oldalát mutatja.",
+    "image": "teszt-1445.jpg",
+    "id": "315"
+  },
+  {
+    "question": "Milyen úszólétesítmény látható az ábrán?",
+    "correct": "Műveletképtelen, de menetben lévő (sodródó) géphajó, amely a bal oldalát mutatja.",
+    "incorrect1": "Fennakadt géphajó, amely a bal oldalát mutatja.",
+    "incorrect2": "Révkalauzi szolgálatot ellátó hajó, amely a bal oldalát mutatja.",
+    "image": "teszt-1446.jpg",
+    "id": "316"
+  },
+  {
+    "question": "Mire következtet, ha egy közeledő hajó mellső részén vörös lengőt lát nappal?",
+    "correct": "A hajó áthaladási elsőbbségi jogát jelzi.",
+    "incorrect1": "A hajó révkalauzi szolgálatának ellátását jelzi.",
+    "incorrect2": "A hajó 12 főnél több utas szállítására való jogosultságát jelzi.",
+    "image": "teszt-1457.jpg",
+    "id": "317"
+  },
+  {
+    "question": "Mit jeleznek a hajón látható fekete gömbök? A gömbök azt jelzik nappal, hogy a hajó (   )",
+    "correct": "műveletképtelen.",
+    "incorrect1": "zátonyra futott.",
+    "incorrect2": "manőverképességében korlátozott.",
+    "image": "zzz-0002.jpg",
+    "id": "318"
+  },
+  {
+    "question": "Milyen kiegészítő jelzése(i) vannak az ellenőrző hatóság hajóinak (a NAV által üzemeltetett hajók kivételével)? Jelölje meg a helyes ábra betűjelét!",
+    "correct": "B.",
+    "incorrect1": "A.",
+    "incorrect2": "C.",
+    "image": "xxx-1790.jpg",
+    "id": "319"
+  },
+  {
+    "question": "Mit jelez az ábrán látható, hajón elhelyezett tábla?",
+    "correct": "A hajó személyzetéhez nem tartozó személyek hajóra lépésének tilalmát.",
+    "incorrect1": "A tábla olyan hajót jelöl, amely nem rendelkezik személyzettel.",
+    "incorrect2": "A tábla kihelyezésével jelzik az utasoktól elzárt területet.",
+    "image": "teszt-1584.jpg",
+    "id": "320"
+  },
+  {
+    "question": "Mit jeleznek nappal a hajón látható jelzőtestek (függőleges vonalban két fekete gömb között egy fekete kettős kúp)? A jelzőtestek azt jelzik, hogy a hajó (   )",
+    "correct": "műveletképességében korlátozott.",
+    "incorrect1": "műveletképtelen.",
+    "incorrect2": "merülése miatt mozgásában korlátozott.",
+    "image": "zzz-0004.jpg",
+    "id": "321"
+  },
+  {
+    "question": "Mit jelentenek éjszaka a hajón látható fények? A fények azt jelzik, hogy a hajó (   )",
+    "correct": "műveletképességében korlátozott.",
+    "incorrect1": "kormányképtelen.",
+    "incorrect2": "merülése miatt mozgásában korlátozott.",
+    "image": "zzz-0005.jpg",
+    "id": "322"
+  },
+  {
+    "question": "Mire következtet, milyen hajókkal találkozik az ábrán látható hajókon elhelyezett jelzőtestek alapján (két csúcsával egymással szembe fordított egymás felett elhelyezett fekete kúpok)?",
+    "correct": "Halászattal foglalkozó hajókkal.",
+    "incorrect1": "Víziúton munkát (mederfelmérést) végző hajókkal.",
+    "incorrect2": "Tavon vontatott köteléket továbbító hajókkal.",
+    "image": "zzz-0008.jpg",
+    "id": "323"
+  },
+  {
+    "question": "Melyik számú lobogóval jelezheti egy hajó azt, hogy búvármunka végzésére használják?",
+    "correct": "2.",
+    "incorrect1": "1.",
+    "incorrect2": "3.",
+    "image": "xxx-1858.jpg",
+    "id": "324"
+  },
+  {
+    "question": "Mit jeleznek a hajón látható jelzőtestek (3 db fekete gömb vízszintes alapú háromszög alakban elrendezve)? A hajó",
+    "correct": "aknamentesítési műveletekkel foglalkozik.",
+    "incorrect1": "műveletképtelen.",
+    "incorrect2": "nyílt helyen (a parttal közvetlen vagy közvetett összeköttetés nélkül) vesztegel.",
+    "image": "zzz-0011.jpg",
+    "id": "325"
+  },
+  {
+    "question": "Válassza ki, hogy melyik ábrán látható megkülönböztető villogó fényjelzést viselheti a vízi mentőszolgálat riasztásra közlekedő mentőmotorosa elsőbbségi jogának jelzésére?",
+    "correct": "C.",
+    "incorrect1": "A.",
+    "incorrect2": "B.",
+    "image": "xxx-0664.jpg",
+    "id": "326"
+  },
+  {
+    "question": "Jelölje meg, hogy melyik ábrán látható úszóval jelölik meg nappal a hajó horgonyát, kötelét, horgonyláncát, ha az a hajózást veszélyeztetheti?",
+    "correct": "B.",
+    "incorrect1": "A.",
+    "incorrect2": "C.",
+    "image": "xxx-0151.jpg",
+    "id": "327"
+  },
+  {
+    "question": "Mire számít, ha az Önnel szembejövő hajón villogó sárga fényt észlel? A hajó (   )",
+    "correct": "a víziúton munkát vagy szondázást, illetve mérést végez.",
+    "incorrect1": "vízimentésre használt hajó, és éppen viseli a megkülönböztető jelzését.",
+    "incorrect2": "gyorsjáratú hajó menetben.",
+    "image": "xxx-3674.jpg",
+    "id": "328"
+  },
+  {
+    "question": "Mit tesz, ha az ábrán látható jelzéseket viselő úszólétesítmény felé közeledik kisgéphajójával?",
+    "correct": "Egyrészt kitérek az útjából, másrészt annyira lassítok, hogy elkerüljem a hullámkeltést.",
+    "incorrect1": "Balra tartva kitérek az útjából, mert tábla jelzi azt az oldalt, ahol tilos az elhaladás.",
+    "incorrect2": null,
+    "image": "zzz-0020.jpg",
+    "id": "329"
+  },
+  {
+    "question": "Kisgéphajómmal éjszaka az ábrán látható fényjelzéseket észlelem. Mire következtethetek?",
+    "correct": "Aknamentesítéssel foglalkozó hajóval találkozom, az útjából kitérek.",
+    "incorrect1": "Komppal találkozom, mindketten jobbra tartunk.",
+    "incorrect2": "Halászhajóval találkozom, az útjából kitérek.",
+    "image": "xxx-3743.jpg",
+    "id": "330"
+  },
+  {
+    "question": "Egy olyan hajó felé közeledik, amelyről zászló körkörös mozgatásával jeleznek. Mit jelent a hajóról leadott jelzés? A jelzést leadó hajó (   )",
+    "correct": "veszélyben van, segítséget kér.",
+    "incorrect1": "ereszkedik.",
+    "incorrect2": "halászhálója a hajózás számára akadályt jelent, ezt jelzik a hajóról.",
+    "image": "teszt-1466.jpg",
+    "id": "331"
+  },
+  {
+    "question": "Éjszaka egy olyan hajó felé közeledik, amelyről egy körkörösen mozgatott vörös fénnyel jeleznek. Mit jelent a hajóról leadott jelzés? A jelzést leadó hajó (   )",
+    "correct": "veszélyben van, segítséget kér.",
+    "incorrect1": "ereszkedik.",
+    "incorrect2": "egy köteles komp, ezzel jelzi kifeszített vezetőkötelét.",
+    "image": "zzz-0028.jpg",
+    "id": "332"
+  },
+  {
+    "question": "Egy olyan hajó felé közeledik, amelyről rövid időközönként vörös csillagrakétákat lőnek fel. Mire következtet?",
+    "correct": "A jelzést leadó hajó veszélyben van, segítséget kér.",
+    "incorrect1": "Feltehetően a hajón szállított robbanóanyag felrobbant, a lehető legnagyobb távolságot tartok tőle.",
+    "incorrect2": "Arra, hogy olyan rendezvényt tartanak, melynek során a hajóról tűzijátékot lőnek fel.",
+    "image": "teszt-1473.jpg",
+    "id": "333"
+  },
+  {
+    "question": "Egy olyan hajó felé közeledik, amelyen egy lobogó, alatta pedig egy gömb van elhelyezve. Mit jeleznek a hajón látható jelzések? A jelzéseket viselő hajó (   )",
+    "correct": "veszélyben van, segítséget kér.",
+    "incorrect1": "műveletképtelen.",
+    "incorrect2": "nyílt helyen vesztegel.",
+    "image": "teszt-1480.jpg",
+    "id": "334"
+  },
+  {
+    "question": "Egy olyan hajó felé közeledik, amelyről a morzeábécé szerinti ••• - - - ••• (SOS) fényjelzéssel jeleznek. Mit jelent a hajóról leadott jelzés?",
+    "correct": "A jelzést leadó hajó veszélyben van, segítséget kér.",
+    "incorrect1": "Egy hajó ilyen jelzést nem alkalmazhat.",
+    "incorrect2": "A jelzést leadó hajó ereszkedik.",
+    "image": "teszt-1484.jpg",
+    "id": "335"
+  },
+  {
+    "question": "Egy olyan hajó felé közeledik, amelyen kátrány, olaj égetésével keletkező lángot észlel. Mire következtet?",
+    "correct": "A jelzést leadó hajó veszélyben van, segítséget kér.",
+    "incorrect1": "A hajón keletkezett környezetre káros anyagokat égetéssel semmisíti meg a hajó személyzete.",
+    "incorrect2": "A hajón tűzriadó gyakorlatot tart a személyzet.",
+    "image": "teszt-1489.jpg",
+    "id": "336"
+  },
+  {
+    "question": "Egy olyan hajót észlel, amelyről vörös színű ejtőernyős rakétát lőttek fel. Mire következtet?",
+    "correct": "A jelzést leadó hajó veszélyben van, segítséget kér.",
+    "incorrect1": "Olyan rendezvényt tartanak, melynek során a hajóról tűzijátékot lőnek fel.",
+    "incorrect2": "A térségben hadihajók gyakorlatoznak.",
+    "image": "teszt-1497.jpg",
+    "id": "337"
+  },
+  {
+    "question": "Egy olyan hajó felé közeledik, amelyen egy kinyújtott karjait lassan felülről lefelé mozgató (repülést utánzó) embert lát. Mit tesz? A jelzés (   )",
+    "correct": "vészjelzés, ezért a saját hajóm biztonságával összeegyeztethető mértékben próbálok segítséget nyújtani.",
+    "incorrect1": "nemzetközi üdvözlés jele, ezért hasonló módon visszaintegetek.",
+    "incorrect2": "nem nekem szól, hanem a közeledő más hajó részére, én gyorsan minél távolabb hajózom.",
+    "image": null,
+    "id": "338"
+  },
+  {
+    "question": "Mire gondol az alábbiak közül, ha egy hajó vészjelzését észleli?",
+    "correct": "Emberélet került közvetlen veszélybe.",
+    "incorrect1": "A hajó vihar közeledtét jelzi.",
+    "incorrect2": "Így jelzi, hogy a hajóút széléről hiányzik egy bója.",
+    "image": null,
+    "id": "339"
+  },
+  {
+    "question": "Milyen úszólétesítmény jelenlétére számít, ha annak mindkét oldalán két-két zöld kettős kúpot lát egymás fölött? Hogyan hajózik el mellette?",
+    "correct": "Munkát végző úszómunkagép, amely mellett minkét oldalon szabad az elhajózás.",
+    "incorrect1": "Műveletképességében korlátozott hajó, melynek bármelyik oldala felől szabad az elhajózás.",
+    "incorrect2": null,
+    "image": "zzz-0165.jpg",
+    "id": "340"
+  },
+  {
+    "question": "Igényel-e hullámzás elleni védelmet az ábrán látható nappali jelzésekkel megjelölt, munkát végző úszómunkagép?",
+    "correct": "Nem, a zöld-fehér-zöld oldalon lassítás nélkül elhaladhatok.",
+    "incorrect1": "Igen, a vörös-fehér-vörös tábla ezt jelenti.",
+    "incorrect2": null,
+    "image": "xxx-2238.jpg",
+    "id": "341"
+  },
+  {
+    "question": "Munkát végző úszómunkagép az ábrán látható jelzéseket viseli. Melyik oldalon, és hogyan hajózik el mellette?",
+    "correct": "Lassítással csökkentem a hullámkeltésemet, a vörös-fehér tábla oldalán hajózom el.",
+    "incorrect1": "A hullámzás elleni védelmet csak a vörös-fehér táblával jelzett oldalra kérik. A másik oldalán lassítás nélkül elhajózhatok.",
+    "incorrect2": null,
+    "image": "zzz-0167.jpg",
+    "id": "342"
+  },
+  {
+    "question": "Az ábrán részben elsüllyedt hajó jelzései láthatóak. Mit ír elő a HSz arra az esetre, ha magán a hajón nem lehet elhelyezni az előírt jelzéseket?",
+    "correct": "Akkor azokat csónakokon, bójákon vagy más alkalmas eszközön kell elhelyezni.",
+    "incorrect1": "Jelezni csak a fennakadt hajót kell, ha a hajó elsüllyedt, akkor a jelzésekre nincs szükség.",
+    "incorrect2": null,
+    "image": "xxx-3720.jpg",
+    "id": "343"
+  },
+  {
+    "question": "Milyen úszólétesítmény jelenlétére következtet, ha az ábrán látható fényeket észleli? Hogyan hajózik el mellette?",
+    "correct": "Munkát végző úszómunkagép, az elhajózás a zöld fények oldalán lehetséges.",
+    "incorrect1": "Köteles komp a bal oldalát mutatja, elhajózás a vörös fény oldalán lehetséges. ",
+    "incorrect2": null,
+    "image": "teszt-0060.jpg",
+    "id": "344"
+  },
+  {
+    "question": "Hogyan hajózik el az ábrán látható fényeket viselő úszólétesítmény mellett? Az úszómunkagép (   )",
+    "correct": "vörös-fehér fénnyel jelölt oldala felől hajózom el. Sebességemet lecsökkentem annyira, hogy ne keltsek nagy hullámokat. ",
+    "incorrect1": "vörös fénnyel jelölt oldala felől hajózom el. Ezen az oldalon sebességemet nem kell csökkentem. ",
+    "incorrect2": null,
+    "image": "teszt-0081.jpg",
+    "id": "345"
+  },
+  {
+    "question": "Hogyan hajózik el az ábrán látható fényeket viselő úszómunkagép mellett? A bóján a fehér fény jelzi azt, hogy a munkagép horgonya úgy van kihelyezve, hogy az a hajózást veszélyeztetheti. A vörös-fehér fénnyel jelölt oldal felől, lassítva (   )",
+    "correct": "a horgonyt és a munkagépet is elkerülve hajózom el.",
+    "incorrect1": "a horgony és a munkagép között hajózom el.",
+    "incorrect2": null,
+    "image": "xxx-0054.jpg",
+    "id": "346"
+  },
+  {
+    "question": "Milyen időtartamú a hosszú hang?",
+    "correct": "Kb. 4 másodperc.",
+    "incorrect1": "Pontosan 10 másodperc.",
+    "incorrect2": "Nem több mint 2 másodperc.",
+    "image": null,
+    "id": "347"
+  },
+  {
+    "question": "Milyen időtartamú a rövid hang?",
+    "correct": "Kb. 1 másodperc.",
+    "incorrect1": "Pontosan 4 másodperc.",
+    "incorrect2": "Nem kevesebb mint 2 másodperc.",
+    "image": null,
+    "id": "348"
+  },
+  {
+    "question": "Milyen időtartamú szünetet kell tartani két egymást követő hang között (kivéve a nagyon rövid hangok sorozatát)?",
+    "correct": "Kb. 1 másodperc.",
+    "incorrect1": "Nem kevesebb, mint 3 másodperc.",
+    "incorrect2": "Kb. 2 másodperc.",
+    "image": null,
+    "id": "349"
+  },
+  {
+    "question": "Milyen időtartamú és hány leadott hangból áll a nagyon rövid hangok sorozata?",
+    "correct": "1/4 mp hosszú, 1/4 mp szünettel elválasztott, és 6 hangból áll.",
+    "incorrect1": "1/2 mp hosszú, 1 mp szünettel elválasztott, és 3 hangból áll.",
+    "incorrect2": "1/4 mp hosszú, 1 mp szünettel elválasztott, és 5 hangból áll.",
+    "image": null,
+    "id": "350"
+  },
+  {
+    "question": "Hányszor ismétlődik és melyik hangon kezdődik a háromtónusú hangjelzés?",
+    "correct": "Háromszor ismétlődik, és a legmélyebb hangon kezdődik.",
+    "incorrect1": "Hatszor ismétlődik, és a legmagasabb hangon kezdődik.",
+    "incorrect2": "Ötször ismétlődik, és a legalacsonyabb hangon kezdődik.",
+    "image": null,
+    "id": "351"
+  },
+  {
+    "question": "Mit tekint a HSz harangkongatásnak?",
+    "correct": "A kettős harangütést.",
+    "incorrect1": "Egy harangütést.",
+    "incorrect2": "A folyamatos harangütést.",
+    "image": null,
+    "id": "352"
+  },
+  {
+    "question": "Mivel lehet hangjelzést leadni azon a kisgéphajón, amely nem rendelkezik hangjelzés adására alkalmas gépi üzemű készülékkel?",
+    "correct": "Dudával vagy kürttel.",
+    "incorrect1": "Szócsővel vagy kiáltással.",
+    "incorrect2": "Síppal.",
+    "image": null,
+    "id": "353"
+  },
+  {
+    "question": "Folytassa! Nagygéphajó hangjelzését időben és időtartamban szinkronizált, minden oldalról látható (   )",
+    "correct": "sárga fényjelzés kíséri.",
+    "incorrect1": "fehér fényjelzés kíséri.",
+    "incorrect2": "kék fényjelzés kíséri.",
+    "image": null,
+    "id": "354"
+  },
+  {
+    "question": "Kishajóján nincs harang. Mivel helyettesíthető a harangkongatás?",
+    "correct": "Fémtárgy fémtárgyhoz való ütésével.",
+    "incorrect1": "Hangos kiáltással.",
+    "incorrect2": "Síppal.",
+    "image": null,
+    "id": "355"
+  },
+  {
+    "question": "Használhatja-e a kishajó a HSz által meghatározott általános hangjeleket?",
+    "correct": "Igen, szükség esetén.",
+    "incorrect1": "Igen, kishajók számára is kötelező.",
+    "incorrect2": "Csak a kizárólag kishajókból álló kötelék használhatja.",
+    "image": null,
+    "id": "356"
+  },
+  {
+    "question": "Milyen általános előírást fogalmaz meg a HSz a hangjelzések használatára?",
+    "correct": "Tilos a HSz-től eltérő hangjelzést használni.",
+    "incorrect1": "A köteléken belüli kommunikációra a HSz engedélyezi az eltérő hangjelzések használatát.",
+    "incorrect2": "Nemzeti gyász esetén a HSz-től eltérő hangjelzések is alkalmazhatók.",
+    "image": null,
+    "id": "357"
+  },
+  {
+    "question": "Egy olyan hajót észlel, amelyről ismételt hosszú hangjelekkel jeleznek. Mire következtet? A jelzéseket leadó hajó (   )",
+    "correct": "veszélyben van, segítséget kér.",
+    "incorrect1": "műveletképtelenségét jelzi így.",
+    "incorrect2": "búvármunkát végez.",
+    "image": "teszt-2654.jpg",
+    "id": "358"
+  },
+  {
+    "question": "Egy olyan hajót észlel, amelyről folyamatos harangkongatással jeleznek. Mire következtet? A jelzéseket leadó hajó (   )",
+    "correct": "veszélyben van, segítséget kér.",
+    "incorrect1": "műveletképtelenségét jelzi így.",
+    "incorrect2": "halászhálója a hajózás számára akadályt jelent.",
+    "image": "teszt-2659.jpg",
+    "id": "359"
+  },
+  {
+    "question": "Milyen helyzetre kell felkészülni, ha egy hajóról fémtárgy fémtárgyhoz való (a harangkongatással azonos időtartamú) sorozatos ütésével jeleznek? A jelzéseket leadó hajó (   )",
+    "correct": "veszélyben van, segítséget kér.",
+    "incorrect1": "kormányképtelenségét jelzi.",
+    "incorrect2": "búvármunkát végez.",
+    "image": null,
+    "id": "360"
+  },
+  {
+    "question": "Kishajójával az ábrán látható hajóútszűkülethez érkezik. Behajózhat-e a víziút-szakaszra, ha nem rendelkezik HSz szerinti rádiótelefon-berendezéssel?",
+    "correct": "A kishajón a HSz szerint nem kötelező felszerelés a rádiótelefon (VHF rádió), ezért rádiózás nélkül behajózhatok a szakaszra.",
+    "incorrect1": "A tábla szerint minden hajó számára kötelező rádiótelefon-kapcsolatba lépni, ezért ha nincs rádióm, akkor nem hajózhatok be a szakaszra.",
+    "incorrect2": null,
+    "image": "teszt-2662.jpg",
+    "id": "361"
+  },
+  {
+    "question": "Mit jelent az Ön felé közeledő mellévett alakzat géphajójának egy hosszú hangjelzése?",
+    "correct": "Figyelmeztető jelzést adott.",
+    "incorrect1": "Azt jelezte, hogy jobbra tart.",
+    "incorrect2": "Irányváltoztatás nélkül kíván továbbhajózni.",
+    "image": "teszt-2619.jpg",
+    "id": "362"
+  },
+  {
+    "question": "Kisgéphajójával szembe közeledő evezős csónakok csoportját észleli. Bár kitérési kötelezettsége van, a biztonság érdekében milyen hangjelzést adhat le részükre? ",
+    "correct": "Egy hosszú hangjelzést.",
+    "incorrect1": "Ismételt hosszú hangok sorozatát.",
+    "incorrect2": "Öt rövid hangból álló hangjelzést.",
+    "image": "teszt-2639.jpg",
+    "id": "363"
+  },
+  {
+    "question": "Milyen hangjelzés jelzi azt, ha egy hajó jobbra tart?",
+    "correct": "Egy rövid hangjel.",
+    "incorrect1": "Egy hosszú hangjelzés.",
+    "incorrect2": "Egy hosszú és egy rövid hangból álló hangjelzés.",
+    "image": null,
+    "id": "364"
+  },
+  {
+    "question": "Milyen hangjelzés jelzi azt, ha egy hajó balra tart?",
+    "correct": "Két rövid hangjel.",
+    "incorrect1": "Egy hosszú hangjelzés.",
+    "incorrect2": "Egy hosszú és egy rövid hangból álló hangjelzéssel.",
+    "image": null,
+    "id": "365"
+  },
+  {
+    "question": "Kishajóval hajózva az Ön előtt lévő nagyhajóról három rövid hangból álló hangjelzést hall. Milyen információt jelent ez az Ön részére? A nagyhajó (   )",
+    "correct": "azt jelzi, hogy a propulziós műve (gépi meghajtó berendezése) hátramenetben működik.",
+    "incorrect1": "figyelmeztető jelzést adott le.",
+    "incorrect2": "azt jelzi, hogy balra kíván haladni, és műveletezése elősegítését kéri.",
+    "image": null,
+    "id": "366"
+  },
+  {
+    "question": "Milyen hangjelzéssel jelezheti azt, hogy hajója műveletképtelen?",
+    "correct": "Négy rövid hangból álló hangjelzéssel.",
+    "incorrect1": "Öt rövid hangból álló hangjelzéssel.",
+    "incorrect2": "Egy hosszú és egy rövid hangból álló hangjelzéssel.",
+    "image": null,
+    "id": "367"
+  },
+  {
+    "question": "Milyen hangjelzéssel jelezheti a közvetlen összeütközés veszélyét?",
+    "correct": "Nagyon rövid hangok sorozatával.",
+    "incorrect1": "Öt rövid hangból álló hangjelzéssel.",
+    "incorrect2": "Hosszú hangokból álló hangjelzéssel.",
+    "image": null,
+    "id": "368"
+  },
+  {
+    "question": "A HSz fogalommeghatározása alapján mi minősül korlátozott látási viszonynak?",
+    "correct": "Köd, homály, hóesés, zápor vagy egyéb ok által korlátozott láthatóság.",
+    "incorrect1": "A fedélzeti rakomány által okozott látási holttér.",
+    "incorrect2": "Éjszaka miatt bekövetkező korlátozott láthatóság.",
+    "image": null,
+    "id": "370"
+  },
+  {
+    "question": "Bérelt kishajóján radarkészülék található. Alkalmasnak tekintheti-e ezáltal a HSz szerinti radarhajózásra?",
+    "correct": "Nem, mert ehhez a radarkészüléken kívül más személyi és tárgyi feltételeknek is meg kell felelni.",
+    "incorrect1": "Igen, mert a radarkészülék megléte önmagában alkalmassá teszi a kishajót radarhajózásra.",
+    "incorrect2": null,
+    "image": null,
+    "id": "371"
+  },
+  {
+    "question": "Vonatkozik-e a kishajókra is az az előírás, amely szerint a Duna hajózható szakaszán korlátozott látási viszonyok között minden hajó radarral köteles közlekedni?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": null,
+    "id": "372"
+  },
+  {
+    "question": "Folytassa! Korlátozott látási viszonyok között megálláskor a hajónak a lehetőségekhez mérten (   )",
+    "correct": "fel kell szabadítania a hajóutat.",
+    "incorrect1": "a hajóút menetirány szerinti jobb szélére kell húzódnia.",
+    "incorrect2": "összes fedélzeti- és pozíciófényét fel kell kapcsolnia.",
+    "image": null,
+    "id": "373"
+  },
+  {
+    "question": "Mikor számíthatunk arra, hogy egy radarral közlekedő hajó hangjelzést ad le? Ha a radarképernyőjén (   )",
+    "correct": "olyan hajót észlel, amelynek helyzete vagy mozgása veszélyhelyzetet idézhet elő.",
+    "incorrect1": "hajó tűnik fel, akkor annak azonnal kötelesek hangjelzéssel jelezni.",
+    "incorrect2": null,
+    "image": null,
+    "id": "374"
+  },
+  {
+    "question": "Mikor köteles a kikötő vagy kijelölt veszteglőhely területén kívül veszteglő kishajó harangkongatással jelezni? Korlátozott látási viszonyok között, (   )",
+    "correct": "amikor közeledő hajó hangjelzését hallja.",
+    "incorrect1": "ameddig látási viszonyok nem javulnak, addig folyamatosan.",
+    "incorrect2": null,
+    "image": null,
+    "id": "375"
+  },
+  {
+    "question": "Hogyan tudom megállapítani hallás után egy hajó korlátozott látási viszonyok között leadott jelzéséből azt, hogy menetben van-e, vagy vesztegel?",
+    "correct": "A veszteglő hajó harangkongatással, a menetben lévő hangjelzéssel jelez.",
+    "incorrect1": "A veszteglő hajó hangjelzéssel, a menetben lévő harangkongatással jelez.",
+    "incorrect2": null,
+    "image": null,
+    "id": "376"
+  },
+  {
+    "question": "Milyen menetben lévő nagyhajó vagy kötelék jelez korlátozott látási viszonyok között háromtónusú hangjelzéssel?",
+    "correct": "Radarral völgymenetben haladó.",
+    "incorrect1": "Radarral hegymenetben haladó.",
+    "incorrect2": null,
+    "image": "xxx-3911.jpg",
+    "id": "377"
+  },
+  {
+    "question": "Kishajómmal radar nélkül hajózva ködbe kerülök, a látótávolság 1000 m alá csökken. Folytathatom-e az utam?",
+    "correct": "Igen, de csak a legközelebbi biztonságos horgonyzó- vagy veszteglőhelyig.",
+    "incorrect1": "Nem, azonnal meg kell állnom és le kell horgonyoznom.",
+    "incorrect2": "Igen, a hajóút jobb szélére kihúzódva, a sebességemet lecsökkentve.",
+    "image": null,
+    "id": "378"
+  },
+  {
+    "question": "Milyen hangjelzési kötelezettség hárul korlátozott látási viszonyok között a radar nélkül közlekedő hajóra, ha a legközelebbi biztonságos horgonyzó- vagy veszteglőhelyre hajózik? Köteles (   )",
+    "correct": "legfeljebb egyperces időközönként egy hosszú hangjelzést adni.",
+    "incorrect1": "ismételt hosszú hangjelekkel jelezni.",
+    "incorrect2": null,
+    "image": null,
+    "id": "379"
+  },
+  {
+    "question": "Hány méterben határozza meg a HSz II. része a korlátozott látási viszonyok fogalmát? Ha a látótávolság kisebb, mint (   )",
+    "correct": "1000 m.",
+    "incorrect1": "1500 m.",
+    "incorrect2": "2000 m.",
+    "image": null,
+    "id": "380"
+  },
+  {
+    "question": "Minek tekintjük azt a hajót, amely közvetlenül vagy egyéb módon horgonyon vagy a parthoz, stéghez vagy úszóműhöz kikötve áll?",
+    "correct": "Veszteglőnek.",
+    "incorrect1": "A parthoz képest egy helyben állónak.",
+    "incorrect2": "Menetben lévőnek.",
+    "image": null,
+    "id": "381"
+  },
+  {
+    "question": "Mit jelöl a hajón elhelyezett minden oldalról látható fehér fény?",
+    "correct": "Veszteglő hajót.",
+    "incorrect1": "Menetben lévő géphajót.",
+    "incorrect2": "Veszteglő hajó hajózást veszélyeztető horgonyát.",
+    "image": "xxx-3700.jpg",
+    "id": "382"
+  },
+  {
+    "question": "Mire utal az ábrán látható magányos hajón elhelyezett fekete gömb? Arra, hogy a hajó (   )",
+    "correct": "nyílt helyen vesztegel.",
+    "incorrect1": "manőverképességében korlátozott.",
+    "incorrect2": "műveletképtelen.",
+    "image": "xxx-2207.jpg",
+    "id": "383"
+  },
+  {
+    "question": "Mikor nem kötelező egy kishajónak jeleznie azt, hogy vesztegel?",
+    "correct": "Ha a part mellett vesztegel.",
+    "incorrect1": "Minden esetben jelezni kell azt, hogy a hajó nincs menetben.",
+    "incorrect2": "Korlátozott látási viszonyok között.",
+    "image": null,
+    "id": "384"
+  },
+  {
+    "question": "Kell-e jelzést viselnie annak a kishajónak, amely hajóúton kívül nyilvánvalóan veszélytelen helyzetben vesztegel?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": null,
+    "id": "385"
+  },
+  {
+    "question": "Mit jelölnek az ábrán látható fények? A hajó gyúlékony árut szállít, és (   )",
+    "correct": "nyílt helyen vesztegel.",
+    "incorrect1": "zátonyon fennakadt.",
+    "incorrect2": "menetben van.",
+    "image": "xxx-3704.jpg",
+    "id": "386"
+  },
+  {
+    "question": "Válassza ki, hogy melyik ábra szerinti fények jelzik azt, hogy egy veszteglő hajónak a hajóútban, vagy annak közvetlen közelében hálói vannak kihelyezve?",
+    "correct": "B.",
+    "incorrect1": "A.",
+    "incorrect2": "C.",
+    "image": "teszt-0050.jpg",
+    "id": "387"
+  },
+  {
+    "question": "Válassza ki, hogy melyik ábra szerinti nappali jelzések jelentik azt, hogy egy veszteglő hajónak a hajóútban, vagy annak közvetlen közelében hálói vannak kihelyezve?",
+    "correct": "A.",
+    "incorrect1": "B.",
+    "incorrect2": "C.",
+    "image": "teszt-0054.jpg",
+    "id": "388"
+  },
+  {
+    "question": "Milyen hajót jelölnek az ábrán látható fények?",
+    "correct": "Veszteglő, hullámzás elleni védelemre szoruló hajót.",
+    "incorrect1": "Veszélyes árut szállító, veszteglő hajót.",
+    "incorrect2": "Menetben lévő, keresztező irányban haladó hajót.",
+    "image": "xxx-3727.jpg",
+    "id": "389"
+  },
+  {
+    "question": "Kishajóval vesztegelni készül. A veszteglőhely kiválasztásánál mi az egyik szempont, amelyet a HSz alapján figyelembe kell vennie?",
+    "correct": "Ne akadályozza a hajózást.",
+    "incorrect1": "A hajóút szélén kell kiválasztani a veszteglőhelyet.",
+    "incorrect2": "Parti kötél kiadására legyen lehetőség.",
+    "image": null,
+    "id": "390"
+  },
+  {
+    "question": "Kishajóval vesztegelni készül. A veszteglőhely kiválasztásánál az alábbiak közül mely szempontokat kell a HSz alapján figyelembe vennie?",
+    "correct": "A folyás, a szél, a más hajó által kiváltott szívóhatás és a hullámkeltés.",
+    "incorrect1": "Üzemanyag, ivóvíz, és parti áram vételezés.",
+    "incorrect2": "Vízállásváltozás, partra szállási lehetőség.",
+    "image": null,
+    "id": "391"
+  },
+  {
+    "question": "Vesztegelhet-e kishajóval a tábla hatálya alá tartozó vízterületen?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "teszt-0308.jpg",
+    "id": "392"
+  },
+  {
+    "question": "Megengedi-e a HSz, hogy kishajója kikötéséhez élő fát, mellvédet, oszlopot, kilométerkövet, fémlépcsőt vagy korlátot használjon?",
+    "correct": "Nem, ez tilos.",
+    "incorrect1": "Igen, ha biztosítják a hajó megfelelő rögzítését.",
+    "incorrect2": null,
+    "image": null,
+    "id": "393"
+  },
+  {
+    "question": "Kishajójával megállni készül. Szabad-e ezt közvetlenül az ábrán látható, horgonyon álló, veszélyesáru-szállító hajó mellett megtennie?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "xxx-3732.jpg",
+    "id": "394"
+  },
+  {
+    "question": "Minek tekintjük a HSz fogalom meghatározása szerint a víziúton átkelésre szolgáló, de nem szabadon közlekedő hajókat?",
+    "correct": "Kompnak.",
+    "incorrect1": "Úszóműnek.",
+    "incorrect2": "Kishajónak.",
+    "image": null,
+    "id": "395"
+  },
+  {
+    "question": "Mit ért a HSz az alacsonyvezetésű köteles komp alatt? Olyan nem szabadon közlekedő kompot, melynek kötele a vízfelszín (   )",
+    "correct": "felett kis magasságban van átvezetve.",
+    "incorrect1": "fölé alacsonyan belóg, és nem mozgatható.",
+    "incorrect2": "alatt kis mélységben van átvezetve.",
+    "image": "xxx-1702.jpg",
+    "id": "396"
+  },
+  {
+    "question": "Mit ért a HSz a mélyvezetésű köteles komp alatt? Olyan nem szabadon közlekedő kompot, melynek kötele a vízfelszín (   )",
+    "correct": "alatt a mederfenéken van átvezetve.",
+    "incorrect1": "alatt, a vízállásváltozást követő magasságban van átvezetve.",
+    "incorrect2": "felett kis magasságban van átvezetve.",
+    "image": null,
+    "id": "397"
+  },
+  {
+    "question": "Melyik számú gömböt kell nappal viselniük a kompoknak? Válassza ki az ábráról!",
+    "correct": "3.",
+    "incorrect1": "1.",
+    "incorrect2": "4.",
+    "image": "xxx-0652.jpg",
+    "id": "398"
+  },
+  {
+    "question": "Mi alapján tudja eldönteni, hogy az ábrán látható menetben lévő úszólétesítmény az szabadon közlekedő, vagy köteles komp?",
+    "correct": "Itt a vörös oldalfényből, mert oldalfényeket (és farfényt) csak a szabadon közlekedő komp visel.",
+    "incorrect1": "Ha közelebb érek, akkor a parti táblát megvilágítva informálódok.",
+    "incorrect2": "A villogó sárga fény hiánya jelzi azt, hogy a komp szabadon közlekedő.",
+    "image": "xxx-0712.jpg",
+    "id": "399"
+  },
+  {
+    "question": "Hogyan figyelmeztetheti egy kishajó a veszteglő komp vezetőjét arra, hogy közeledik, és az áthaladáshoz kéri az alacsonyvezetésű kötél leeresztését.",
+    "correct": "Hosszú hangjellel, vagy hangos kiáltással.",
+    "incorrect1": "Nagyon rövid hangsorozattal.",
+    "incorrect2": "Hosszú-rövid-hosszú hangjelzésekkel.",
+    "image": null,
+    "id": "400"
+  },
+  {
+    "question": "Melyik betűjelű villogó fényjelzés jelzi egy alacsonyvezetésű köteles komp kötelének kifeszített állapotát? Válassza ki az ábráról!",
+    "correct": "A.",
+    "incorrect1": "B.",
+    "incorrect2": "C.",
+    "image": "xxx-0664.jpg",
+    "id": "401"
+  },
+  {
+    "question": "Átkelőhöz közeledik. Mit jelez Önnek a kompon látható fehér tábla (vagy zászló)?",
+    "correct": "Az alacsonyvezetésű komp vezetőkötelének leeresztett állapotát.",
+    "incorrect1": "Azt jelzi, hogy a komp nem üzemel.",
+    "incorrect2": "A komp átkelési irányát jelzi.",
+    "image": "xxx-0656.jpg",
+    "id": "402"
+  },
+  {
+    "question": "Átkelőhöz közeledik éjszaka. Milyen kiegészítő fényjelzés jelzi Önnek az alacsonyvezetésű komp vezetőkötelének leeresztett állapotát?",
+    "correct": "Minden oldalról látható, fehér fényű lámpa. ",
+    "incorrect1": "A hajóút felől látható, villogó fehér fény.",
+    "incorrect2": "Más hajókról jól látható, zöld fény.",
+    "image": null,
+    "id": "403"
+  },
+  {
+    "question": "Hogyan kezdeményezheti hajóhíd nyitását a rádióhasználatra nem kötelezett kishajó az alábbiak közül?",
+    "correct": "A híd telefonszámán.",
+    "incorrect1": "Vörös lobogó lengetésével.",
+    "incorrect2": "Nagyon rövid hangsorozattal.",
+    "image": "xxx-2186.jpg",
+    "id": "404"
+  },
+  {
+    "question": "Tihany és Szántód között közlekedő komp útvonala felé hajózom. Mit jelent a zöld lobogót is viselő komp által leadott egy hosszú hangból álló hangjelzés? A komp (   )",
+    "correct": "műveletezésének elősegítését kéri.",
+    "incorrect1": "kikötőből kihajózóként élni kíván elsőbbségi jogával.",
+    "incorrect2": "a kihajózást követően balra kíván haladni.",
+    "image": "xxx-3917.jpg",
+    "id": "405"
+  },
+  {
+    "question": "Melyik tulajdonság igaz az alábbiak közül a HSz fogalom meghatározása szerinti hajóhídra?",
+    "correct": "Ideiglenes és nyitható.",
+    "incorrect1": "Pilléreken álló.",
+    "incorrect2": "Katonai célú.",
+    "image": null,
+    "id": "406"
+  },
+  {
+    "question": "Mennyi az a távolság méterben, amelyen belül nem szabad megközelíteni a zárt hajóhidat?",
+    "correct": "100 méter.",
+    "incorrect1": "70 méter.",
+    "incorrect2": "150 méter.",
+    "image": "xxx-2190.jpg",
+    "id": "407"
+  },
+  {
+    "question": "Melyik táblával jelzik az alábbiak közül a hajóhidat?",
+    "correct": "1.",
+    "incorrect1": "2.",
+    "incorrect2": "3.",
+    "image": "xxx-2204.jpg",
+    "id": "408"
+  },
+  {
+    "question": "Folytassa! Ha az állandó híd egyes nyílásait ajánló jelzésekkel jelölték, a jelzés nélküli nyílásokon (   )",
+    "correct": "a hajó csak a saját kockázatára és felelősségére haladhat át.",
+    "incorrect1": "tilos az áthajózás.",
+    "incorrect2": "csak korlátozott hajóútméretek állnak rendelkezésre.",
+    "image": null,
+    "id": "409"
+  },
+  {
+    "question": "Köteles-e követni a nyitható híd kezelőszemélyzetének a hajózás biztonságára és rendjére vonatkozóan adott utasításait?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": "xxx-1903.jpg",
+    "id": "410"
+  },
+  {
+    "question": "Milyen általános szabályt fogalmaz meg a HSz a nyitható hídhoz közelítő hajóra?",
+    "correct": "Sebességét csökkentenie kell.",
+    "incorrect1": "Kizárólag saját kockázatára és felelősségére haladhat át.",
+    "incorrect2": "Az áthaladás során percenként közölni kell rádión keresztül nevét, helyzetét és sebességét.",
+    "image": "xxx-1908.jpg",
+    "id": "411"
+  },
+  {
+    "question": "Nyitható hídon szeretne áthajózni kishajójával. Meddig közelítheti meg az ábrán látható nyitható hidat, ha rajta egy vörös fényjelzést lát?",
+    "correct": "A parti tábla előtt meg kell állni, és megvárni a híd nyitását.",
+    "incorrect1": "A vörös fény tiltja az áthajózást, a híd előtt 5 méterrel kötelező megállni.",
+    "incorrect2": null,
+    "image": "xxx-1914.jpg",
+    "id": "412"
+  },
+  {
+    "question": "Mit jelent, ha a nyitható hídon (vagy annak mindkét oldalán) függőleges vonalban két vörös fényt lát?",
+    "correct": "A híd nyitása a hajózás számára szünetel.",
+    "incorrect1": "Tilos a kétirányú áthajózás.",
+    "incorrect2": "Az áthaladás tilos, de az indulásra fel kell készülni!",
+    "image": "xxx-1920.jpg",
+    "id": "413"
+  },
+  {
+    "question": "Mit jelent a képen látható nyitható híd két oldalán az egy-egy vörös fény?",
+    "correct": "Az áthaladás tilos.",
+    "incorrect1": "A híd nyitása a hajózás számára szünetel.",
+    "incorrect2": "Műszaki meghibásodást jelez.",
+    "image": "xxx-1903.jpg",
+    "id": "414"
+  },
+  {
+    "question": "Kis magasságú hajójával nyitható hídhoz érkezik, melynek mindkét oldalán egy vörös és egy sárga fényt lát. Áthajózhat-e a híd alatt?",
+    "correct": "Igen, a sárga fény erre utal.",
+    "incorrect1": "Nem, a vörös fény tiltása erősebb.",
+    "incorrect2": null,
+    "image": "xxx-1948.jpg",
+    "id": "415"
+  },
+  {
+    "question": "Kis magasságú hajójával nyitható hídhoz érkezik, melynek mindkét oldalán egy vörös és két sárga fényt lát. Kell-e szembejövő hajóra számítania áthajózva a híd alatt?",
+    "correct": "Nem, mert a kis magasságú hajók áthaladása csak egy irányban engedett.",
+    "incorrect1": "Igen, a kis magasságú hajók áthaladása mindkét irányban megengedett.",
+    "incorrect2": null,
+    "image": "xxx-1981.jpg",
+    "id": "416"
+  },
+  {
+    "question": "Kishajójával nyitható hidat közelít meg. Áthajózhat-e a hídon, ha az ábrán látható fényjelzéseket észleli?",
+    "correct": "Igen.",
+    "incorrect1": "Nem.",
+    "incorrect2": null,
+    "image": "xxx-1908.jpg",
+    "id": "417"
+  },
+  {
+    "question": "Milyen általános szabályt fogalmaz meg a HSz a zsilip várakozóhelyéhez közelítő hajóra?",
+    "correct": "Sebességét csökkentenie kell.",
+    "incorrect1": "Be kell állnia a várakozó hajók mögé a sorba.",
+    "incorrect2": "A várakozóhelyen történő veszteglés mindig horgonyon történik.",
+    "image": null,
+    "id": "418"
+  },
+  {
+    "question": "Számíthat-e arra a kishajó vezetője, hogy zsilipen való áthaladás a várakozóhelyre érkezés sorrendjében fog történni?",
+    "correct": "Nem, mert külön zsilipelésre nem tarthat igényt, továbbá a kamrába is csak a nagyhajók után hajózhat be.",
+    "incorrect1": "Igen, kivéve ha megkülönböztető jelzést viselő mentő- vagy tűzoltóhajó érkezik.",
+    "incorrect2": null,
+    "image": null,
+    "id": "419"
+  },
+  {
+    "question": "Mi a teendője akkor, ha a zsilipkamrába behajózás során annak falain (a rajzon sárga vonalakkal ábrázolt) jelzéseket észlel?",
+    "correct": "Úgy kell megállnom, hogy a hajó ezek között a határok között maradjon.",
+    "incorrect1": "A vonalon belül a gépi meghajtó berendezést már nem szabad használnom.",
+    "incorrect2": "Nagyhajók részére kijelölt terület, kishajóként a vonalon kívül maradok.",
+    "image": "xxx-2021.jpg",
+    "id": "420"
+  },
+  {
+    "question": "Folytassa! A zsilipkamra töltése vagy ürítése alatt annak érdekében, hogy ne ütközzön a kamra falához, a zsilipkapuhoz, védőberendezéshez, más hajóhoz, a kishajót (   )",
+    "correct": "ki kell kötni.",
+    "incorrect1": "alap fordulaton géppel kell a helyén tartani.",
+    "incorrect2": "más hajó mellé kell kötni.",
+    "image": null,
+    "id": "421"
+  },
+  {
+    "question": "Milyen előírás vonatkozik kishajó zsilipben való tartózkodására az alábbiak közül?",
+    "correct": "Úszóképes ütközőt (puffert) kötelező használni.",
+    "incorrect1": "Rá kell kötnie magát más hajóra.",
+    "incorrect2": "Propulziós hajtóművét kötelező a zsilipelés alatt alapjáraton működtetni.",
+    "image": null,
+    "id": "422"
+  },
+  {
+    "question": "Milyen előírás vonatkozik kishajó zsilipben való tartózkodására az alábbiak közül?",
+    "correct": "Más hajótól kellő távolságot kell tartania.",
+    "incorrect1": "Nagyhajó(k) előtt kell elhelyezkednie.",
+    "incorrect2": "Rá kell kötnie magát más hajóra.",
+    "image": null,
+    "id": "423"
+  },
+  {
+    "question": "Kishajójával az ábrán látható zsiliphez érkezik. Mit jelent a zsilip bejáratánál függőleges vonalban látható két vörös fény? A behajózás tilos, (  )",
+    "correct": "a zsilip nem üzemel.",
+    "incorrect1": "a zsilip még nyitási előkészület alatt áll.",
+    "incorrect2": "a kamra feltöltés alatt van.",
+    "image": "teszt-1747.jpg",
+    "id": "424"
+  },
+  {
+    "question": "Kishajójával az ábrán látható zsiliphez érkezik. Mit jelent a zsilip bejáratánál látható vörös fény? A behajózás tilos, (  )",
+    "correct": "a zsilip zárva, vagy nyitási előkészület alatt áll.",
+    "incorrect1": "a zsilip nem üzemel.",
+    "incorrect2": "műszaki meghibásodás miatt.",
+    "image": "teszt-1759.jpg",
+    "id": "425"
+  },
+  {
+    "question": "Kishajójával az ábrán látható zsiliphez érkezik. Mit jelent a zsilip bejáratánál egymás mellett látható két vörös fény? A behajózás tilos, (  )",
+    "correct": "a zsilip zárva.",
+    "incorrect1": "a zsilip még nyitási előkészület alatt áll.",
+    "incorrect2": "a zsilip nem üzemel.",
+    "image": "xxx-2030.jpg",
+    "id": "426"
+  },
+  {
+    "question": "Mit jelent, ha zsilip bejáratánál egymás melletti két vörös fény egyikét lekacsolják (marad egy vörös fény)? A behajózás tilos, (  )",
+    "correct": "de a zsilip nyitásra előkészítés alatt áll.",
+    "incorrect1": "a zsilip nem üzemel.",
+    "incorrect2": "a zsilip zárva.",
+    "image": "xxx-2035.jpg",
+    "id": "427"
+  },
+  {
+    "question": "Kishajójával az ábrán látható zsiliphez érkezik. Mit jelent a zsilip bejáratánál egymás mellett látható egy  vörös és egy zöld fény? A behajózás tilos, (  )",
+    "correct": "de a zsilip nyitásra előkészítés alatt áll.",
+    "incorrect1": "a zsilip nem üzemel.",
+    "incorrect2": "a zsilip zárva.",
+    "image": "xxx-2043.jpg",
+    "id": "428"
+  },
+  {
+    "question": "Kishajójával épp most érkezett az ábrán látható zsiliphez. Behajózhat-e azonnal, bejelentkezés nélkül a zsilipbe, ha annak bejáratánál egy zöld fényt lát, és a kamra is üres?",
+    "correct": "Nem. Bár a zöld fény szabad utat jelent, de a zsilip kezelőszemélyzete határozza meg a behajózás sorrendjét.",
+    "incorrect1": "Igen. Hiszen a zsilipkamra üres, és a zöld jelzés szabad behajózást mutat.",
+    "incorrect2": null,
+    "image": "xxx-2053.jpg",
+    "id": "429"
+  },
+  {
+    "question": "Mit jelent, ha a zsilipkamra kijáratánál egy vörös fényt lát?",
+    "correct": "A kihajózás tilos.",
+    "incorrect1": "Készüljön fel a kihajózásra.",
+    "incorrect2": "A kihajózás tartósan szünetel, várakozzon.",
+    "image": "xxx-2070.jpg",
+    "id": "430"
+  },
+  {
+    "question": "Kihajózhat-e kishajójával a zsilipkamrából, ha a kaput már kinyitották, de a kijáratnál mindkét oldalon egy-egy vörös fényt lát?",
+    "correct": "Nem, a kihajózás még tilos.",
+    "incorrect1": "Nem, mivel műszaki meghibásodás történt.",
+    "incorrect2": "Igen, kishajóval kihajózhatok.",
+    "image": "teszt-1787.jpg",
+    "id": "431"
+  },
+  {
+    "question": "Kihajózhat-e kishajójával a zsilipkamrából, ha a kaput már kinyitották, és a kijáratnál egy zöld fényt lát?",
+    "correct": "Igen, ilyenkor a kihajózás a zsilip kezelőszemélyzetének külön utasítása nélkül is szabad.",
+    "incorrect1": "Nem, addig kell várakozni, amíg a zsilip kezelőszemélyzete ezt szóban meg nem erősíti.",
+    "incorrect2": null,
+    "image": "teszt-1796.jpg",
+    "id": "432"
+  },
+  {
+    "question": "Behajózhat-e kishajójával az ábrán látható zsilipkamrába, ha a kapu nyitva, de a bejáratnál semmilyen fény- vagy táblajelzés nem észlelhető? Ilyen esetben (   )",
+    "correct": "behajóznia a zsilip személyzetének külön engedélye nélkül tilos.",
+    "incorrect1": "saját felelősségére a legnagyobb körültekintéssel haladhat át a zsilipen.",
+    "incorrect2": null,
+    "image": "xxx-2165.jpg",
+    "id": "433"
+  },
+  {
+    "question": "Hogyan rendelkezik a HSz, mikor üzemelnek a hazai tavi kikötők fényjelzései? Eltérő rendelkezés hiányában (   )",
+    "correct": "csak jégmentes időszakban üzemelnek.",
+    "incorrect1": "egész évben üzemelnek.",
+    "incorrect2": null,
+    "image": null,
+    "id": "434"
+  },
+  {
+    "question": "Hogyan határozza meg a HSz a kardinális (kitűző) jeleket? A kardinális jel égtájak szerint annak a körnegyednek a nevét viseli (   )",
+    "correct": "amelyben elhelyezték, és amely irány felől azt kerülni kell.",
+    "incorrect1": "amellyel ellentétes irányban a jelet kerülni kell.",
+    "incorrect2": null,
+    "image": null,
+    "id": "435"
+  },
+  {
+    "question": "Kishajómmal nappal az ábrán látható kardinális jelet észlelem. Melyik égtáj felől, és hajóm melyik oldala felől haladhatok el a bója mellett?",
+    "correct": "Északról, itt a hajóm jobb oldala felől.",
+    "incorrect1": "Délről, itt a hajóm bal oldala felől.",
+    "incorrect2": null,
+    "image": "xxx-0376.jpg",
+    "id": "436"
+  },
+  {
+    "question": "Kishajómmal éjszaka az ábrán látható fényeket észlelem. Melyik égtáj felől, és hajóm melyik oldala felől haladhatok el a kardinális bója mellett?",
+    "correct": "Északról, itt a hajóm bal oldala felől.",
+    "incorrect1": "Délről, itt a hajóm jobb oldala felől.",
+    "incorrect2": null,
+    "image": "teszt-0375.jpg",
+    "id": "437"
+  },
+  {
+    "question": "Milyen kardinális kitűzőjelet lát az ábrán?",
+    "correct": "Déli.",
+    "incorrect1": "Északi.",
+    "incorrect2": "Keleti.",
+    "image": "teszt-0398.jpg",
+    "id": "438"
+  },
+  {
+    "question": "Milyen kardinális kitűzőjel éjszakai fényjelzését látja az ábrán?",
+    "correct": "Déli.",
+    "incorrect1": "Északi.",
+    "incorrect2": "Keleti.",
+    "image": "xxx-0396.jpg",
+    "id": "439"
+  },
+  {
+    "question": "Melyik kardinális kitűzőjel fekete kúp alakú csúcsjelei érintkeznek a csúcsukkal (ahogy az ábrán látható)?",
+    "correct": "Nyugati.",
+    "incorrect1": "Déli.",
+    "incorrect2": "Keleti.",
+    "image": "teszt-0368.jpg",
+    "id": "440"
+  },
+  {
+    "question": "Melyik kardinális kitűzőjel éjszakai jelzése a kilenc gyors felvillanáscsoportból álló összetett fehér fényjelzés (ahogy az ábrán látható)?",
+    "correct": "Nyugati.",
+    "incorrect1": "Keleti.",
+    "incorrect2": "Északi.",
+    "image": "xxx-0405.jpg",
+    "id": "441"
+  },
+  {
+    "question": "Az ábra alapján a bójától melyik égtáj felé van a veszélyes hely (ahol felakadt hajó van), és melyik égtáj felől kell elhajózni a bója mellett?",
+    "correct": "A veszélyes hely a bójától nyugatra található, ezért hajózom el a jel mellett keleti irányban.",
+    "incorrect1": "A veszélyes hely a bójától keletre található, ezért hajózom el a jel mellett nyugati irányban.",
+    "incorrect2": null,
+    "image": "teszt-0373.jpg",
+    "id": "442"
+  },
+  {
+    "question": "Az ábrán látható éjszakai jelzések alapján a bóját melyik égtáj felől kerülve fog majd találkozni a szemből érkező hajóval?",
+    "correct": "Kelet felől.",
+    "incorrect1": "Nyugat felől.",
+    "incorrect2": "Bármelyik irányból.",
+    "image": "teszt-0381.jpg",
+    "id": "443"
+  },
+  {
+    "question": "Milyen tavi jelzés mellett hajózik el a kép alapján?",
+    "correct": "Különálló veszélyes helyeket jelző jel mellett.",
+    "incorrect1": "Északi kardinális jel mellett.",
+    "incorrect2": "A hajóút tengelyét, biztonságos vizeket jelző jel mellett.",
+    "image": "xxx-0431.jpg",
+    "id": "444"
+  },
+  {
+    "question": "Melyik irány felől lehet elhajózni az ábrán látható tavi jel mellett?",
+    "correct": "Bármelyik irányból.",
+    "incorrect1": "Mindig a hajó bal oldala felől.",
+    "incorrect2": "Délről.",
+    "image": "teszt-0387.jpg",
+    "id": "445"
+  },
+  {
+    "question": "Mit jelez tavon éjszaka a két fehér színű felvillanásból álló fénycsoport?",
+    "correct": "A különálló veszélyes helyeket jelöli.",
+    "incorrect1": "A korlátozott rendeltetésű vízterület határait, sarokpontjait jelöli.",
+    "incorrect2": "A hajóút tengelyét jelöli.",
+    "image": "teszt-0415.jpg",
+    "id": "446"
+  },
+  {
+    "question": "Melyik irány felől lehet elhaladni az ábrán látható tavi jel mellett?",
+    "correct": "Bármely oldalról.",
+    "incorrect1": "Délről.",
+    "incorrect2": "A hajó bal oldala felől lehet elhajózni mellette.",
+    "image": "teszt-0414.jpg",
+    "id": "447"
+  },
+  {
+    "question": "Válassza ki a meghatározott rendeltetésű terület (pl. vízi sportpálya, horgonyzóhely stb.) határát jelző jelet!",
+    "correct": "1.",
+    "incorrect1": "2.",
+    "incorrect2": "3.",
+    "image": "teszt-0412.jpg",
+    "id": "448"
+  },
+  {
+    "question": "Mi a jelentése az ábrán látható tavi jelzéseknek?",
+    "correct": "Hajózástól elzárt terület.",
+    "incorrect1": "Süllyedt hajó található a jelzések által körülhatárolt területen.",
+    "incorrect2": "Különálló veszélyes helyeket jelöl.",
+    "image": "teszt-0443.jpg",
+    "id": "449"
+  },
+  {
+    "question": "Mit jelöl az ábrán látható tavi úszó jel?",
+    "correct": "A hajózás számára teljesen tiltott zónát határolja.",
+    "incorrect1": "Különálló veszélyes helyeket.",
+    "incorrect2": "Hajóút tengelyét.",
+    "image": "zzz-0593.jpg",
+    "id": "450"
+  },
+  {
+    "question": "Mit jelöl tavon éjszaka az ábrán látható vörös sávos jel, rajta egy merev háromszög alakú (vörös színű) zászlóval?",
+    "correct": "A hajózás számára teljesen tiltott terület határát.",
+    "incorrect1": "Hajóút tengelyét.",
+    "incorrect2": "Kikötő behajózó csatornájának bal szélét.",
+    "image": "teszt-0450.jpg",
+    "id": "451"
+  },
+  {
+    "question": "Nagyhajók fogadására is alkalmas tavi, kétmólós kikötő felé hajózik nappal. Az ábrán látható jelzések közül melyik betűjelű oszlop észlelhető a jobboldali (X-el jelzett) mólószáron?",
+    "correct": "A.",
+    "incorrect1": "B.",
+    "incorrect2": "C.",
+    "image": "xxx-0475.jpg",
+    "id": "452"
+  },
+  {
+    "question": "Nagyhajók fogadására is alkalmas tavi, kétmólós kikötő felé hajózik nappal. Az ábrán látható jelzések közül melyik betűjelű oszlop észlelhető a baloldali (X-el jelzett) mólószáron?",
+    "correct": "A.",
+    "incorrect1": "B.",
+    "incorrect2": "C.",
+    "image": "xxx-0476.jpg",
+    "id": "453"
+  },
+  {
+    "question": "Milyen jelzéssekkel jelölik a nagyhajók kikötésére alkalmas tavi kétmólós kikötők bejáratát éjszaka? A tó felől nézve minden oldalról látható, (   )",
+    "correct": "jobbról villanó zöld, balról villanó vörös fények.",
+    "incorrect1": "jobbról villanó vörös, balról villanó zöld fények.",
+    "incorrect2": "folyamatosan villanó fehér fények.",
+    "image": null,
+    "id": "454"
+  },
+  {
+    "question": "Nagyhajók fogadására is alkalmas tavi, egymólós, jobbról megközelíthető kikötő (Tihany) felé hajózik éjszaka. Az ábrán látható jelzések közül melyik betűjelű kikötői fényjelzés észlelhető a mólószáron (a +-al jelzett helyen)?",
+    "correct": "B.",
+    "incorrect1": "A.",
+    "incorrect2": "C.",
+    "image": "xxx-0484.jpg",
+    "id": "455"
+  },
+  {
+    "question": "Nagyhajók fogadására is alkalmas tavi, egymólós, balról megközelíthető kikötő (Balatonakali) felé hajózik éjszaka. Az ábrán látható jelzések közül melyik betűjelű kikötői fényjelzés észlelhető a mólószáron (a +-al jelzett helyen)?",
+    "correct": "B.",
+    "incorrect1": "A.",
+    "incorrect2": "C.",
+    "image": "xxx-0486.jpg",
+    "id": "456"
+  },
+  {
+    "question": "Nagyhajók fogadására is alkalmas tavi, egymólós, mindkét oldalról megközelíthető kikötő (Balatonfüred) felé hajózik nappal. Az ábrán látható jelzések közül melyik betűjelű oszlop látható a +-al jelzett mólószáron?",
+    "correct": "C.",
+    "incorrect1": "A.",
+    "incorrect2": "B.",
+    "image": "xxx-0487.jpg",
+    "id": "457"
+  },
+  {
+    "question": "Nagyhajók fogadására is alkalmas tavi, egymólós mindkét oldalról megközelíthető kikötő (Balatonfüred) felé hajózik éjszaka. Az ábrán látható jelzések közül melyik betűjelű kikötői fényjelzés észlelhető a +-al jelzett mólószáron?",
+    "correct": "B.",
+    "incorrect1": "A.",
+    "incorrect2": "C.",
+    "image": "xxx-0488.jpg",
+    "id": "458"
+  },
+  {
+    "question": "Kishajók és csónakok kikötésére alkalmas tavi kétmólós kikötő felé hajózik nappal. Az ábrán látható jelzések közül melyik betűjelű oszlopok láthatóak a bejáratnál a tó felől nézve?",
+    "correct": "C.",
+    "incorrect1": "A.",
+    "incorrect2": "B.",
+    "image": "xxx-0489.jpg",
+    "id": "459"
+  },
+  {
+    "question": "Kishajók és csónakok kikötésére alkalmas tavi kétmólós kikötő felé hajózik éjszaka. Az ábrán látható oszlopok közül melyik betűjelű fények/jelzések láthatóak a bejáratnál a tó felől nézve?",
+    "correct": "C.",
+    "incorrect1": "A.",
+    "incorrect2": "B.",
+    "image": "xxx-0490.jpg",
+    "id": "460"
+  },
+  {
+    "question": "Kishajók és csónakok fogadására alkalmas tavi, egymólós, jobbról megközelíthető kikötő felé hajózik nappal. Az ábrán látható jelzések közül melyik betűjelű oszlop látható a +-al jelzett mólószáron?",
+    "correct": "C.",
+    "incorrect1": "A.",
+    "incorrect2": "B.",
+    "image": "xxx-0495.jpg",
+    "id": "461"
+  },
+  {
+    "question": "Kishajók és csónakok fogadására alkalmas tavi, egymólós, jobbról megközelíthető kikötő felé hajózik éjszaka. Az ábrán látható oszlopok közül melyik betűjelű fény/jelzés látható a +-al jelzett mólószáron?",
+    "correct": "B.",
+    "incorrect1": "A.",
+    "incorrect2": "C.",
+    "image": "xxx-0496.jpg",
+    "id": "462"
+  },
+  {
+    "question": "Kishajók és csónakokok fogadására alkalmas tavi, egymólós, balról megközelíthető kikötő felé hajózik nappal. Az ábrán látható jelzések közül melyik betűjelű oszlop látható a +-al jelzett mólószáron?",
+    "correct": "A.",
+    "incorrect1": "B.",
+    "incorrect2": "C.",
+    "image": "xxx-0497.jpg",
+    "id": "463"
+  },
+  {
+    "question": "Kishajók és csónakokok fogadására alkalmas tavi, egymólós, balról megközelíthető kikötő felé hajózik éjszaka. Az ábrán látható oszlopok közül melyik betűjelű fény/jelzés látható a +-al jelzett mólószáron?",
+    "correct": "C.",
+    "incorrect1": "A.",
+    "incorrect2": "B.",
+    "image": "xxx-0498.jpg",
+    "id": "464"
+  },
+  {
+    "question": "Kishajók és csónakokok fogadására alkalmas tavi, egymólós, mindkét oldalról megközelíthető kikötő felé hajózik nappal. Az ábrán látható jelzések közül melyik betűjelű oszlop látható a +-al jelzett mólószáron?",
+    "correct": "C.",
+    "incorrect1": "A.",
+    "incorrect2": "B.",
+    "image": "xxx-0499.jpg",
+    "id": "465"
+  },
+  {
+    "question": "Kishajók és csónakokok fogadására alkalmas tavi, egymólós, mindkét oldalról megközelíthető kikötő felé hajózik éjszaka. Az ábrán látható oszlopok közül melyik betűjelű fény/jelzés látható a +-al jelzett mólószáron?",
+    "correct": "C.",
+    "incorrect1": "A.",
+    "incorrect2": "B.",
+    "image": "xxx-0500.jpg",
+    "id": "466"
+  },
+  {
+    "question": "Minek a jelzésére alkalmazzák tavon az ábrán látható úszó jeleket nappal? A tó felől nézve (   )",
+    "correct": "a kikötő bejáratához vezető csatorna kitűzésére.",
+    "incorrect1": "tiltott, hajózástól elzárt parti zóna bejárata.",
+    "incorrect2": "meghatározott rendeltetésű területet (pl. vízi sportpálya, horgonyzóhely stb.) bejárata.",
+    "image": "xxx-0501.jpg",
+    "id": "467"
+  },
+  {
+    "question": "Hol alkalmazzák tavon éjszaka a balról vörös, jobbról zöld villanó fénnyel ellátott úszó jeleket? A tó felől nézve (   )",
+    "correct": "a kikötő bejáratához vezető csatorna kitűzésére.",
+    "incorrect1": "tiltott, hajózástól elzárt parti zóna bejárata.",
+    "incorrect2": "meghatározott rendeltetésű területet (pl. vízi sportpálya, horgonyzóhely stb.) bejárata.",
+    "image": "xxx-0504.jpg",
+    "id": "468"
+  },
+  {
+    "question": "Tavi kikötőhöz érkezve nappal, az ábrán látható módon, a szemből közeledő menetrendi személyhajón zöld lobogót lát. Miért viseli ezt a jelzést a hajó?",
+    "correct": "A kikötő térségében más hajótól közlekedésének elősegítését kéri.",
+    "incorrect1": "Csak díszként viseli a zöld lobogót, annak nincs jelentése.",
+    "incorrect2": "A zöld lobogónak kihajózáskor nincs jelentése, csak kikötéskor.",
+    "image": "xxx-2387.jpg",
+    "id": "469"
+  },
+  {
+    "question": "Milyen menetben lévő kötelék visel három árbocfényt az alakzat mellső részén, háromszög alakban elhelyezve (ahogy az ábrán látható)?",
+    "correct": "Tolt kötelék.",
+    "incorrect1": "Mellévett alakzat.",
+    "incorrect2": "Vontatott kötelék.",
+    "image": "xxx-3562.jpg",
+    "id": "470"
+  },
+  {
+    "question": "Válassza ki, hogy melyik betűjelű ábrán látható fények felelnek meg a menetben lévő, 7 m hosszúságot elérő kisgéphajó HSz szerinti fényeinek?",
+    "correct": "A.",
+    "incorrect1": "B.",
+    "incorrect2": "C.",
+    "image": "xxx-3568.jpg",
+    "id": "471"
+  },
+  {
+    "question": "Válassza ki, hogy melyik betűjelű ábrán látható fények felelnek meg a menetben lévő, 7 m hosszúságot elérő kisgéphajó HSz szerinti fényeinek?",
+    "correct": "B.",
+    "incorrect1": "A.",
+    "incorrect2": "C.",
+    "image": "xxx-3520.jpg",
+    "id": "472"
+  },
+  {
+    "question": "Válassza ki, hogy melyik betűjelű ábrán látható fények felelnek meg a menetben lévő, 7 m-nél rövidebb kisgéphajó HSz szerinti fényeinek?",
+    "correct": "B.",
+    "incorrect1": "A.",
+    "incorrect2": "C.",
+    "image": "xxx-1005.jpg",
+    "id": "473"
+  },
+  {
+    "question": "Válassza ki, hogy melyik betűjelű ábrán látható fények felelnek meg a menetben lévő, kizárólag kishajókból álló vontatott kötelék HSz szerinti fényeinek?",
+    "correct": "A.",
+    "incorrect1": "B.",
+    "incorrect2": "C.",
+    "image": "xxx-3574.jpg",
+    "id": "474"
+  },
+  {
+    "question": "Válassza ki, hogy melyik betűjelű ábrán látható fények felelnek meg a menetben lévő, kizárólag kishajókból álló mellévett alakzat HSz szerinti fényeinek?",
+    "correct": "C.",
+    "incorrect1": "A.",
+    "incorrect2": "B.",
+    "image": "xxx-3575.jpg",
+    "id": "475"
+  },
+  {
+    "question": "Mi utal arra az ábrán, hogy az Ön útját keresztező kishajó a közlekedési szabályok szempontjából vitorla hajtásúnak minősül?",
+    "correct": "Nem visel árbocfényt, csak oldalfényt.",
+    "incorrect1": "Nem a hajó legszélesebb helyén viseli a zöld fényt.",
+    "incorrect2": "Látni a vitorlák körvonalait.",
+    "image": "xxx-3503.jpg",
+    "id": "476"
+  },
+  {
+    "question": "Mi utal arra az ábrán, hogy az Ön útját keresztező vitorla hajtású hajó a közlekedési szabályok szempontjából kishajónak minősül?",
+    "correct": "A vörös oldalfény az árbocon látható.",
+    "incorrect1": "Árbocfényt visel.",
+    "incorrect2": "Nincs oldalfénye.",
+    "image": "teszt-2416.jpg",
+    "id": "477"
+  },
+  {
+    "question": "Mi utal arra az ábrán, hogy az Ön útját keresztező, 7 m-nél rövidebb kishajó a közlekedési szabályok szempontjából vitorla hajtásúnak minősül?",
+    "correct": "A felmutatott második fehér fény.",
+    "incorrect1": "Árbocfényt visel.",
+    "incorrect2": "Nincs oldalfénye.",
+    "image": "teszt-2464.jpg",
+    "id": "478"
+  },
+  {
+    "question": "Mi utal arra az ábrán, hogy az Ön útját keresztező kishajó a közlekedési szabályok szempontjából gépi hajtásúnak minősül?",
+    "correct": "Árbocfényt is visel.",
+    "incorrect1": "A vörös fény a hajó orrán.",
+    "incorrect2": "A jelzések alapján a hajó vitorla hajtású.",
+    "image": "teszt-2373.jpg",
+    "id": "479"
+  },
+  {
+    "question": "Kisgéphajómmal éjszaka azt látom, hogy egy olyan hajó keresztezi az utamat, amelyik az ábrán látható fényeket viseli. Kinek kell kitérnie, és miért? A fények alapján a hajó (   )",
+    "correct": "gépi meghajtású kishajónak minősül, ő tér ki az én utamból.",
+    "incorrect1": "vitorlás kishajónak minősül, én térek ki az ő útjából.",
+    "incorrect2": null,
+    "image": "teszt-2502.jpg",
+    "id": "480"
+  },
+  {
+    "question": "Kisgéphajómmal éjszaka azt látom, hogy egy olyan hajóval találkozom, amelyik az ábrán látható fényeket viseli. Kinek kell kitérnie, és miért? A fények alapján a hajó (   )",
+    "correct": "vitorlával haladó kishajónak minősül, én térek ki az útjából.",
+    "incorrect1": "gépi hajtású kishajónak minősül, mindketten jobbra tartunk.",
+    "incorrect2": null,
+    "image": "xxx-2711.jpg",
+    "id": "481"
+  },
+  {
+    "question": "Milyen hajó közeledésére számít, ha azon az ábrán látható fényeket észleli?",
+    "correct": "Vitorlával haladó kishajó.",
+    "incorrect1": "Vitorlás nagyhajó.",
+    "incorrect2": null,
+    "image": "teszt-1899.jpg",
+    "id": "482"
+  },
+  {
+    "question": "Kisgéphajómmal éjszaka azt látom, hogy egy olyan hajóval találkozom, amelyik a közeledésemet észlelve fehér színű fényt mutat fel. A HSz alapján milyen hajóval találkozom?",
+    "correct": "Csónakkal, melynek a hajtási módját (vitorla, gépi, vagy evező) a fény alapján nem lehet eldönteni.",
+    "incorrect1": "7 méternél kisebb testhosszúságú vitorlával haladó kishajóval.",
+    "incorrect2": null,
+    "image": "xxx-2715.jpg",
+    "id": "483"
+  },
+  {
+    "question": "Vitorlás kishajómmal éjszaka azt látom, hogy egy olyan hajóval találkozom, amelyik az ábrán látható fényeket viseli. Kinek kell kitérnie, és miért? A fények alapján a hajó (   )",
+    "correct": "gépi hajtású kishajónak minősül, ő tér ki az utamból.",
+    "incorrect1": "vitorlával haladó kishajónak minősül, mindketten jobbra tartunk.",
+    "incorrect2": null,
+    "image": "teszt-1891.jpg",
+    "id": "484"
+  },
+  {
+    "question": "Mi utal arra az ábrán, hogy az Ön felé közeledő, 7 m-nél rövidebb kishajó a közlekedési szabályok szempontjából gépi hajtásúnak minősül?",
+    "correct": "Nem mutat fel egy második fehér fényt.",
+    "incorrect1": "Árbocfényt visel.",
+    "incorrect2": "Nincsenek oldalfényei.",
+    "image": "xxx-2703.jpg",
+    "id": "485"
+  },
+  {
+    "question": "Milyen közlekedési helyzetben látja az ábra szerinti fényeket viselő hajót?",
+    "correct": "Találkozás.",
+    "incorrect1": "Keresztezés.",
+    "incorrect2": "Előzés.",
+    "image": "xxx-0815.jpg",
+    "id": "486"
+  },
+  {
+    "question": "Kisgéphajójával a sebességét lecsökkentve ad elsőbbséget. Melyik irányban halad át Ön előtt az ábrán látható fényeket viselő gépi hajtású nagyhajó?",
+    "correct": "Balról jobbra.",
+    "incorrect1": "Jobbról balra.",
+    "incorrect2": null,
+    "image": "xxx-0816.jpg",
+    "id": "487"
+  },
+  {
+    "question": "Milyen közlekedési helyzetben látja az ábra szerinti fényeket viselő hajót?",
+    "correct": "Keresztezés.",
+    "incorrect1": "Előzés.",
+    "incorrect2": "Találkozás.",
+    "image": "teszt-0684.jpg",
+    "id": "488"
+  },
+  {
+    "question": "Milyen közlekedési helyzetben látja az ábra szerinti fényeket viselő köteléket?",
+    "correct": "Találkozás.",
+    "incorrect1": "Előzés.",
+    "incorrect2": "Keresztezés.",
+    "image": "teszt-0778.jpg",
+    "id": "489"
+  },
+  {
+    "question": "Kisgéphajójával a sebességét lecsökkentve ad elsőbbséget. Melyik irányban halad át Ön előtt az ábrán látható fényt viselő szabadon közlekedő komp?",
+    "correct": "Jobbról balra.",
+    "incorrect1": "Balról jobbra.",
+    "incorrect2": null,
+    "image": "xxx-0721.jpg",
+    "id": "490"
+  },
+  {
+    "question": "Kisgéphajójával a sebességét lecsökkentve ad elsőbbséget. Melyik irányban halad át Ön előtt az ábrán látható fényt viselő vitorla hajtású hajó?",
+    "correct": "Balról jobbra.",
+    "incorrect1": "Jobbról balra.",
+    "incorrect2": null,
+    "image": "xxx-1469.jpg",
+    "id": "491"
+  },
+  {
+    "question": "Mire kell figyelmet fordítania a kishajó vezetőjének induláskor a HSz alapján, az alábbiak közül?",
+    "correct": "Látási holttérre.",
+    "incorrect1": "Az ütközőballonok indulás előtt be legyenek szedve.",
+    "incorrect2": "Egy rövid hangjellel figyelmeztesse a többi kishajót.",
+    "image": null,
+    "id": "492"
+  },
+  {
+    "question": "Mire kell ügyelnie a kishajó vezetőjének induláskor a HSz alapján, az alábbiak közül?",
+    "correct": "Vízben tartózkodó személyt ne veszélyeztessen.",
+    "incorrect1": "Lehetőleg a partra merőlegesen hagyja el a kikötőt.",
+    "incorrect2": "Egy rövid hangjellel figyelmeztesse a többi kishajót.",
+    "image": null,
+    "id": "493"
+  },
+  {
+    "question": "Milyen távolságban kell kikerülni a vízben tartózkodó személyt vitorlás és evezős kishajóval? Legalább (   )",
+    "correct": "10 m.",
+    "incorrect1": "30 m.",
+    "incorrect2": "20 m.",
+    "image": "xxx-3940.jpg",
+    "id": "494"
+  },
+  {
+    "question": "A biztonság érdekében, az alábbiak közül, mit kell tennie egy kisgéphajó vezetőjének, ha vízben tartózkodó személy közelében halad el?",
+    "correct": "Kiáltással kell figyelmeztetnie.",
+    "incorrect1": "Fényjelzéssel kell villogtatnia.",
+    "incorrect2": "Nagyon rövid hangsorozattal kell jeleznie.",
+    "image": "xxx-3946.jpg",
+    "id": "495"
+  },
+  {
+    "question": "Milyen távolságban kell kikerülni a vízben tartózkodó személyt gépi erővel hajtott kishajóval? Legkevesebb (   )",
+    "correct": "30 m.",
+    "incorrect1": "10 m.",
+    "incorrect2": " 20 m.",
+    "image": null,
+    "id": "496"
+  },
+  {
+    "question": "Milyen sebességkorlátozás vonatkozik gépi hajtású kishajónak a vízben tartózkodó személy közelében történő elhaladására, ha az előírt 30 méteres távolság nem tartható meg? Legfeljebb (   )",
+    "correct": "5 km/h.",
+    "incorrect1": "10 km/h.",
+    "incorrect2": "12 km/h.",
+    "image": "xxx-3946.jpg",
+    "id": "497"
+  },
+  {
+    "question": "Összeütközés veszélye esetén milyen általános (fő) szabály vonatkozik egy gépi erővel haladó kishajó és egy evezővel hajtott kishajó találkozására? Mindkettő úgy köteles (   )",
+    "correct": "jobbra kitérni, hogy bal oldalukkal haladhassanak egymás mellett el.",
+    "incorrect1": "balra kitérni, hogy jobb oldalukkal haladhassanak egymás mellett el.",
+    "incorrect2": null,
+    "image": null,
+    "id": "498"
+  },
+  {
+    "question": "Összeütközés veszélye esetén milyen általános (fő) szabály vonatkozik egy evezővel hajtott kishajó és egy vitorlával haladó kishajó találkozására? Mindkettő úgy köteles (   )",
+    "correct": "jobbra kitérni, hogy bal oldalukkal haladhassanak egymás mellett el.",
+    "incorrect1": "balra kitérni, hogy jobb oldalukkal haladhassanak egymás mellett el.",
+    "incorrect2": null,
+    "image": null,
+    "id": "499"
+  },
+  {
+    "question": "Két kishajó keresztezi egymás útját. Az egyik gépi erővel hajtott, a másik csak vitorlával haladó. Melyikük tér ki a másik útjából?",
+    "correct": "A gépi erővel hajtott tér ki.",
+    "incorrect1": "A vitorlával haladó tér ki.",
+    "incorrect2": null,
+    "image": null,
+    "id": "500"
+  },
+  {
+    "question": "Két kishajó keresztezi egymás útját. Mind a kettő gépi erővel hajtott. Melyikük tér ki a másik útjából?",
+    "correct": "Az tér ki, amelyik a másikat saját jobb oldala felől látja.",
+    "incorrect1": "Az tér ki, amelyik a másikat saját bal oldala felől látja.",
+    "incorrect2": null,
+    "image": null,
+    "id": "501"
+  },
+  {
+    "question": "Az ábra alapján kisgéphajójával egy vitorlás kishajó útját keresztezi. Kitérési kötelezettségét hogyan kell végrehajtania?",
+    "correct": "Elkerülve a másik útvonalának keresztezését.",
+    "incorrect1": "Gyorsítással kell átérni a másik hajó előtt.",
+    "incorrect2": null,
+    "image": "teszt-2460.jpg",
+    "id": "502"
+  },
+  {
+    "question": "Köteles-e kitérni keresztezés esetén a baloldali széllel haladó vitorlás kishajó, annak a vitorlás kishajónak az útjából, akit a szél felőli oldalon lát, és nem tudja meghatározni, hogy milyen széllel halad?",
+    "correct": "Igen, köteles.",
+    "incorrect1": "Nem, mert ilyenkor ő az útjogos.",
+    "incorrect2": null,
+    "image": null,
+    "id": "503"
+  },
+  {
+    "question": "Kinek kell kitérnie két vitorlás kishajó összeütközésének veszélye esetén, ha azonos oldalszéllel vitorláznak?",
+    "correct": "A szél felőli oldalon lévő tér ki.",
+    "incorrect1": "A szél alatti oldalon lévő tér ki.",
+    "incorrect2": null,
+    "image": "xxx-3856.jpg",
+    "id": "504"
+  },
+  {
+    "question": "Kinek kell kitérnie két vitorlás kishajó összeütközésének veszélye esetén, ha különböző oldalirányú széllel vitorláznak?",
+    "correct": "A baloldali széllel vitorlázó tér ki.",
+    "incorrect1": "A jobboldali széllel vitorlázó tér ki.",
+    "incorrect2": null,
+    "image": "xxx-3859.jpg",
+    "id": "505"
+  },
+  {
+    "question": "Az ábrán látható vitorlás kishajók összeütközés-veszélyes úton haladnak. Az 1-es számú jobboldali széllel halad, a 2-es számú csúcsával lefelé álló fekete kúpot visel. Miért a 2-es számú hajó köteles kitérni az 1-es útjából? Azért, mert (   )",
+    "correct": "a fekete kúp azt jelzi, hogy gépi hajtású hajónak tekintendő.",
+    "incorrect1": "a nagyvitorla állása azt jelzi, hogy baloldali széllel halad.",
+    "incorrect2": null,
+    "image": "xxx-3607.jpg",
+    "id": "506"
+  },
+  {
+    "question": "Az ábrán látható vitorlás kishajók összeütközés-veszélyes úton haladnak éjszaka. Miért az 1-es számú hajó köteles kitérni a 2-es útjából? Azért, mert (   )",
+    "correct": "az árbocfény azt jelzi, hogy gépi hajtású hajónak tekintendő.",
+    "incorrect1": "a nagyvitorla állása azt jelzi, hogy baloldali széllel halad.",
+    "incorrect2": null,
+    "image": "xxx-3611.jpg",
+    "id": "507"
+  },
+  {
+    "question": "Gépi erővel hajtott kishajójával egy gépi erővel haladó kishajó útját keresztezi (ahogy az ábrán látható). Kitérési kötelezettségét hogyan kell végrehajtania?",
+    "correct": "Elkerülve a másik útvonalának keresztezését.",
+    "incorrect1": "Gyorsítással kell átérni a másik hajó előtt.",
+    "incorrect2": null,
+    "image": "teszt-2362.jpg",
+    "id": "508"
+  },
+  {
+    "question": "Vitorla mellett gépi erővel hajtott kishajójával egy evezővel haladó kishajó útját keresztezi (ahogy az ábrán látható). Kitérési kötelezettségét hogyan kell végrehajtania?",
+    "correct": "Legalább 30 m távolságot tartva.",
+    "incorrect1": "Maximum 10 m távolságot tartva.",
+    "incorrect2": "Legfeljebb 20 m távolságot tartva.",
+    "image": "teszt-2388.jpg",
+    "id": "509"
+  },
+  {
+    "question": "Kisgéphajómmal völgymenetben, a hajóút menetirány szerinti jobb szélén haladva észlelem a jobbról érkező, evezővel hajtott kishajót. Melyikünk köteleztett elsőbbségadásra, és miért?",
+    "correct": "Én adok elsőbbséget, mert én gépi hajtással haladok, ő pedig evezővel.",
+    "incorrect1": "Ő ad elsőbbséget, mert ő érkezik hajóúton kívülről.",
+    "incorrect2": null,
+    "image": "teszt-2737.jpg",
+    "id": "510"
+  },
+  {
+    "question": "Kisgéphajómmal hegymenetben, a hajóút menetirány szerinti jobb szélén haladva észlelem a jobbról érkező, evezővel hajtott kishajót. Melyikünk köteleztett elsőbbségadásra, és miért?",
+    "correct": "Én adok elsőbbséget, mert én gépi hajtással haladok, ő pedig evezővel.",
+    "incorrect1": "Ő ad elsőbbséget, mert ő érkezik hajóúton kívülről.",
+    "incorrect2": null,
+    "image": "teszt-2863.jpg",
+    "id": "511"
+  },
+  {
+    "question": "Mit kell figyelembe vennie az alábbiak közül, mielőtt az utolért kishajó előzésébe kezdene?",
+    "correct": "A hajóút szélességét, valamennyi helyi körülményt, és más hajók mozgását.",
+    "incorrect1": "Fennáll-e a HSz-ben előírt nagyságú sebességkülönbség a két hajó között.",
+    "incorrect2": "Belegyezett-e az előzésbe az előzött hajó.",
+    "image": "xxx-4006.jpg",
+    "id": "512"
+  },
+  {
+    "question": "Milyen esetben kezdhető meg az az utolért kishajó előzése az alábbiak közül?",
+    "correct": "Ha az előző hajó meggyőződött az előzés veszélytelenségéről.",
+    "incorrect1": "Ha az előzött hajó az előzésbe belegyezett.",
+    "incorrect2": "Ha fennáll a HSz-ben előírt nagyságú sebességkülönbség a két hajó között.",
+    "image": "xxx-4222.jpg",
+    "id": "513"
+  },
+  {
+    "question": "Kisgéphajójával hajózva az ábrán látható szakaszhoz érkezik. Megelőzheti-e a tábla hatálya alá tartozó víziút-szakaszon az Ön előtt evezővel haladó csónakot?",
+    "correct": "Nem, mivel a tábla általános előzési tilalmat jelent.",
+    "incorrect1": "Igen, mivel a kishajókra és csónakokra a tábla nem vonatkozik.",
+    "incorrect2": "Saját felelősségemre és az előttem haladó akadályozása nélkül.",
+    "image": "xxx-4194.jpg",
+    "id": "514"
+  },
+  {
+    "question": "Hogyan kell végrehajtani gépi erővel haladó kishajó és motoros vízi sporteszköz találkozását?",
+    "correct": "Mindkettőnek jobbra kell tartania úgy, hogy az elhaladás a bal oldaluk felől történjen.",
+    "incorrect1": "A motoros vízi sporteszköz élvez elsőbbséget.",
+    "incorrect2": "A kisgéphajó élvez elsőbbséget.",
+    "image": null,
+    "id": "515"
+  },
+  {
+    "question": "Kinek kell kitérnie, ha gépi erővel haladó vízi sporteszköz (jet-ski) és evezővel hajtott csónak találkozik?",
+    "correct": "A gépi erővel hajtottnak kell térnie az evezővel haladó útjából.",
+    "incorrect1": "A csónak köteles a vízi sporteszköz útjából kitérni.",
+    "incorrect2": null,
+    "image": null,
+    "id": "516"
+  },
+  {
+    "question": "Hogyan kell az ábrán látható, két evezővel hajtott csónak találkozását végrehajtani?",
+    "correct": "Mindkettőnek jobbra kell tartania úgy, hogy az elhaladás a bal oldaluk felől történjen.",
+    "incorrect1": "A hegymenetben haladó mindig köteles a völgymenő részére utat engedni.",
+    "incorrect2": null,
+    "image": "xxx-3156.jpg",
+    "id": "517"
+  },
+  {
+    "question": "Kinek kell kitérnie, ha evezővel hajtott csónak és vitorlával haladó vízi sporteszköz találkozik?",
+    "correct": "Az evezővel hajtottnak kell térnie a vitorlával haladó útjából.",
+    "incorrect1": "A vízi sporteszköz köteles a csónak útjából kitérni.",
+    "incorrect2": null,
+    "image": null,
+    "id": "518"
+  },
+  {
+    "question": "Kisgéphajómmal hajózva egy jobbról közeledő gépi erővel haladó csónakot látok meg (ahogy az ábrán látszik). Ki tér ki, és miért?",
+    "correct": "Én térek ki, mivel a jobbról érkezőnek van elsőbbsége.",
+    "incorrect1": "Én térek ki, mivel a csónaknak van elsőbbsége.",
+    "incorrect2": null,
+    "image": "xxx-3020.jpg",
+    "id": "519"
+  },
+  {
+    "question": "Kisgéphajómmal hajózva egy balról közeledő, gépi erővel haladó csónakot látok meg (ahogy az ábrán látszik). Ki tér ki, és miért?",
+    "correct": "Ő tér ki, mivel a jobbról érkezőnek van elsőbbsége.",
+    "incorrect1": "Én térek ki, mivel a csónaknak van elsőbbsége.",
+    "incorrect2": null,
+    "image": "teszt-2825.jpg",
+    "id": "520"
+  },
+  {
+    "question": "Milyen kitérési szabály vonatkozik a gépi erővel haladó kishajók, csónakok, és motoros vízi sporteszközök útirányának egymás közötti keresztezésére?",
+    "correct": "A jobbról érkezőnek van elsőbbsége.",
+    "incorrect1": "A kishajó elsőbbséget élvez a csónakkal szemben.",
+    "incorrect2": "A csónak elsőbbséget élvez a vízi sporteszközzel szemben.",
+    "image": null,
+    "id": "521"
+  },
+  {
+    "question": "Gépi erővel hajtott kishajómmal a hajóút menetirány szerinti jobb szélén haladok hegymenetben. Egy gépi erővel haladó csónak keresztezi utam. Hogyan hajtom végre kitérési kötelezettségemet?",
+    "correct": "Úgy, hogy közben nem változtathatom meg menetirányomat (lassítok).",
+    "incorrect1": "Irányváltoztatással, a másik hajó fara felé kormányozok.",
+    "incorrect2": null,
+    "image": "teszt-2787.jpg",
+    "id": "522"
+  },
+  {
+    "question": "Gépi erővel hajtott kishajómmal a hajóút menetirány szerinti jobb szélén haladok hegymenetben. Egy vitorlával haladó kishajó keresztezi utam. Hogyan hajtom végre kitérési kötelezettségemet?",
+    "correct": "Úgy, hogy közben nem változtathatom meg menetirányomat (lassítok).",
+    "incorrect1": "Irányváltoztatással, a másik hajó fara felé kormányozok.",
+    "incorrect2": null,
+    "image": "teszt-2932.jpg",
+    "id": "523"
+  },
+  {
+    "question": "Vitorlás kishajómmal jobboldali széllel hajózva az utamat egy jobbról közeledő, csúcsával lefelé néző fekete kúpot viselő kishajó keresztezi. Miért Ő tér ki az utamból?",
+    "correct": "Mivel ő gépi erővel halad, én pedig vitorlával.",
+    "incorrect1": "Mivel én jobboldali széllel hajózom.",
+    "incorrect2": null,
+    "image": "xxx-3126.jpg",
+    "id": "524"
+  },
+  {
+    "question": "Vitorlás kishajómmal baloldali széllel hajózva az utamat egy balról közeledő, az ábrán látható fényeket viselő kishajó keresztezi. Ki tér ki, és miért?",
+    "correct": "Ő tér ki, mivel a fények alapján gépi erővel haladónak tekintendő.",
+    "incorrect1": "Én térek ki, mivel én haladok baloldali széllel.",
+    "incorrect2": null,
+    "image": "xxx-3539.jpg",
+    "id": "525"
+  },
+  {
+    "question": "Az ábra alapján tavon, kisgéphajójával találkozik egy evezővel haladó kishajóval. Kitérési kötelezettségét hogyan kell végrehajtania?",
+    "correct": "Legalább 30 m távolságot tartva.",
+    "incorrect1": "Maximum 10 m távolságot tartva.",
+    "incorrect2": "Legfeljebb 25 m távolságot tartva.",
+    "image": "xxx-2707.jpg",
+    "id": "526"
+  },
+  {
+    "question": "Kisgéphajómmal tavi kikötőből kihajózva észlelem a behajózó hajó éjszakai fényeit. Más szabályok szerint kell-e a találkozást végrehajtani itt, mint a nyílt vízen?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "xxx-2769.jpg",
+    "id": "527"
+  },
+  {
+    "question": "Evezővel hajtott kishajómmal tavi kikötőből kihajózva észlelem a behajózó vitorlás csónakot. Más szabályok szerint kell-e a találkozást végrehajtani itt, mint a nyílt vízen?",
+    "correct": "Nem.",
+    "incorrect1": "Igen.",
+    "incorrect2": null,
+    "image": "xxx-2934.jpg",
+    "id": "528"
+  },
+  {
+    "question": "Gépi hajtásúnak minősülő kishajómmal balatoni kikötőből hajózom ki. Közben egy vitorlával haladó kishajóval találkozom. Más szabályok szerint kell-e a találkozást végrehajtani itt, mint a nyílt vízen?",
+    "correct": "Igen, mindketten jobbra tartunk, mivel ilyen hajók esetében a kikötő vízterületén, annak bejáratában, vagy annak 200 m-es körzetében ez a szabály.",
+    "incorrect1": "Nem, ugyanúgy én térek ki itt is, mivel mindenhol a gépi erővel haladó tér ki a vitorlával haladó útjából.",
+    "incorrect2": null,
+    "image": "xxx-2944.jpg",
+    "id": "529"
+  },
+  {
+    "question": "Gépi erővel haladó kishajómmal tavi kikötőbe hajózom be. Eközben balról egy gépi erővel haladó kishajót veszek észre (ahogy az ábrán látszik). Összeütközés-veszély esetén ki tér ki, és miért?",
+    "correct": "Ő tér ki, mivel én érkezem jobbról.",
+    "incorrect1": "Én térek ki, mivel ő közelebb van a kikötőbejárathoz.",
+    "incorrect2": null,
+    "image": "teszt-2843.jpg",
+    "id": "530"
+  },
+  {
+    "question": "Evezővel hajtott kishajómmal tavi kikötőbe hajózom be. Eközben jobbról egy 7 m-nél rövidebb kishajót veszek észre (ahogy az ábrán látszik). Összeütközés-veszély esetén ki tér ki, és miért?",
+    "correct": "Én térek ki, mivel az evezővel hajtott hajó köteles kitérni a vitorlával haladó útjából.",
+    "incorrect1": "Ő tér ki, mivel a gépi hajtású hajó köteles kitérni az evezővel hajtott útjából.",
+    "incorrect2": null,
+    "image": "xxx-4330.jpg",
+    "id": "531"
+  },
+  {
+    "question": "Vitorlás kishajómmal éjszaka tavi kikötőbe hajózom be. Eközben az ábrán látható fényeket viselő hajó keresztezi az utam. Összeütközés-veszély esetén ki tér ki, és miért?",
+    "correct": "Ő tér ki, mivel keresztezéskor a gépi erővel haladó kishajónak kell kitérnie a vitorlás útjából.",
+    "incorrect1": "Én térek ki, mivel mindig a jobbról érkezőnek van elsőbbsége.",
+    "incorrect2": null,
+    "image": "teszt-3623.jpg",
+    "id": "532"
+  },
+  {
+    "question": "Milyen előírás vonatkozik tavainkon kishajók egymás közötti előzésére az alábbiak közül? Az utolért kishajó (   )",
+    "correct": "az előzést nem akadályozhatja.",
+    "incorrect1": "tartson legalább 50 m oldaltávolságot.",
+    "incorrect2": "köteles elviselni az előzést.",
+    "image": null,
+    "id": "533"
+  },
+  {
+    "question": "Vitorlás kishajóval egy lassabban haladó vitorlás kishajót ér utol tavon. Fő szabályként melyik oldalon hajtja végre az előzést?",
+    "correct": "A szél felőli oldalon.",
+    "incorrect1": "A szél alatti oldalon.",
+    "incorrect2": null,
+    "image": "xxx-4450.jpg",
+    "id": "534"
+  },
+  {
+    "question": "Folytassa! Ha tavon közlekedő kisgéphajó vitorlával haladó kishajót ér utol, akkor az előzés során (   )",
+    "correct": "nem okozhat az előzendő hajót veszélyeztető mértékű hullámzást.",
+    "incorrect1": "figyelmeztető hangjelzést kell percenként leadnia.",
+    "incorrect2": "végig 50 méter oldaltávolságot kell tartania.",
+    "image": "xxx-4449.jpg",
+    "id": "535"
+  },
+  {
+    "question": "Folytassa! Ha vitorlás kishajó ér utol egy másik vitorlás kishajót, akkor előzést általában (   )",
+    "correct": "a szél felőli oldalon kell végrehajtani.",
+    "incorrect1": "a szél alatti oldalon kell végrehajtani.",
+    "incorrect2": null,
+    "image": "xxx-4186.jpg",
+    "id": "536"
+  }
+]
