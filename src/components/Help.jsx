@@ -32,6 +32,9 @@ const Help = ({ onClose }) => {
           <i className="bi bi-arrow-clockwise" />: Kérdéssorozat újraindítása
         </li>
         <li>
+          <i className="bi bi-arrows-fullscreen" />: Teljes képernyő mód
+        </li>
+        <li>
           <i className="bi bi-house" />: Vissza a főoldalra
         </li>
       </ul>

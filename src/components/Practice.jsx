@@ -20,6 +20,16 @@ const Practice = () => {
     restartSet,
   } = useAppContext();
 
+  const toFullscreen = () => {
+    if (document.fullscreenElement) {
+      document.exitFullscreen();
+    } else {
+      document.documentElement.requestFullscreen().catch((err) => {
+        console.error("Error attempting to enable full-screen mode:", err);
+      });
+    }
+  };
+
   return (
     <div className={styles.practice}>
       <header>
@@ -70,6 +80,9 @@ const Practice = () => {
           </button>
           <button className="icon-button" onClick={restartSet}>
             <i className="bi bi-arrow-clockwise" />
+          </button>
+          <button className="icon-button" onClick={toFullscreen}>
+            <i className="bi bi-arrows-fullscreen" />
           </button>
           <button
             className="icon-button"
