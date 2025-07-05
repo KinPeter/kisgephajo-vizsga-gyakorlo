@@ -12,6 +12,7 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   padding: 1rem;
   z-index: 1000;
+  overflow-y: auto;
 }
 
 .header {

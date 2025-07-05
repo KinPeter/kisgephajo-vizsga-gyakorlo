@@ -12,13 +12,17 @@ const Help = ({ onClose }) => {
       <p>
         Gyakorló kérdések a Kisgéphajó vezetői elméleti vizsgákhoz. A kérdések a
         KAV honlapjáról lettek letöltve és a 2025. július 5-i állapotot tükrözik
-        (Hajózási szabályzat 2024, hajózási ismeretek 2022).
+        (Hajózási szabályzat 2024, hajózási ismeretek 2022, tengeri kieg. 2023).
       </p>
       <p>
         Az alkalmazás az adott témában a haladást automatikusan menti, és a
         böngészőben tárolja csak, így a kérdések és válaszok nem kerülnek
         elmentésre sehol máshol. Amikor új eszközrről vagy más böngészőből
         nyitod meg az oldalt, akkor a kérdés sorozatok előről indulnak.
+      </p>
+      <p>
+        Helytelen válasz esetén a kérdés visszakerül a sorozat végére, így
+        újrakezdés nélkül is legalább egyszer még meg fog jelenni.
       </p>
       <p>Gyakorlásnál a láblécben található gombok:</p>
       <ul>
@@ -38,6 +42,27 @@ const Help = ({ onClose }) => {
           <i className="bi bi-house" />: Vissza a főoldalra
         </li>
       </ul>
+      <p>
+        <b>Figyelem!</b> Ez egy hobbi projekt, és nem hivatalos alkalmazás. A
+        kérdések és válaszok helyességéért, illetve az alkalmazás kifogástalan
+        működéséért nem tudok felelősséget vállalni. Ha hibát találsz,
+        jelezheted a{" "}
+        <a href="mailto:kinpeter85@gmail.com">kinpeter85@gmail.com</a> email
+        címen, és amennyiben időm engedi, igyekszem javítani.
+      </p>
+      <p>
+        A kérdések és válaszok forrásai a{" "}
+        <a href="https://vizsgakozpont.hu/hajozas/hajos-kepesitesek">
+          Közlekedési Alkalmassági Vizsgaközpont honlapjáról
+        </a>{" "}
+        szabadon letölthető tartalmak.
+      </p>
+      <p>
+        Készítette: Kin Péter, 2025 |{" "}
+        <a href="https://github.com/KinPeter/kisgephajo-vizsga-gyakorlo">
+          GitHub
+        </a>
+      </p>
     </div>
   );
 };

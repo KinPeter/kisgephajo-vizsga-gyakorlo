@@ -5,7 +5,7 @@ import Help from "./Help";
 
 const Home = () => {
   const [isHelpVisible, setIsHelpVisible] = useState(false);
-  const { practiceHsz, practiceHi } = useAppContext();
+  const { practiceHsz, practiceHi, practiceTengeriIv } = useAppContext();
 
   return (
     <div className={styles.home}>
@@ -13,8 +13,9 @@ const Home = () => {
       <div className={styles.buttons}>
         <button onClick={practiceHsz}>Hajózási Szabályzat</button>
         <button onClick={practiceHi}>Hajózási Ismeretek - Kisgéphajó</button>
+        <button onClick={practiceTengeriIv}>Tengeri IV. osztály kieg.</button>
         <button className="outline" onClick={() => setIsHelpVisible(true)}>
-          <i className="bi bi-info-circle" /> Infó
+          <i className="bi bi-info-circle" /> Olvass el!
         </button>
       </div>
       {isHelpVisible && <Help onClose={() => setIsHelpVisible(false)} />}

@@ -23,6 +23,12 @@ export const AppProvider = ({ children }) => {
     setPage(Page.PRACTICE);
   };
 
+  const practiceTengeriIv = () => {
+    setSelectedSet(QuestionSets.TENGERI_IV);
+    setNextQuestion(QuestionSets.TENGERI_IV);
+    setPage(Page.PRACTICE);
+  };
+
   const setNextQuestion = useCallback(
     (set) => {
       const stored = localStorage.getItem(set.storageKey);
@@ -106,6 +112,7 @@ export const AppProvider = ({ children }) => {
     question,
     practiceHi,
     practiceHsz,
+    practiceTengeriIv,
     isRandom,
     setIsRandom,
     doneQuestions,
