@@ -11,7 +11,7 @@ const Help = ({ onClose }) => {
       </div>
       <p>
         Gyakorló kérdések a Kisgéphajó vezetői elméleti vizsgákhoz. A kérdések a
-        KAV honlapjáról lettek letöltve és a 2025. július 5-i állapotot tükrözik
+        KAV honlapjáról lettek letöltve és a 2025. júliusi állapotot tükrözik
         (Hajózási szabályzat 2024, hajózási ismeretek 2022, tengeri kieg. 2023).
       </p>
       <p>
@@ -24,6 +24,7 @@ const Help = ({ onClose }) => {
         Helytelen válasz esetén a kérdés visszakerül a sorozat végére, így
         újrakezdés nélkül is legalább egyszer még meg fog jelenni.
       </p>
+      <p>Mobilról érdemes a teljes képernyős módot használni.</p>
       <p>Gyakorlásnál a láblécben található gombok:</p>
       <ul>
         <li>
@@ -46,20 +47,29 @@ const Help = ({ onClose }) => {
         <b>Figyelem!</b> Ez egy hobbi projekt, és nem hivatalos alkalmazás. A
         kérdések és válaszok helyességéért, illetve az alkalmazás kifogástalan
         működéséért nem tudok felelősséget vállalni. Ha hibát találsz,
-        jelezheted a{" "}
-        <a href="mailto:kinpeter85@gmail.com">kinpeter85@gmail.com</a> email
-        címen, és amennyiben időm engedi, igyekszem javítani.
+        jelezheted az <a href="mailto:kinpeter85@gmail.com">emailemen</a>, és
+        amennyiben időm engedi, igyekszem javítani.
       </p>
       <p>
         A kérdések és válaszok forrásai a{" "}
-        <a href="https://vizsgakozpont.hu/hajozas/hajos-kepesitesek">
+        <a
+          href="https://vizsgakozpont.hu/hajozas/hajos-kepesitesek"
+          target="_blank"
+        >
           Közlekedési Alkalmassági Vizsgaközpont honlapjáról
         </a>{" "}
         szabadon letölthető tartalmak.
       </p>
       <p>
-        Készítette: Kin Péter, 2025 |{" "}
-        <a href="https://github.com/KinPeter/kisgephajo-vizsga-gyakorlo">
+        Készült: 2025{" "}
+        <a href="https://www.p-kin.com" target="_blank">
+          P-Kin.com
+        </a>{" "}
+        |{" "}
+        <a
+          href="https://github.com/KinPeter/kisgephajo-vizsga-gyakorlo"
+          target="_blank"
+        >
           GitHub
         </a>
       </p>

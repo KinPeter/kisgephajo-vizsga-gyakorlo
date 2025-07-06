@@ -1,9 +1,17 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import styles from "./Quiz.module.css";
 
 const Quiz = ({ selectedSet, questionObj, onCorrect, onFail }) => {
   const { id, question, correct, incorrect1, incorrect2, image } = questionObj;
   const [isCorrect, setIsCorrect] = useState(null);
+  const [disabled, setDisabled] = useState(false);
+  const [clickedAnswer, setClickedAnswer] = useState(null);
+
+  useEffect(() => {
+    setIsCorrect(null);
+    setDisabled(false);
+    setClickedAnswer(null);
+  }, [questionObj]);
 
   const imageFolder = useMemo(() => {
     return selectedSet?.imageFolder ? `images/${selectedSet.imageFolder}/` : "";
@@ -19,11 +27,13 @@ const Quiz = ({ selectedSet, questionObj, onCorrect, onFail }) => {
   }, [correct, incorrect1, incorrect2]);
 
   const handleAnswer = (answer) => {
+    setClickedAnswer(answer);
+    setDisabled(true);
     if (answer === correct) {
       setIsCorrect(true);
       setTimeout(() => {
         onCorrect(questionObj);
-      }, 1000); // Delay to show feedback
+      }, 1500); // Delay to show feedback
     } else {
       setIsCorrect(false);
     }
@@ -49,6 +59,15 @@ const Quiz = ({ selectedSet, questionObj, onCorrect, onFail }) => {
             className={styles.answer}
             key={index}
             onClick={() => handleAnswer(answer)}
+            disabled={disabled}
+            style={{
+              backgroundColor:
+                clickedAnswer === answer
+                  ? answer === correct
+                    ? "rgba(0, 255, 0, 0.1)"
+                    : "rgba(255, 0, 0, 0.1)"
+                  : undefined,
+            }}
           >
             {answer}
           </button>

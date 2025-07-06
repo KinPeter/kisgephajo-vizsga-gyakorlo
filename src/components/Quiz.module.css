@@ -41,6 +41,12 @@
   cursor: pointer;
   text-align: left;
   line-height: 1.2;
+
+  &:disabled {
+    background-color: transparent;
+    color: #c0c0c0;
+    cursor: not-allowed;
+  }
 }
 
 .feedbackCorrect {
